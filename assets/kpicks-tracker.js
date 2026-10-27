@@ -368,7 +368,10 @@
     { slug: 'top-5-korean-wellness-daily-energy-picks-amazon', title: '🍵 한국 6년근 홍삼·보양 파우치 리뷰 (Red Ginseng Pouches)', url: '/posts/top-5-korean-wellness-daily-energy-picks-amazon.html' },
     { slug: 'iope-super-vital-cream-6th-gen-review', title: '✨ 아이오페 슈퍼바이탈 크림 6세대 리뷰 (IOPE Super Vital Cream)', url: '/posts/iope-super-vital-cream-6th-gen-review.html' },
     { slug: 'melkin-rx8-smart-treadmill-review', title: '🏃 멜킨 스마트 런닝머신 RX8 리뷰 (Melkin RX8 Treadmill)', url: '/posts/melkin-rx8-smart-treadmill-review.html' },
-    { slug: 'anmyeondo-jurassic-museum-taean-guide', title: '🦖 태안 안면도 쥬라기박물관 가이드 (Anmyeondo Jurassic Museum)', url: '/posts/anmyeondo-jurassic-museum-taean-guide.html' }
+    { slug: 'anmyeondo-jurassic-museum-taean-guide', title: '🦖 태안 안면도 쥬라기박물관 가이드 (Anmyeondo Jurassic Museum)', url: '/posts/anmyeondo-jurassic-museum-taean-guide.html' },
+    { slug: 'dalba-vita-toning-3-piece-set-review', title: '✨ 달바 비타 토닝 3종 세트 리뷰 (d\'Alba Vita Toning Set)', url: '/posts/dalba-vita-toning-3-piece-set-review.html' },
+    { slug: 'bendict-dust-pick-cordless-car-vacuum-review', title: '🚗 벤딕트 더스트픽 무선 차량용 청소기 리뷰 (Bendict Dust Pick)', url: '/posts/bendict-dust-pick-cordless-car-vacuum-review.html' },
+    { slug: 'gwangalli-beach-busan-night-view-drone-show-guide', title: '🌉 부산 광안리해수욕장 & 광안대교 야경 가이드 (Gwangalli Beach Guide)', url: '/posts/gwangalli-beach-busan-night-view-drone-show-guide.html' }
   ];
 
   function renderAdminToast(info, today, yesterday, openByDefault) {

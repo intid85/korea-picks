@@ -35,10 +35,14 @@
 
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
+  width: 100%;
 }
 
 body {
   margin: 0;
+  overflow-x: hidden;
+  width: 100%;
   font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Segoe UI', sans-serif;
   background: var(--slate-50);
   color: var(--slate-900);
@@ -56,9 +60,12 @@ a:hover {
 }
 
 .container {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 0 20px;
+  width: 100%;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 /* Top Utility Bar */
@@ -244,7 +251,7 @@ a:hover {
 
 .hero-grid {
   display: grid;
-  grid-template-columns: 1.45fr 1fr;
+  grid-template-columns: minmax(0, 1.45fr) minmax(0, 1fr);
   gap: 24px;
   align-items: stretch;
 }
@@ -281,7 +288,7 @@ a:hover {
 
 .hero-metrics {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 10px;
 }
 
@@ -364,7 +371,7 @@ a:hover {
 
 .toolbar-top {
   display: grid;
-  grid-template-columns: 1fr auto auto;
+  grid-template-columns: minmax(0, 1fr) auto auto;
   gap: 10px;
   align-items: center;
   margin-bottom: 12px;
@@ -391,6 +398,7 @@ a:hover {
 .continent-tabs {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   gap: 6px;
 }
 
@@ -425,12 +433,14 @@ a:hover {
 /* 3-Column Country Cards Grid */
 .country-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 18px;
   margin-bottom: 32px;
 }
 
 .country-card {
+  min-width: 0;
+  overflow: hidden;
   background: #ffffff;
   border: 1px solid var(--slate-200);
   border-radius: var(--radius-lg);
@@ -559,6 +569,8 @@ a:hover {
 
 .site-info-left {
   min-width: 0;
+  flex: 1 1 0%;
+  overflow: hidden;
 }
 
 .site-link-title {
@@ -573,9 +585,10 @@ a:hover {
 .site-desc-sub {
   font-size: 0.74rem;
   color: var(--slate-500);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  line-height: 1.35;
+  white-space: normal;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
 }
 
 .btn-visit-site {
@@ -617,7 +630,7 @@ a:hover {
 /* 1-Minute Business Trip Briefing Box */
 .briefing-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 6px;
   background: var(--slate-50);
   border: 1px solid var(--slate-200);
@@ -644,7 +657,7 @@ a:hover {
 /* Affiliate Quick Booking Row */
 .card-booking-row {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 5px;
   padding-top: 9px;
   border-top: 1px dashed var(--slate-200);
@@ -795,7 +808,7 @@ a:hover {
 /* Board & Partners Styles */
 .board-layout {
   display: grid;
-  grid-template-columns: 260px 1fr;
+  grid-template-columns: 250px minmax(0, 1fr);
   gap: 20px;
   align-items: start;
 }
@@ -955,7 +968,7 @@ a:hover {
 /* Partner Cards */
 .partners-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 16px;
 }
 
@@ -1028,7 +1041,7 @@ a:hover {
 
 .kb-form-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 10px;
 }
 
@@ -1106,7 +1119,7 @@ a:hover {
 
 .footer-grid {
   display: grid;
-  grid-template-columns: 1.5fr 1fr 1fr;
+  grid-template-columns: minmax(0, 1.5fr) minmax(0, 1fr) minmax(0, 1fr);
   gap: 24px;
   margin-bottom: 20px;
 }
@@ -1146,7 +1159,7 @@ a:hover {
 @media (max-width: 1024px) {
   .country-grid,
   .partners-grid {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
   .hero-grid {
     grid-template-columns: 1fr;
@@ -1180,7 +1193,7 @@ a:hover {
     font-size: 1.45rem;
   }
   .hero-metrics {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
   .toolbar-top {
     grid-template-columns: 1fr;

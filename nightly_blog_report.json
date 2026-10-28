@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-28",
+  "posts": [
+    {
+      "n": 1,
+      "site": "dctrade.co.kr",
+      "title": "d'Alba Vita Toning 3-Piece Set: Toner, Vita-Capsule Serum and Capsule Cream for a 2-Week Dark-Spot Routine",
+      "live_url": "https://dctrade.co.kr/blog/dalba-vita-toning-3-piece-set-toner-serum-capsule-cream.html",
+      "http_status": 200,
+      "drive_folder_url": "https://drive.google.com/drive/folders/1ZqACFsaO3aevlLkyMAa442iBGnU2ulGq",
+      "comments_seeded": 4,
+      "amazon_link": "https://www.amazon.com/s?k=d%27Alba+Vita+Toning&tag=dctrade-20",
+      "indexing": "requested (Search Console, 2026-10-28 00:25 KST)"
+    },
+    {
+      "n": 2,
+      "site": "koreapicks.co.kr",
+      "title": "d'Alba Vita Toning 3-Piece Set Review: Korea's 2-Week Dark-Spot Routine With Vita Capsules",
+      "live_url": "https://koreapicks.co.kr/posts/dalba-vita-toning-3-piece-set-review.html",
+      "http_status": 200,
+      "drive_folder_url": "https://drive.google.com/drive/folders/1ZqACFsaO3aevlLkyMAa442iBGnU2ulGq",
+      "comments_seeded": 3,
+      "amazon_link": "https://www.amazon.com/s?k=d%27Alba+Vita+Toning&tag=dctrade-20",
+      "indexing": "requested (Search Console, 2026-10-28 00:25 KST)"
+    },
+    {
+      "n": 3,
+      "site": "koreapicks.co.kr",
+      "title": "Bendict Dust Pick Review: A Slim Cordless Car Vacuum for Cup Holders and Seat Gaps",
+      "live_url": "https://koreapicks.co.kr/posts/bendict-dust-pick-cordless-car-vacuum-review.html",
+      "http_status": 200,
+      "drive_folder_url": "https://drive.google.com/drive/folders/1VBWjXw1FBCrQomK055YdqPOJXz0ebr6v",
+      "comments_seeded": 2,
+      "amazon_link": "https://www.amazon.com/s?k=Slim+Cordless+Handheld+Car+Vacuum&tag=dctrade-20",
+      "indexing": "requested (Search Console, 2026-10-28 00:25 KST)"
+    },
+    {
+      "n": 4,
+      "site": "koreapicks.co.kr",
+      "title": "Gwangalli Beach Guide: Gwangan Bridge Night Views and the Saturday Drone Light Show in Busan",
+      "live_url": "https://koreapicks.co.kr/posts/gwangalli-beach-busan-night-view-drone-show-guide.html",
+      "http_status": 200,
+      "drive_folder_url": "https://drive.google.com/drive/folders/1JyAat5mO1X28TAMR0N8l3Y7Y6WCn1HTM",
+      "comments_seeded": 4,
+      "amazon_link": "https://www.amazon.com/s?k=Packable+Windbreaker+Jacket&tag=dctrade-20",
+      "indexing": "requested (Search Console, 2026-10-28 00:25 KST)"
+    }
+  ],
+  "errors": [],
+  "notes": [
+    "d'Alba: only 4 real product photos were available (the 5th file is a logo), so both d'Alba posts use 4 photos.",
+    "Gwangalli photos carry KTO/Busan Tourism Organization watermarks (credited, not blurred)."
+  ]
+}

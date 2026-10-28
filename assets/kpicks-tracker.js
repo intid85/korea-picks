@@ -371,7 +371,10 @@
     { slug: 'anmyeondo-jurassic-museum-taean-guide', title: '🦖 태안 안면도 쥬라기박물관 가이드 (Anmyeondo Jurassic Museum)', url: '/posts/anmyeondo-jurassic-museum-taean-guide.html' },
     { slug: 'dalba-vita-toning-3-piece-set-review', title: '✨ 달바 비타 토닝 3종 세트 리뷰 (d\'Alba Vita Toning Set)', url: '/posts/dalba-vita-toning-3-piece-set-review.html' },
     { slug: 'bendict-dust-pick-cordless-car-vacuum-review', title: '🚗 벤딕트 더스트픽 무선 차량용 청소기 리뷰 (Bendict Dust Pick)', url: '/posts/bendict-dust-pick-cordless-car-vacuum-review.html' },
-    { slug: 'gwangalli-beach-busan-night-view-drone-show-guide', title: '🌉 부산 광안리해수욕장 & 광안대교 야경 가이드 (Gwangalli Beach Guide)', url: '/posts/gwangalli-beach-busan-night-view-drone-show-guide.html' }
+    { slug: 'gwangalli-beach-busan-night-view-drone-show-guide', title: '🌉 부산 광안리해수욕장 & 광안대교 야경 가이드 (Gwangalli Beach Guide)', url: '/posts/gwangalli-beach-busan-night-view-drone-show-guide.html' },
+    { slug: 'maxclinic-oil-foam-cleanser-review', title: '✨ 맥스클리닉 반전클렌저 오일투폼 리뷰 (Maxclinic Oil Foam)', url: '/posts/maxclinic-oil-foam-cleanser-review.html' },
+    { slug: 'minix-the-plender-pro-food-waste-disposer-review', title: '🏠 미닉스 더플렌더 PRO 음식물처리기 (Minix The Plender PRO)', url: '/posts/minix-the-plender-pro-food-waste-disposer-review.html' },
+    { slug: 'seoul-forest-park-guide-dog-friendly-walk-seongdong', title: '🌳 서울숲 반려견 산책 가이드 (Seoul Forest Guide)', url: '/posts/seoul-forest-park-guide-dog-friendly-walk-seongdong.html' }
   ];
 
   function renderAdminToast(info, today, yesterday, openByDefault) {

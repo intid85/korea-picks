@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://koreapicks.co.kr/k-biztrip-hub/sitemap.xml

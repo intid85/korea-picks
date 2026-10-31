@@ -1,54 +1,61 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-11-01",
   "posts": [
     {
       "n": 1,
       "site": "dctrade.co.kr",
-      "title": "d'Alba Vita Toning 3-Piece Set: Toner, Vita-Capsule Serum and Capsule Cream for a 2-Week Dark-Spot Routine",
-      "live_url": "https://dctrade.co.kr/blog/dalba-vita-toning-3-piece-set-toner-serum-capsule-cream.html",
+      "title": "The Whoo Gongjinhyang Royal 3-Piece Set Review: How to Use Korea's Royal-Court Skincare Gift Set, Plus Wholesale Sourcing",
+      "live_url": "https://dctrade.co.kr/blog/the-whoo-gongjinhyang-royal-3-piece-gift-set-toner-emulsion-korean-luxury-skincare.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1ZqACFsaO3aevlLkyMAa442iBGnU2ulGq",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1hYXyr6zSWTPtEQvC3ce_ukgovdtTud92",
       "comments_seeded": 4,
-      "amazon_link": "https://www.amazon.com/s?k=d%27Alba+Vita+Toning&tag=dctrade-20",
-      "indexing": "requested (Search Console, 2026-10-28 00:25 KST)"
+      "amazon_link": "https://www.amazon.com/s?k=The+History+of+Whoo+Gongjinhyang+Set&tag=dctrade-20",
+      "indexing": "pending"
     },
     {
       "n": 2,
       "site": "koreapicks.co.kr",
-      "title": "d'Alba Vita Toning 3-Piece Set Review: Korea's 2-Week Dark-Spot Routine With Vita Capsules",
-      "live_url": "https://koreapicks.co.kr/posts/dalba-vita-toning-3-piece-set-review.html",
+      "category": "K-Beauty",
+      "title": "The Whoo Gongjinhyang Royal 3-Piece Set Review: Korea's Royal-Court Skincare Gift, Unboxed",
+      "live_url": "https://koreapicks.co.kr/posts/the-whoo-gongjinhyang-royal-set-review.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1ZqACFsaO3aevlLkyMAa442iBGnU2ulGq",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1hYXyr6zSWTPtEQvC3ce_ukgovdtTud92",
       "comments_seeded": 3,
-      "amazon_link": "https://www.amazon.com/s?k=d%27Alba+Vita+Toning&tag=dctrade-20",
-      "indexing": "requested (Search Console, 2026-10-28 00:25 KST)"
+      "amazon_link": "https://www.amazon.com/s?k=The+History+of+Whoo+Gongjinhyang+Set&tag=dctrade-20",
+      "indexing": "pending"
     },
     {
       "n": 3,
       "site": "koreapicks.co.kr",
-      "title": "Bendict Dust Pick Review: A Slim Cordless Car Vacuum for Cup Holders and Seat Gaps",
-      "live_url": "https://koreapicks.co.kr/posts/bendict-dust-pick-cordless-car-vacuum-review.html",
+      "category": "K-Wellness",
+      "title": "Wellbio Classic Paraffin Bath Review: A Korean Paraffin Hand Spa for Home Use",
+      "live_url": "https://koreapicks.co.kr/posts/wellbio-classic-paraffin-bath-review.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1VBWjXw1FBCrQomK055YdqPOJXz0ebr6v",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1Ogp5wkUZm-n74XoY7UqgMwzOU5NegNZ3",
       "comments_seeded": 2,
-      "amazon_link": "https://www.amazon.com/s?k=Slim+Cordless+Handheld+Car+Vacuum&tag=dctrade-20",
-      "indexing": "requested (Search Console, 2026-10-28 00:25 KST)"
+      "amazon_link": "https://www.amazon.com/s?k=Paraffin+Wax+Bath+for+Hands&tag=dctrade-20",
+      "indexing": "pending"
     },
     {
       "n": 4,
       "site": "koreapicks.co.kr",
-      "title": "Gwangalli Beach Guide: Gwangan Bridge Night Views and the Saturday Drone Light Show in Busan",
-      "live_url": "https://koreapicks.co.kr/posts/gwangalli-beach-busan-night-view-drone-show-guide.html",
+      "category": "Travel (Busan)",
+      "title": "Busan Namparang Trail Guide: Walking Courses 1–5 from Oryukdo to Eulsukdo",
+      "live_url": "https://koreapicks.co.kr/posts/busan-namparang-trail-guide-oryukdo-to-eulsukdo.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1JyAat5mO1X28TAMR0N8l3Y7Y6WCn1HTM",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1b4O3U_d_WJSzpxaUeKcPGlJM9PzxWhET",
       "comments_seeded": 4,
-      "amazon_link": "https://www.amazon.com/s?k=Packable+Windbreaker+Jacket&tag=dctrade-20",
-      "indexing": "requested (Search Console, 2026-10-28 00:25 KST)"
+      "amazon_link": "https://www.amazon.com/s?k=Lightweight+Hiking+Daypack&tag=dctrade-20",
+      "indexing": "pending"
     }
   ],
   "errors": [],
   "notes": [
-    "d'Alba: only 4 real product photos were available (the 5th file is a logo), so both d'Alba posts use 4 photos.",
-    "Gwangalli photos carry KTO/Busan Tourism Organization watermarks (credited, not blurred)."
+    "The Whoo source folder has only 3 real photos (not 5); stated in both posts and Drive summary.",
+    "Amazon links are category/search links (no verified ASIN); affiliate & Travelpayouts links validated by regex only, never fetched.",
+    "Pushes (non-force): duckcheon 18d0846..c68d481, korea-picks origin efb4f2b..29437fa, root intid85.github.io 1572dff..3ec5c11.",
+    "TOC '&amp;amp;' double-escape fixed in tonight's posts; 10-29 posts may still show the same bug (untouched).",
+    "10-30/10-31 runs produced no posts: box appears restored/migrated ~2026-10-29 22:35 KST (all file mtimes identical) and korea-picks origin/root had advanced with another agent's factorymap commits, so plain pushes would have been rejected non-fast-forward (inference; no run logs found). Supabase was healthy.",
+    "Search Console indexing not requested in this run (pending)."
   ]
 }

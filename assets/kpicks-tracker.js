@@ -374,7 +374,10 @@
     { slug: 'gwangalli-beach-busan-night-view-drone-show-guide', title: '🌉 부산 광안리해수욕장 & 광안대교 야경 가이드 (Gwangalli Beach Guide)', url: '/posts/gwangalli-beach-busan-night-view-drone-show-guide.html' },
     { slug: 'maxclinic-oil-foam-cleanser-review', title: '✨ 맥스클리닉 반전클렌저 오일투폼 리뷰 (Maxclinic Oil Foam)', url: '/posts/maxclinic-oil-foam-cleanser-review.html' },
     { slug: 'minix-the-plender-pro-food-waste-disposer-review', title: '🏠 미닉스 더플렌더 PRO 음식물처리기 (Minix The Plender PRO)', url: '/posts/minix-the-plender-pro-food-waste-disposer-review.html' },
-    { slug: 'seoul-forest-park-guide-dog-friendly-walk-seongdong', title: '🌳 서울숲 반려견 산책 가이드 (Seoul Forest Guide)', url: '/posts/seoul-forest-park-guide-dog-friendly-walk-seongdong.html' }
+    { slug: 'seoul-forest-park-guide-dog-friendly-walk-seongdong', title: '🌳 서울숲 반려견 산책 가이드 (Seoul Forest Guide)', url: '/posts/seoul-forest-park-guide-dog-friendly-walk-seongdong.html' },
+    { slug: 'the-whoo-gongjinhyang-royal-set-review', title: '✨ 더후 공진향 궁중 3종 세트 리뷰 (The Whoo Gongjinhyang)', url: '/posts/the-whoo-gongjinhyang-royal-set-review.html' },
+    { slug: 'wellbio-classic-paraffin-bath-review', title: '🍵 웰비오 클래식 파라핀 베스 리뷰 (Wellbio Paraffin Bath)', url: '/posts/wellbio-classic-paraffin-bath-review.html' },
+    { slug: 'busan-namparang-trail-guide-oryukdo-to-eulsukdo', title: '🥾 부산 남파랑길 1~5코스 가이드 (Busan Namparang Trail)', url: '/posts/busan-namparang-trail-guide-oryukdo-to-eulsukdo.html' }
   ];
 
   function renderAdminToast(info, today, yesterday, openByDefault) {

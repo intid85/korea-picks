@@ -25,6 +25,7 @@ table{width:100%;border-collapse:collapse;font-size:13px;margin-top:8px}th,td{pa
 <header><div class="wrap"><a class="back" href="./">← 지도로 돌아가기</a><div class="brand">▣ Factory<span>Map</span> Korea</div></div></header>
 <main><div id="root" class="card"><p class="empty">불러오는 중…</p></div>
 <div id="market" class="card mk"><h2>📈 주변 공장 실거래가</h2><p class="sub">불러오는 중…</p></div>
+<div id="land" class="card mk"><h2>🌾 토지 매매 실거래가</h2><p class="sub">불러오는 중…</p></div>
 <p class="note">데이터 출처: 국토교통부 건축HUB 건축물대장정보(표제부, 주용도=공장). 지도 위치는 주소를 지오코딩한 근사 위치라 실제와 다를 수 있어요.</p></main>
 <script>
 const KAKAO_JS_KEY="53d3a2efe44f300b21e7f1115eec432c";
@@ -56,9 +57,19 @@ const pb=r=>r.bar>0?r.amt/(r.bar/PY):NaN,pl=r=>r.lar>0?r.amt/(r.lar/PY):NaN;cons
 const sets=k=>[{name:sgg+" 전체",c:"#FF385C",g:S(all,k)}].concat(loc.length?[{name:umd,c:"#4338CA",g:S(loc,k)}]:[]);
 const recent=(loc.length?loc:all).slice(-10).reverse();
 el.innerHTML='<h2>📈 주변 공장 실거래가</h2><p class="sub">'+safe(sgg)+(umd?' · '+safe(umd):'')+' 공장 매매 실거래 기준 (국토교통부, 지분거래·해제건 제외) · 갱신 '+safe(T.updated||"")+'</p>'
-+'<div class="kpis"><div class="kpi">최근 12개월 거래<b>'+last.length+'건</b>'+(umd?safe(umd)+' '+lastL.length+'건':'')+'</div><div class="kpi">건물 평당 중위가<b>'+won(med(last.map(pb)))+'</b>원/평 · 최근 12개월</div><div class="kpi">대지 평당 중위가<b>'+won(med(last.map(pl)))+'</b>원/평 · 최근 12개월</div></div>'
-+line("건물면적 기준 평당가 추이","만원/평",sets(pb))+line("대지면적 기준 평당가 추이","만원/평",sets(pl))+line("거래금액 추이","만원",sets(r=>r.amt))
++'<div class="kpis"><div class="kpi">최근 12개월 거래<b>'+last.length+'건</b>'+(umd?safe(umd)+' '+lastL.length+'건':'')+'</div><div class="kpi">건물 평당 중위가<b>'+won(med(last.map(pb)))+'</b>원/평 · 최근 12개월</div><div class="kpi">공장거래 대지 환산 평당가<b>'+won(med(last.map(pl)))+'</b>원/평 · 최근 12개월</div></div>'
++line("건물면적 기준 평당가 추이","만원/평",sets(pb))+line("공장거래 대지면적 환산 평당가 추이","만원/평",sets(pl))+line("거래금액 추이","만원",sets(r=>r.amt))
 +'<h3 style="font-size:15px;margin:20px 0 0">최근 거래 '+(loc.length?'('+safe(umd)+')':'('+safe(sgg)+')')+'</h3><div class="tw"><table><tr><th>거래월</th><th>위치</th><th class="r">거래금액</th><th class="r">건물</th><th class="r">대지</th><th class="r">건축년도</th></tr>'+recent.map(r=>'<tr><td>'+r.ym+'</td><td>'+safe(r.umd)+'</td><td class="r">'+won(r.amt)+'원</td><td class="r">'+(r.bar?Math.round(r.bar/PY).toLocaleString()+'평':'-')+'</td><td class="r">'+(r.lar?Math.round(r.lar/PY).toLocaleString()+'평':'-')+'</td><td class="r">'+safe(r.by||"-")+'</td></tr>').join("")+'</table></div><p class="sub" style="margin-top:10px">※ 실제 신고된 거래만 표시하며, 이 공장 자체의 시세가 아닌 주변 시세 참고용이에요.</p>'}
+
+function landMarket(f,T){const el=document.getElementById("land");const H='<h2>🌾 토지 매매 실거래가</h2>';const sgg=(String(f.address).match(/(\S+[시군])\s/)||[])[1]||f.region,umd=((String(f.address).match(/\(([^)]+)\)/)||[])[1]||"").split(/[ ,]/)[0];
+const all=(T.trades||[]).filter(r=>r.sgg===sgg&&r.amt>0&&r.ar>0);if(!all.length){el.innerHTML=H+'<p class="sub">'+safe(sgg||"이 지역")+'의 토지 실거래 자료가 아직 없어요.</p>';return}
+const ind=all.filter(r=>/공업/.test(r.land)||r.jimok==="공장용지"),loc=umd?all.filter(r=>r.umd.split(" ")[0]===umd):[];const d=new Date();d.setMonth(d.getMonth()-12);const ys=d.toISOString().slice(0,7);const L=a=>a.filter(r=>r.ym>=ys);
+const pp=r=>r.amt/(r.ar/PY);const sets=[{name:sgg+" 전체 토지",c:"#FF385C",g:series(all,pp)}].concat(loc.length?[{name:umd+" 토지",c:"#4338CA",g:series(loc,pp)}]:[]).concat(ind.length?[{name:sgg+" 공업지역·공장용지",c:"#F59E0B",g:series(ind,pp)}]:[]);
+const recent=(loc.length?loc:all).slice(-10).reverse();
+el.innerHTML=H+'<p class="sub">'+safe(sgg)+(umd?' · '+safe(umd):'')+' 토지 매매 실거래 신고 기준 (국토교통부 토지 매매 실거래가, 지분거래·해제건 제외) · 갱신 '+safe(T.updated||"")+'<br>※ 위 공장 거래의 대지 환산값이 아니라, 실제 토지만 거래된 신고 자료예요.</p>'
++'<div class="kpis"><div class="kpi">최근 12개월 토지 거래<b>'+L(all).length.toLocaleString()+'건</b>'+(umd?safe(umd)+' '+L(loc).length+'건':'')+'</div><div class="kpi">'+safe(sgg)+' 토지 평당 중위가<b>'+won(med(L(all).map(pp)))+'</b>원/평 · 최근 12개월</div><div class="kpi">공업지역·공장용지 평당 중위가<b>'+won(med(L(ind).map(pp)))+'</b>원/평 · '+L(ind).length+'건</div></div>'
++line("토지 평당가 추이","만원/평",sets)
++'<h3 style="font-size:15px;margin:20px 0 0">최근 토지 거래 ('+safe(loc.length?umd:sgg)+')</h3><div class="tw"><table><tr><th>거래월</th><th>위치</th><th>지목</th><th>용도지역</th><th class="r">거래금액</th><th class="r">면적</th><th class="r">평당가</th></tr>'+recent.map(r=>'<tr><td>'+r.ym+'</td><td>'+safe(r.umd)+'</td><td>'+safe(r.jimok||"-")+'</td><td>'+safe(r.land||"-")+'</td><td class="r">'+won(r.amt)+'원</td><td class="r">'+Math.round(r.ar/PY).toLocaleString()+'평</td><td class="r">'+won(pp(r))+'원</td></tr>').join("")+'</table></div>'}
 const id=new URLSearchParams(location.search).get("id");let cached=null;try{cached=JSON.parse(sessionStorage.getItem("fm_factory")||"null")}catch(e){}
-fetch("data/factories.json").then(r=>r.json()).then(d=>{const f=d.find(f=>String(f.pk)===id)||(cached&&String(cached.pk||"")===String(id||"")?cached:null);show(f);if(f)fetch("data/trades.json").then(r=>r.json()).then(T=>market(f,T)).catch(()=>{document.getElementById("market").innerHTML='<h2>📈 주변 공장 실거래가</h2><p class="sub">실거래가 준비 중이에요.</p>'});else document.getElementById("market").remove()}).catch(()=>show(cached))
+fetch("data/factories.json").then(r=>r.json()).then(d=>{const f=d.find(f=>String(f.pk)===id)||(cached&&String(cached.pk||"")===String(id||"")?cached:null);show(f);if(f)fetch("data/trades.json").then(r=>r.json()).then(T=>market(f,T)).catch(()=>{document.getElementById("market").innerHTML='<h2>📈 주변 공장 실거래가</h2><p class="sub">실거래가 준비 중이에요.</p>'});if(f)fetch("data/land_trades.json").then(r=>r.json()).then(T=>landMarket(f,T)).catch(()=>{document.getElementById("land").innerHTML='<h2>🌾 토지 매매 실거래가</h2><p class="sub">토지 실거래가 준비 중이에요.</p>'});else{document.getElementById("market").remove();document.getElementById("land").remove()}}).catch(()=>show(cached))
 </script></body></html>

@@ -380,7 +380,10 @@
     { slug: 'busan-namparang-trail-guide-oryukdo-to-eulsukdo', title: '🥾 부산 남파랑길 1~5코스 가이드 (Busan Namparang Trail)', url: '/posts/busan-namparang-trail-guide-oryukdo-to-eulsukdo.html' },
     { slug: 'dalba-waterfull-tone-up-sun-cream-review', title: '✨ 달바 워터풀 톤업 선크림 리뷰 (d\'Alba Waterfull Tone-Up)', url: '/posts/dalba-waterfull-tone-up-sun-cream-review.html' },
     { slug: 'hetras-premium-reed-diffuser-500ml-hotel-wood-review', title: '🏠 헤트라스 프리미엄 디퓨저 500ml 리뷰 (Hetras Diffuser)', url: '/posts/hetras-premium-reed-diffuser-500ml-hotel-wood-review.html' },
-    { slug: 'seoul-sungnyemun-gate-guard-ceremony-guide', title: '🏯 숭례문 파수의식 가이드 (Sungnyemun Guard Ceremony)', url: '/posts/seoul-sungnyemun-gate-guard-ceremony-guide.html' }
+    { slug: 'seoul-sungnyemun-gate-guard-ceremony-guide', title: '🏯 숭례문 파수의식 가이드 (Sungnyemun Guard Ceremony)', url: '/posts/seoul-sungnyemun-gate-guard-ceremony-guide.html' },
+    { slug: 'miracle-muse-aha-bha-medi-cream-review', title: '✨ 미라클뮤즈 아하바하 메디크림 리뷰 (Miracle Muse Medi Cream)', url: '/posts/miracle-muse-aha-bha-medi-cream-review.html' },
+    { slug: 'silvart-carino-square-induction-egg-pan-review', title: '🍳 실바트 까리노 사각 프라이팬 리뷰 (Silvart Carino Pan)', url: '/posts/silvart-carino-square-induction-egg-pan-review.html' },
+    { slug: 'seoul-botanic-park-guide-magok-greenhouse-gangseo', title: '🌿 서울식물원 가이드 (Seoul Botanic Park)', url: '/posts/seoul-botanic-park-guide-magok-greenhouse-gangseo.html' }
   ];
 
   function renderAdminToast(info, today, yesterday, openByDefault) {

@@ -1,61 +1,61 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "posts": [
     {
       "n": 1,
       "site": "dctrade.co.kr",
-      "category": "K-Beauty B2B",
-      "title": "d'Alba Waterfull Tone-Up Sun Cream Review: Which of the 4 Colors Suits Your Skin, Plus Wholesale Sourcing",
-      "live_url": "https://dctrade.co.kr/blog/dalba-waterfull-vegan-tone-up-sun-cream-spf50-4-colors-korean-sunscreen.html",
+      "title": "Miracle Muse AHA BHA Medi Cream Review: A Korean Brightening & Wrinkle-Care Cream for Dark Spots, Plus Wholesale Sourcing",
+      "live_url": "https://dctrade.co.kr/blog/miracle-muse-aha-bha-medi-cream-korean-dark-spot-brightening-cream.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1mYUhVsHejRUS6N5QwLcPVUfMlEUfJrt2",
-      "comments_seeded": 3,
-      "amazon_link": "https://www.amazon.com/s?k=dAlba+Waterfull+Tone+Up+Sun+Cream&tag=dctrade-20",
-      "indexing": "requested (Search Console, 2026-11-02 00:10-00:13 KST)"
+      "drive_folder_url": "https://drive.google.com/drive/folders/1OtqKrrfTwOcHD4LDippkylg-zHgLxdfG",
+      "comments_seeded": 4,
+      "amazon_link": "https://www.amazon.com/s?k=Korean+AHA+BHA+Brightening+Cream&tag=dctrade-20",
+      "indexing": "pending"
     },
     {
       "n": 2,
       "site": "koreapicks.co.kr",
-      "category": "✨ K-Beauty",
-      "title": "d'Alba Waterfull Tone-Up Sun Cream Review: How to Pick Your Color (Lavender, Pink, Mint or Blue)",
-      "live_url": "https://koreapicks.co.kr/posts/dalba-waterfull-tone-up-sun-cream-review.html",
+      "category": "K-Beauty",
+      "title": "Miracle Muse AHA BHA Medi Cream Review: A Gentle Korean Cream for Dark Spots and Uneven Tone",
+      "live_url": "https://koreapicks.co.kr/posts/miracle-muse-aha-bha-medi-cream-review.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1mYUhVsHejRUS6N5QwLcPVUfMlEUfJrt2",
-      "comments_seeded": 2,
-      "amazon_link": "https://www.amazon.com/s?k=dAlba+Waterfull+Tone+Up+Sun+Cream&tag=dctrade-20",
-      "indexing": "requested (Search Console, 2026-11-02 00:10-00:13 KST)"
+      "drive_folder_url": "https://drive.google.com/drive/folders/1OtqKrrfTwOcHD4LDippkylg-zHgLxdfG",
+      "comments_seeded": 3,
+      "amazon_link": "https://www.amazon.com/s?k=Korean+AHA+BHA+Brightening+Cream&tag=dctrade-20",
+      "indexing": "pending"
     },
     {
       "n": 3,
       "site": "koreapicks.co.kr",
-      "category": "🏠 Tech & Gear",
-      "title": "Hetras Premium Reed Diffuser Review: A 500ml × 3 Korean Home Fragrance Set in Hotel Wood",
-      "live_url": "https://koreapicks.co.kr/posts/hetras-premium-reed-diffuser-500ml-hotel-wood-review.html",
+      "category": "Tech & Gear",
+      "title": "Silvart Carino Square Egg Pan Review: A Korean Non-Stick Induction Pan for Rolled Omelets",
+      "live_url": "https://koreapicks.co.kr/posts/silvart-carino-square-induction-egg-pan-review.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/15Z1geob2NQtq-F1wrNbQmVUvIyCH7kCz",
-      "comments_seeded": 4,
-      "amazon_link": "https://www.amazon.com/s?k=Large+Reed+Diffuser+Set&tag=dctrade-20",
-      "indexing": "requested (Search Console, 2026-11-02 00:10-00:13 KST)"
+      "drive_folder_url": "https://drive.google.com/drive/folders/1cKBiMuZGRbpJ5deoJ8slHWMQk0hVMouP",
+      "comments_seeded": 2,
+      "amazon_link": "https://www.amazon.com/s?k=Square+Tamagoyaki+Pan+Induction&tag=dctrade-20",
+      "indexing": "pending"
     },
     {
       "n": 4,
       "site": "koreapicks.co.kr",
-      "category": "✈️ Korea Travel (Seoul)",
-      "title": "Sungnyemun Gate Guard Ceremony Guide: Seoul's Free Joseon Gate-Opening Show at Namdaemun",
-      "live_url": "https://koreapicks.co.kr/posts/seoul-sungnyemun-gate-guard-ceremony-guide.html",
+      "category": "Travel (Seoul)",
+      "title": "Seoul Botanic Park Guide: Magok's Giant Greenhouse, Lake Garden and Wetland Walk",
+      "live_url": "https://koreapicks.co.kr/posts/seoul-botanic-park-guide-magok-greenhouse-gangseo.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1ml1thBMuMoffvgjOHmjSgjirSF2FPxCU",
-      "comments_seeded": 3,
-      "amazon_link": "https://www.amazon.com/s?k=Compact+Windproof+Travel+Umbrella&tag=dctrade-20",
-      "indexing": "requested (Search Console, 2026-11-02 00:10-00:13 KST)"
+      "drive_folder_url": "https://drive.google.com/drive/folders/1i5MxCjzVqFVgebyKkmtSxD9u--pcnvaM",
+      "comments_seeded": 4,
+      "amazon_link": "https://www.amazon.com/s?k=Packable+Lightweight+Travel+Jacket&tag=dctrade-20",
+      "indexing": "pending"
     }
   ],
   "errors": [],
   "notes": [
-    "Only 3 product photos in the Hetras folder show the product, and the Sungnyemun folder has 3 real KTO photos (its PNG infographics were excluded). The d'Alba posts use all 4 listing photos. No AI images were used, and this is stated in the posts.",
-    "Amazon links are category/search links (no verified ASIN). Affiliate and travel links were validated by regex only and never fetched.",
-    "Pushes (non-force): duckcheon c68d481..31d5357, korea-picks origin 87aef6b..eb3b6dc, root intid85.github.io 7066063..d58571d. root/main had diverged with another agent's factorymap commits, so the nightly commit was cherry-picked onto root/main and factorymap was not touched.",
-    "seo_upgrade_helper.py was not run: it's a site-wide upgrader with hardcoded 2026-10-28 dates. The equivalent checks were run on the 4 new posts with validate.py (all OK, no &amp;amp; in the TOC).",
-    "Search Console indexing was not requested in this run (pending — browser step)."
+    "Miracle Muse and Silvart aren't on US Amazon; Amazon links are category search links. Affiliate & Travelpayouts links validated by regex only, never fetched.",
+    "Miracle Muse posts state it's a cosmetic (not a melasma drug); no ingredient percentages claimed (not in source listing).",
+    "Seoul Botanic Park: 6 real KTO photos used (AI-redrawn hero, PNG cards and Unsplash images in Drive excluded). Thematic Garden fee not in source, so readers are told to check the official site.",
+    "korea-picks origin fast-forwarded to latest factorymap commits before building; root intid85.github.io had diverged, so tonight's commit was cherry-picked onto root/main and pushed (non-force).",
+    "seo_upgrade_helper.py not run (site-wide script with hardcoded 2026-10-28 dates); per-post SEO checked with validate.py.",
+    "Search Console indexing not requested in this run (pending)."
   ]
 }

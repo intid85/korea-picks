@@ -63,7 +63,7 @@
     for (var t = 0; t < tripLinks.length; t++) {
       var ta = tripLinks[t];
       var tHref = ta.getAttribute('href') || '';
-      if (!tHref) continue;
+      if (!tHref || tHref.indexOf('tp.media') !== -1) continue;
       ta.setAttribute('target', '_blank');
       ta.setAttribute('rel', 'nofollow sponsored noopener');
       if (tripId) {
@@ -88,7 +88,7 @@
     for (var k = 0; k < klookLinks.length; k++) {
       var ka = klookLinks[k];
       var kHref = ka.getAttribute('href') || '';
-      if (!kHref) continue;
+      if (!kHref || kHref.indexOf('tp.media') !== -1) continue;
       ka.setAttribute('target', '_blank');
       ka.setAttribute('rel', 'nofollow sponsored noopener');
       if (klookId) {
@@ -105,7 +105,7 @@
     for (var g = 0; g < agodaLinks.length; g++) {
       var ga = agodaLinks[g];
       var gHref = ga.getAttribute('href') || '';
-      if (!gHref) continue;
+      if (!gHref || gHref.indexOf('tp.media') !== -1) continue;
       ga.setAttribute('target', '_blank');
       ga.setAttribute('rel', 'nofollow sponsored noopener');
       if (agodaCid) {

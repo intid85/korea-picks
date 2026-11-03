@@ -11,7 +11,7 @@
       "drive_folder_url": "https://drive.google.com/drive/folders/1-OSKg_OLIOikPjqGn0-D480kvFYnKJaw",
       "comments_seeded": 4,
       "amazon_link": "https://www.amazon.com/dp/B0BZ25HBYX?tag=dctrade-20",
-      "indexing": "pending"
+      "indexing": "requested (Search Console URL-prefix property, 2026-11-04 00:22-00:27 KST)"
     },
     {
       "n": 2,
@@ -23,7 +23,7 @@
       "drive_folder_url": "https://drive.google.com/drive/folders/1-OSKg_OLIOikPjqGn0-D480kvFYnKJaw",
       "comments_seeded": 3,
       "amazon_link": "https://www.amazon.com/dp/B0BZ25HBYX?tag=dctrade-20",
-      "indexing": "pending"
+      "indexing": "requested (Search Console URL-prefix property, 2026-11-04 00:22-00:27 KST)"
     },
     {
       "n": 3,
@@ -35,7 +35,7 @@
       "drive_folder_url": "https://drive.google.com/drive/folders/1U-KD9yRm59u7Ay06BVCsH638dSs6Ku4d",
       "comments_seeded": 2,
       "amazon_link": "https://www.amazon.com/s?k=Air+Compression+Leg+Massager&tag=dctrade-20",
-      "indexing": "pending"
+      "indexing": "requested (Search Console URL-prefix property, 2026-11-04 00:22-00:27 KST)"
     },
     {
       "n": 4,
@@ -52,7 +52,7 @@
         "https://tp.media/r?marker=795736&p=4114&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DCheongnyangni%2BSeoul",
         "https://tp.media/r?marker=795736&p=4110&u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DKorea%2BeSIM"
       ],
-      "indexing": "pending"
+      "indexing": "requested (Search Console URL-prefix property, 2026-11-04 00:22-00:27 KST)"
     }
   ],
   "errors": [],
@@ -65,6 +65,6 @@
     "Candidates rejected: sleepnsleep pillow (images contain Korean text + celebrity), d'Alba mist (only 4 real photos).",
     "seo_upgrade_helper.py not run; per-post SEO checked with validate.py.",
     "korea-picks pushed to origin; commits cherry-picked onto root intid85.github.io main and pushed non-force. No force pushes.",
-    "Search Console indexing not requested in this run (pending)."
+    "Search Console indexing requested for all 4 URLs (all were 'not on Google' before); post 2 needed one retry after a transient error."
   ]
 }

@@ -1,61 +1,70 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "posts": [
     {
       "n": 1,
       "site": "dctrade.co.kr",
-      "title": "Miracle Muse AHA BHA Medi Cream Review: A Korean Brightening & Wrinkle-Care Cream for Dark Spots, Plus Wholesale Sourcing",
-      "live_url": "https://dctrade.co.kr/blog/miracle-muse-aha-bha-medi-cream-korean-dark-spot-brightening-cream.html",
+      "category": "K-Beauty B2B",
+      "title": "OFFON Keep Calm and Cooling Body Wash Review: Korean Salicylic Acid Body Wash for Back Acne, Plus Wholesale Sourcing",
+      "live_url": "https://dctrade.co.kr/blog/offon-keep-calm-and-cooling-body-wash-korean-salicylic-acid-body-acne-wash.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1OtqKrrfTwOcHD4LDippkylg-zHgLxdfG",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1-OSKg_OLIOikPjqGn0-D480kvFYnKJaw",
       "comments_seeded": 4,
-      "amazon_link": "https://www.amazon.com/s?k=Korean+AHA+BHA+Brightening+Cream&tag=dctrade-20",
-      "indexing": "requested (Search Console URL-prefix property, 2026-11-03 00:19-00:26 KST)"
+      "amazon_link": "https://www.amazon.com/dp/B0BZ25HBYX?tag=dctrade-20",
+      "indexing": "pending"
     },
     {
       "n": 2,
       "site": "koreapicks.co.kr",
       "category": "K-Beauty",
-      "title": "Miracle Muse AHA BHA Medi Cream Review: A Gentle Korean Cream for Dark Spots and Uneven Tone",
-      "live_url": "https://koreapicks.co.kr/posts/miracle-muse-aha-bha-medi-cream-review.html",
+      "title": "OFFON Keep Calm and Cooling Body Wash Review: A Korean Salicylic Acid Body Wash for Back Acne",
+      "live_url": "https://koreapicks.co.kr/posts/offon-keep-calm-and-cooling-body-wash-review.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1OtqKrrfTwOcHD4LDippkylg-zHgLxdfG",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1-OSKg_OLIOikPjqGn0-D480kvFYnKJaw",
       "comments_seeded": 3,
-      "amazon_link": "https://www.amazon.com/s?k=Korean+AHA+BHA+Brightening+Cream&tag=dctrade-20",
-      "indexing": "requested (Search Console URL-prefix property, 2026-11-03 00:19-00:26 KST)"
+      "amazon_link": "https://www.amazon.com/dp/B0BZ25HBYX?tag=dctrade-20",
+      "indexing": "pending"
     },
     {
       "n": 3,
       "site": "koreapicks.co.kr",
-      "category": "Tech & Gear",
-      "title": "Silvart Carino Square Egg Pan Review: A Korean Non-Stick Induction Pan for Rolled Omelets",
-      "live_url": "https://koreapicks.co.kr/posts/silvart-carino-square-induction-egg-pan-review.html",
+      "category": "K-Wellness",
+      "title": "Dr.Well Airwave DR-5180 Review: A Korean Air Compression Leg Massager for Tired, Swollen Legs",
+      "live_url": "https://koreapicks.co.kr/posts/drwell-airwave-dr-5180-leg-air-compression-massager-review.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1cKBiMuZGRbpJ5deoJ8slHWMQk0hVMouP",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1U-KD9yRm59u7Ay06BVCsH638dSs6Ku4d",
       "comments_seeded": 2,
-      "amazon_link": "https://www.amazon.com/s?k=Square+Tamagoyaki+Pan+Induction&tag=dctrade-20",
-      "indexing": "requested (Search Console URL-prefix property, 2026-11-03 00:19-00:26 KST)"
+      "amazon_link": "https://www.amazon.com/s?k=Air+Compression+Leg+Massager&tag=dctrade-20",
+      "indexing": "pending"
     },
     {
       "n": 4,
       "site": "koreapicks.co.kr",
       "category": "Travel (Seoul)",
-      "title": "Seoul Botanic Park Guide: Magok's Giant Greenhouse, Lake Garden and Wetland Walk",
-      "live_url": "https://koreapicks.co.kr/posts/seoul-botanic-park-guide-magok-greenhouse-gangseo.html",
+      "title": "Hongneung Forest Guide: Seoul's Free Arboretum and Korea's First Research Forest in Dongdaemun",
+      "live_url": "https://koreapicks.co.kr/posts/hongneung-forest-seoul-guide-korea-first-arboretum-dongdaemun.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1i5MxCjzVqFVgebyKkmtSxD9u--pcnvaM",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1amv_XnXefnm2D31fVIBq6q2JdW7TK4l1",
       "comments_seeded": 4,
-      "amazon_link": "https://www.amazon.com/s?k=Packable+Lightweight+Travel+Jacket&tag=dctrade-20",
-      "indexing": "requested (Search Console URL-prefix property, 2026-11-03 00:19-00:26 KST)"
+      "amazon_link": null,
+      "travel_links": [
+        "https://tp.media/r?marker=795736&p=4110&u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DSeoul%2Btours",
+        "https://tp.media/r?marker=795736&p=4114&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DCheongnyangni%2BSeoul",
+        "https://tp.media/r?marker=795736&p=4110&u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DKorea%2BeSIM"
+      ],
+      "indexing": "pending"
     }
   ],
   "errors": [],
   "notes": [
-    "Miracle Muse and Silvart aren't on US Amazon; Amazon links are category search links. Affiliate & Travelpayouts links validated by regex only, never fetched.",
-    "Miracle Muse posts state it's a cosmetic (not a melasma drug); no ingredient percentages claimed (not in source listing).",
-    "Seoul Botanic Park: 6 real KTO photos used (AI-redrawn hero, PNG cards and Unsplash images in Drive excluded). Thematic Garden fee not in source, so readers are told to check the official site.",
-    "korea-picks origin fast-forwarded to latest factorymap commits before building; root intid85.github.io had diverged, so tonight's commit was cherry-picked onto root/main and pushed (non-force).",
-    "seo_upgrade_helper.py not run (site-wide script with hardcoded 2026-10-28 dates); per-post SEO checked with validate.py.",
+    "OFFON Keep Calm and Cooling Body Wash is on US Amazon (ASIN B0BZ25HBYX); direct dp link used in posts 1-2. Dr.Well DR-5180 isn't on US Amazon (220V), so post 3 uses a category search link.",
+    "Post 4 (travel) uses only Travelpayouts marker 795736 links (Klook Seoul tours, Trip.com Cheongnyangni hotels, Klook Korea eSIM; each placed twice). Regex check: 0 amazon.com / dctrade-20 links.",
+    "Affiliate & Travelpayouts URLs validated by regex on HTML source only, never fetched. HTTP checks only on our 4 own post URLs.",
+    "Hongneung: official NIFOS/VisitSeoul info used over the Drive draft (draft said weekday guided-tour booking only; since 2026-03-28 free walk-in Tue-Sun). Free admission verified via VisitSeoul; phone corrected to +82-2-961-2521.",
+    "Unverified INCI specifics removed from OFFON posts; Dr.Well heat/waist claims from draft excluded (not in official spec).",
+    "Candidates rejected: sleepnsleep pillow (images contain Korean text + celebrity), d'Alba mist (only 4 real photos).",
+    "seo_upgrade_helper.py not run; per-post SEO checked with validate.py.",
+    "korea-picks pushed to origin; commits cherry-picked onto root intid85.github.io main and pushed non-force. No force pushes.",
     "Search Console indexing not requested in this run (pending)."
   ]
 }

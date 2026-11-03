@@ -383,7 +383,10 @@
     { slug: 'seoul-sungnyemun-gate-guard-ceremony-guide', title: '🏯 숭례문 파수의식 가이드 (Sungnyemun Guard Ceremony)', url: '/posts/seoul-sungnyemun-gate-guard-ceremony-guide.html' },
     { slug: 'miracle-muse-aha-bha-medi-cream-review', title: '✨ 미라클뮤즈 아하바하 메디크림 리뷰 (Miracle Muse Medi Cream)', url: '/posts/miracle-muse-aha-bha-medi-cream-review.html' },
     { slug: 'silvart-carino-square-induction-egg-pan-review', title: '🍳 실바트 까리노 사각 프라이팬 리뷰 (Silvart Carino Pan)', url: '/posts/silvart-carino-square-induction-egg-pan-review.html' },
-    { slug: 'seoul-botanic-park-guide-magok-greenhouse-gangseo', title: '🌿 서울식물원 가이드 (Seoul Botanic Park)', url: '/posts/seoul-botanic-park-guide-magok-greenhouse-gangseo.html' }
+    { slug: 'seoul-botanic-park-guide-magok-greenhouse-gangseo', title: '🌿 서울식물원 가이드 (Seoul Botanic Park)', url: '/posts/seoul-botanic-park-guide-magok-greenhouse-gangseo.html' },
+    { slug: 'offon-keep-calm-and-cooling-body-wash-review', title: '🚿 오프온 킵캄 쿨링 바디워시 리뷰 (OFFON Cooling Body Wash)', url: '/posts/offon-keep-calm-and-cooling-body-wash-review.html' },
+    { slug: 'drwell-airwave-dr-5180-leg-air-compression-massager-review', title: '🦵 닥터웰 에어웨이브 다리 공기압 마사지기 리뷰 (Dr.Well Airwave)', url: '/posts/drwell-airwave-dr-5180-leg-air-compression-massager-review.html' },
+    { slug: 'hongneung-forest-seoul-guide-korea-first-arboretum-dongdaemun', title: '🌲 홍릉숲 가이드 (Hongneung Forest)', url: '/posts/hongneung-forest-seoul-guide-korea-first-arboretum-dongdaemun.html' }
   ];
 
   function renderAdminToast(info, today, yesterday, openByDefault) {

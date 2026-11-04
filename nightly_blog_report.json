@@ -1,70 +1,69 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "posts": [
     {
       "n": 1,
       "site": "dctrade.co.kr",
       "category": "K-Beauty B2B",
-      "title": "OFFON Keep Calm and Cooling Body Wash Review: Korean Salicylic Acid Body Wash for Back Acne, Plus Wholesale Sourcing",
-      "live_url": "https://dctrade.co.kr/blog/offon-keep-calm-and-cooling-body-wash-korean-salicylic-acid-body-acne-wash.html",
+      "title": "Centellian24 The Madeca Cream Review: Korea's Best-Selling Centella Cica Cream (Season 6), Plus Wholesale Sourcing",
+      "live_url": "https://dctrade.co.kr/blog/centellian24-the-madeca-cream-season-6-korean-centella-cica-cream.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1-OSKg_OLIOikPjqGn0-D480kvFYnKJaw",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1giM1iD4b_zjzD0w-GV1EHXD--SUh8WTI",
       "comments_seeded": 4,
-      "amazon_link": "https://www.amazon.com/dp/B0BZ25HBYX?tag=dctrade-20",
-      "indexing": "requested (Search Console URL-prefix property, 2026-11-04 00:22-00:27 KST)"
+      "amazon_link": "https://www.amazon.com/dp/B0BS2T3QYF?tag=dctrade-20",
+      "indexing": "pending"
     },
     {
       "n": 2,
       "site": "koreapicks.co.kr",
       "category": "K-Beauty",
-      "title": "OFFON Keep Calm and Cooling Body Wash Review: A Korean Salicylic Acid Body Wash for Back Acne",
-      "live_url": "https://koreapicks.co.kr/posts/offon-keep-calm-and-cooling-body-wash-review.html",
+      "title": "Centellian24 The Madeca Cream Review: Korea's Pharmacy-Born Centella Cream (Season 6), Tested Against the Hype",
+      "live_url": "https://koreapicks.co.kr/posts/centellian24-the-madeca-cream-review.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1-OSKg_OLIOikPjqGn0-D480kvFYnKJaw",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1giM1iD4b_zjzD0w-GV1EHXD--SUh8WTI",
       "comments_seeded": 3,
-      "amazon_link": "https://www.amazon.com/dp/B0BZ25HBYX?tag=dctrade-20",
-      "indexing": "requested (Search Console URL-prefix property, 2026-11-04 00:22-00:27 KST)"
+      "amazon_link": "https://www.amazon.com/dp/B0BS2T3QYF?tag=dctrade-20",
+      "indexing": "pending"
     },
     {
       "n": 3,
       "site": "koreapicks.co.kr",
-      "category": "K-Wellness",
-      "title": "Dr.Well Airwave DR-5180 Review: A Korean Air Compression Leg Massager for Tired, Swollen Legs",
-      "live_url": "https://koreapicks.co.kr/posts/drwell-airwave-dr-5180-leg-air-compression-massager-review.html",
+      "category": "Tech & Gear",
+      "title": "VENDICT SURGE Cordless Air Blower Review: A Korean 750W Brushless Car Dryer and Jet Blower",
+      "live_url": "https://koreapicks.co.kr/posts/vendict-surge-cordless-air-blower-car-dryer-review.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1U-KD9yRm59u7Ay06BVCsH638dSs6Ku4d",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1jv_cr1eRTuI0Cu_py8FO90enUEhB9V97",
       "comments_seeded": 2,
-      "amazon_link": "https://www.amazon.com/s?k=Air+Compression+Leg+Massager&tag=dctrade-20",
-      "indexing": "requested (Search Console URL-prefix property, 2026-11-04 00:22-00:27 KST)"
+      "amazon_link": "https://www.amazon.com/s?k=cordless+air+blower+car+dryer+brushless&tag=dctrade-20",
+      "indexing": "pending"
     },
     {
       "n": 4,
       "site": "koreapicks.co.kr",
       "category": "Travel (Seoul)",
-      "title": "Hongneung Forest Guide: Seoul's Free Arboretum and Korea's First Research Forest in Dongdaemun",
-      "live_url": "https://koreapicks.co.kr/posts/hongneung-forest-seoul-guide-korea-first-arboretum-dongdaemun.html",
+      "title": "Amsa-dong Prehistoric Settlement Site Guide: Seoul's 6,000-Year-Old Neolithic Village in Gangdong",
+      "live_url": "https://koreapicks.co.kr/posts/amsa-dong-prehistoric-settlement-site-seoul-neolithic-village-guide.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1amv_XnXefnm2D31fVIBq6q2JdW7TK4l1",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1W7stDuXR1pVBYBbHtV7cq7Uz2Mv7igFJ",
       "comments_seeded": 4,
       "amazon_link": null,
       "travel_links": [
         "https://tp.media/r?marker=795736&p=4110&u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DSeoul%2Btours",
-        "https://tp.media/r?marker=795736&p=4114&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DCheongnyangni%2BSeoul",
+        "https://tp.media/r?marker=795736&p=4114&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DGangdong%2BSeoul",
         "https://tp.media/r?marker=795736&p=4110&u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DKorea%2BeSIM"
       ],
-      "indexing": "requested (Search Console URL-prefix property, 2026-11-04 00:22-00:27 KST)"
+      "indexing": "pending"
     }
   ],
   "errors": [],
   "notes": [
-    "OFFON Keep Calm and Cooling Body Wash is on US Amazon (ASIN B0BZ25HBYX); direct dp link used in posts 1-2. Dr.Well DR-5180 isn't on US Amazon (220V), so post 3 uses a category search link.",
-    "Post 4 (travel) uses only Travelpayouts marker 795736 links (Klook Seoul tours, Trip.com Cheongnyangni hotels, Klook Korea eSIM; each placed twice). Regex check: 0 amazon.com / dctrade-20 links.",
-    "Affiliate & Travelpayouts URLs validated by regex on HTML source only, never fetched. HTTP checks only on our 4 own post URLs.",
-    "Hongneung: official NIFOS/VisitSeoul info used over the Drive draft (draft said weekday guided-tour booking only; since 2026-03-28 free walk-in Tue-Sun). Free admission verified via VisitSeoul; phone corrected to +82-2-961-2521.",
-    "Unverified INCI specifics removed from OFFON posts; Dr.Well heat/waist claims from draft excluded (not in official spec).",
-    "Candidates rejected: sleepnsleep pillow (images contain Korean text + celebrity), d'Alba mist (only 4 real photos).",
-    "seo_upgrade_helper.py not run; per-post SEO checked with validate.py.",
-    "korea-picks pushed to origin; commits cherry-picked onto root intid85.github.io main and pushed non-force. No force pushes.",
-    "Search Console indexing requested for all 4 URLs (all were 'not on Google' before); post 2 needed one retry after a transient error."
+    "Centellian24 The Madeca Cream is on US Amazon (ASIN B0BS2T3QYF); direct dp link used in posts 1-2. VENDICT SURGE isn't on US Amazon (Korea-only), so post 3 uses a category search link.",
+    "Post 4 (travel) uses only Travelpayouts marker 795736 links (Klook Seoul tours, Trip.com Gangdong hotels, Klook Korea eSIM; each placed twice = 6, all rel=sponsored noopener). Regex check: 0 amazon.com / dctrade-20 links.",
+    "Affiliate & Travelpayouts URLs validated by regex on HTML source only, never fetched. HTTP checks only on our own blog URLs.",
+    "Amsa-dong: child fee set to KRW 300 per official site/VisitSeoul (TourAPI KorService listed KRW 400). Photos: 6 KTO TourAPI images (credited, unmodified) + 1 Drive festival photo. 2026 festival (Oct 16-18) noted as already held.",
+    "Madeca: unverified adenosine/anti-wrinkle claim removed. Existing koreapicks 'arocell-...-centellian24-madeca-cream' slug only covers the Arocell mask, so not a repeat.",
+    "seo_upgrade_helper.upgrade_html_file run on the 4 new files only (no changes needed); main() not run to avoid touching other sites. Per-post SEO checked with validate.py.",
+    "duckcheon-korea-site pushed to origin; korea-picks pushed to origin and cherry-picked onto root intid85.github.io main, pushed non-force. No force pushes.",
+    "Search Console indexing not requested in this run (pending)."
   ]
 }

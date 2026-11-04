@@ -386,7 +386,10 @@
     { slug: 'seoul-botanic-park-guide-magok-greenhouse-gangseo', title: '🌿 서울식물원 가이드 (Seoul Botanic Park)', url: '/posts/seoul-botanic-park-guide-magok-greenhouse-gangseo.html' },
     { slug: 'offon-keep-calm-and-cooling-body-wash-review', title: '🚿 오프온 킵캄 쿨링 바디워시 리뷰 (OFFON Cooling Body Wash)', url: '/posts/offon-keep-calm-and-cooling-body-wash-review.html' },
     { slug: 'drwell-airwave-dr-5180-leg-air-compression-massager-review', title: '🦵 닥터웰 에어웨이브 다리 공기압 마사지기 리뷰 (Dr.Well Airwave)', url: '/posts/drwell-airwave-dr-5180-leg-air-compression-massager-review.html' },
-    { slug: 'hongneung-forest-seoul-guide-korea-first-arboretum-dongdaemun', title: '🌲 홍릉숲 가이드 (Hongneung Forest)', url: '/posts/hongneung-forest-seoul-guide-korea-first-arboretum-dongdaemun.html' }
+    { slug: 'hongneung-forest-seoul-guide-korea-first-arboretum-dongdaemun', title: '🌲 홍릉숲 가이드 (Hongneung Forest)', url: '/posts/hongneung-forest-seoul-guide-korea-first-arboretum-dongdaemun.html' },
+    { slug: 'centellian24-the-madeca-cream-review', title: '🌿 센텔리안24 더 마데카 크림 리뷰 (Centellian24 The Madeca Cream)', url: '/posts/centellian24-the-madeca-cream-review.html' },
+    { slug: 'vendict-surge-cordless-air-blower-car-dryer-review', title: '💨 벤딕트 서지 무선 에어건 리뷰 (VENDICT SURGE Air Blower)', url: '/posts/vendict-surge-cordless-air-blower-car-dryer-review.html' },
+    { slug: 'amsa-dong-prehistoric-settlement-site-seoul-neolithic-village-guide', title: '🏺 서울 암사동 유적 가이드 (Amsa-dong Prehistoric Site)', url: '/posts/amsa-dong-prehistoric-settlement-site-seoul-neolithic-village-guide.html' }
   ];
 
   function renderAdminToast(info, today, yesterday, openByDefault) {

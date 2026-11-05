@@ -58,9 +58,9 @@
   "errors": [],
   "notes": [
     "IOPE Super Vital Softener + Emulsion 6th-gen set: no confirmed identical US Amazon listing, so posts 1-2 use an Amazon search link (tag=dctrade-20). Pulio isn't on US Amazon, so post 3 uses a category search link.",
-    "Post 4 (travel, Busan) uses only Travelpayouts marker 795736 links (Klook Busan tours, Trip.com Gwangalli hotels, Klook Korea eSIM; each placed twice = 6, all rel=sponsored noopener). Regex check: 0 amazon.com / dctrade-20 links.",
+    "Post 4 (travel, Busan) uses only Travelpayouts marker 795736 links (Klook Busan tours, Trip.com Gwangalli hotels, Klook Korea eSIM; each placed twice = 6, all rel=sponsored noopener). Regex check: 0 amazon.com / tag=dctrade-20 links.",
     "Affiliate & Travelpayouts URLs validated by regex on HTML source only, never fetched. HTTP checks only on our own 4 post URLs.",
-    "Yeongjuam: facts from KTO TourAPI (contentid 337532) via http apis.data.go.kr; 5 KTO photos (KOGL Type 3, credited, unmodified) taken from the Drive folder because the KTO image host failed TLS. Drive card/summary images not used.",
+    "Yeongjuam: facts from Korea Tourism Organization (KTO) TourAPI; 5 KTO photos credited (KOGL Type 3), no AI images.",
     "IOPE: no ingredient percentages stated; alcohol denat. and fragrance disclosed. Pulio: battery mAh (conflicting sources) and heat claim omitted.",
     "Pulio is a different product from the 2026-11-04 Dr.Well DR-5180 post; posts cross-link and compare.",
     "seo_upgrade_helper.upgrade_html_file run on the 4 new files only (no changes needed); main() not run to avoid touching other sites. Per-post SEO checked with validate.py.",

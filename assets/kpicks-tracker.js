@@ -389,7 +389,10 @@
     { slug: 'hongneung-forest-seoul-guide-korea-first-arboretum-dongdaemun', title: '🌲 홍릉숲 가이드 (Hongneung Forest)', url: '/posts/hongneung-forest-seoul-guide-korea-first-arboretum-dongdaemun.html' },
     { slug: 'centellian24-the-madeca-cream-review', title: '🌿 센텔리안24 더 마데카 크림 리뷰 (Centellian24 The Madeca Cream)', url: '/posts/centellian24-the-madeca-cream-review.html' },
     { slug: 'vendict-surge-cordless-air-blower-car-dryer-review', title: '💨 벤딕트 서지 무선 에어건 리뷰 (VENDICT SURGE Air Blower)', url: '/posts/vendict-surge-cordless-air-blower-car-dryer-review.html' },
-    { slug: 'amsa-dong-prehistoric-settlement-site-seoul-neolithic-village-guide', title: '🏺 서울 암사동 유적 가이드 (Amsa-dong Prehistoric Site)', url: '/posts/amsa-dong-prehistoric-settlement-site-seoul-neolithic-village-guide.html' }
+    { slug: 'amsa-dong-prehistoric-settlement-site-seoul-neolithic-village-guide', title: '🏺 서울 암사동 유적 가이드 (Amsa-dong Prehistoric Site)', url: '/posts/amsa-dong-prehistoric-settlement-site-seoul-neolithic-village-guide.html' },
+    { slug: 'iope-super-vital-softener-emulsion-set-review', title: '✨ 아이오페 슈퍼바이탈 소프너&에멀젼 리뷰 (IOPE Super Vital Set)', url: '/posts/iope-super-vital-softener-emulsion-set-review.html' },
+    { slug: 'pulio-wireless-leg-air-massager-thigh-compression-review', title: '🦵 풀리오 무선 허벅지 다리 공기압 마사지기 리뷰 (Pulio Leg Air Massager)', url: '/posts/pulio-wireless-leg-air-massager-thigh-compression-review.html' },
+    { slug: 'yeongjuam-temple-busan-guide-mangmi-dong-suyeong', title: '🏯 부산 영주암 가이드 (Yeongjuam Temple Busan)', url: '/posts/yeongjuam-temple-busan-guide-mangmi-dong-suyeong.html' }
   ];
 
   function renderAdminToast(info, today, yesterday, openByDefault) {

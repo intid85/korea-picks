@@ -1,70 +1,71 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "posts": [
     {
       "n": 1,
       "site": "dctrade.co.kr",
       "category": "K-Beauty B2B",
-      "title": "Centellian24 The Madeca Cream Review: Korea's Best-Selling Centella Cica Cream (Season 6), Plus Wholesale Sourcing",
-      "live_url": "https://dctrade.co.kr/blog/centellian24-the-madeca-cream-season-6-korean-centella-cica-cream.html",
+      "title": "IOPE Super Vital Softener and Emulsion Review: The 6th-Gen SENOMUNE Anti-Aging Skincare Set from Korea, Plus Wholesale Sourcing",
+      "live_url": "https://dctrade.co.kr/blog/iope-super-vital-softener-emulsion-6th-gen-korean-anti-aging-skincare-set.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1giM1iD4b_zjzD0w-GV1EHXD--SUh8WTI",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1T0GDW35OLlAT8ghBrPFMfl0PK0gHf9Z0",
       "comments_seeded": 4,
-      "amazon_link": "https://www.amazon.com/dp/B0BS2T3QYF?tag=dctrade-20",
-      "indexing": "not requested: box browser Google session signed out (duckcheonkorea@gmail.com / intid85@gmail.com need sign-in), 2026-11-05 00:14 KST"
+      "amazon_link": "https://www.amazon.com/s?k=IOPE+Super+Vital+Softener+Emulsion&tag=dctrade-20",
+      "indexing": "pending — requires browser (GSC)"
     },
     {
       "n": 2,
       "site": "koreapicks.co.kr",
       "category": "K-Beauty",
-      "title": "Centellian24 The Madeca Cream Review: Korea's Pharmacy-Born Centella Cream (Season 6), Tested Against the Hype",
-      "live_url": "https://koreapicks.co.kr/posts/centellian24-the-madeca-cream-review.html",
+      "title": "IOPE Super Vital Softener and Emulsion Review: Is Amorepacific's 6th-Gen Anti-Aging Duo Worth It?",
+      "live_url": "https://koreapicks.co.kr/posts/iope-super-vital-softener-emulsion-set-review.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1giM1iD4b_zjzD0w-GV1EHXD--SUh8WTI",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1T0GDW35OLlAT8ghBrPFMfl0PK0gHf9Z0",
       "comments_seeded": 3,
-      "amazon_link": "https://www.amazon.com/dp/B0BS2T3QYF?tag=dctrade-20",
-      "indexing": "not requested: box browser Google session signed out (duckcheonkorea@gmail.com / intid85@gmail.com need sign-in), 2026-11-05 00:14 KST"
+      "amazon_link": "https://www.amazon.com/s?k=IOPE+Super+Vital+Softener+Emulsion&tag=dctrade-20",
+      "indexing": "pending — requires browser (GSC)"
     },
     {
       "n": 3,
       "site": "koreapicks.co.kr",
-      "category": "Tech & Gear",
-      "title": "VENDICT SURGE Cordless Air Blower Review: A Korean 750W Brushless Car Dryer and Jet Blower",
-      "live_url": "https://koreapicks.co.kr/posts/vendict-surge-cordless-air-blower-car-dryer-review.html",
+      "category": "K-Wellness",
+      "title": "Pulio Wireless Leg Air Massager Review: A Korean Cordless Thigh-to-Calf Air Compression Massager",
+      "live_url": "https://koreapicks.co.kr/posts/pulio-wireless-leg-air-massager-thigh-compression-review.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1jv_cr1eRTuI0Cu_py8FO90enUEhB9V97",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1QPBDl03Yxg7k3GJMUGFr14Ao5G1qSQ0D",
       "comments_seeded": 2,
-      "amazon_link": "https://www.amazon.com/s?k=cordless+air+blower+car+dryer+brushless&tag=dctrade-20",
-      "indexing": "not requested: box browser Google session signed out (duckcheonkorea@gmail.com / intid85@gmail.com need sign-in), 2026-11-05 00:14 KST"
+      "amazon_link": "https://www.amazon.com/s?k=wireless+leg+air+compression+massager+thigh&tag=dctrade-20",
+      "indexing": "pending — requires browser (GSC)"
     },
     {
       "n": 4,
       "site": "koreapicks.co.kr",
-      "category": "Travel (Seoul)",
-      "title": "Amsa-dong Prehistoric Settlement Site Guide: Seoul's 6,000-Year-Old Neolithic Village in Gangdong",
-      "live_url": "https://koreapicks.co.kr/posts/amsa-dong-prehistoric-settlement-site-seoul-neolithic-village-guide.html",
+      "category": "Travel (Busan)",
+      "title": "Yeongjuam Temple Busan Guide: A Quiet Hillside Hermitage on Baesan Mountain in Suyeong-gu",
+      "live_url": "https://koreapicks.co.kr/posts/yeongjuam-temple-busan-guide-mangmi-dong-suyeong.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1W7stDuXR1pVBYBbHtV7cq7Uz2Mv7igFJ",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1-wMuVXfRDhEQZ-xBLb403l3XU4lI_8_g",
       "comments_seeded": 4,
       "amazon_link": null,
       "travel_links": [
-        "https://tp.media/r?marker=795736&p=4110&u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DSeoul%2Btours",
-        "https://tp.media/r?marker=795736&p=4114&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DGangdong%2BSeoul",
+        "https://tp.media/r?marker=795736&p=4110&u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DBusan%2Btours",
+        "https://tp.media/r?marker=795736&p=4114&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DGwangalli%2BBusan",
         "https://tp.media/r?marker=795736&p=4110&u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DKorea%2BeSIM"
       ],
-      "indexing": "not requested: box browser Google session signed out (duckcheonkorea@gmail.com / intid85@gmail.com need sign-in), 2026-11-05 00:14 KST"
+      "indexing": "pending — requires browser (GSC)"
     }
   ],
   "errors": [],
   "notes": [
-    "Centellian24 The Madeca Cream is on US Amazon (ASIN B0BS2T3QYF); direct dp link used in posts 1-2. VENDICT SURGE isn't on US Amazon (Korea-only), so post 3 uses a category search link.",
-    "Post 4 (travel) uses only Travelpayouts marker 795736 links (Klook Seoul tours, Trip.com Gangdong hotels, Klook Korea eSIM; each placed twice = 6, all rel=sponsored noopener). Regex check: 0 amazon.com / dctrade-20 links.",
-    "Affiliate & Travelpayouts URLs validated by regex on HTML source only, never fetched. HTTP checks only on our own blog URLs.",
-    "Amsa-dong: child fee set to KRW 300 per official site/VisitSeoul (TourAPI KorService listed KRW 400). Photos: 6 KTO TourAPI images (credited, unmodified) + 1 Drive festival photo. 2026 festival (Oct 16-18) noted as already held.",
-    "Madeca: unverified adenosine/anti-wrinkle claim removed. Existing koreapicks 'arocell-...-centellian24-madeca-cream' slug only covers the Arocell mask, so not a repeat.",
+    "IOPE Super Vital Softener + Emulsion 6th-gen set: no confirmed identical US Amazon listing, so posts 1-2 use an Amazon search link (tag=dctrade-20). Pulio isn't on US Amazon, so post 3 uses a category search link.",
+    "Post 4 (travel, Busan) uses only Travelpayouts marker 795736 links (Klook Busan tours, Trip.com Gwangalli hotels, Klook Korea eSIM; each placed twice = 6, all rel=sponsored noopener). Regex check: 0 amazon.com / dctrade-20 links.",
+    "Affiliate & Travelpayouts URLs validated by regex on HTML source only, never fetched. HTTP checks only on our own 4 post URLs.",
+    "Yeongjuam: facts from KTO TourAPI (contentid 337532) via http apis.data.go.kr; 5 KTO photos (KOGL Type 3, credited, unmodified) taken from the Drive folder because the KTO image host failed TLS. Drive card/summary images not used.",
+    "IOPE: no ingredient percentages stated; alcohol denat. and fragrance disclosed. Pulio: battery mAh (conflicting sources) and heat claim omitted.",
+    "Pulio is a different product from the 2026-11-04 Dr.Well DR-5180 post; posts cross-link and compare.",
     "seo_upgrade_helper.upgrade_html_file run on the 4 new files only (no changes needed); main() not run to avoid touching other sites. Per-post SEO checked with validate.py.",
     "duckcheon-korea-site pushed to origin; korea-picks pushed to origin and cherry-picked onto root intid85.github.io main, pushed non-force. No force pushes.",
-    "Search Console indexing not requested in this run (pending)."
+    "Search Console indexing not requested: requires box browser (GSC), not used in this run."
   ],
-  "indexing_blocker": "Search Console needs Google sign-in in the box browser; 4 URLs still need Request indexing"
+  "indexing_blocker": "Search Console requires the box browser; 4 URLs still need Request indexing"
 }

@@ -395,7 +395,10 @@
     { slug: 'yeongjuam-temple-busan-guide-mangmi-dong-suyeong', title: '🏯 부산 영주암 가이드 (Yeongjuam Temple Busan)', url: '/posts/yeongjuam-temple-busan-guide-mangmi-dong-suyeong.html' },
     { slug: 'drg-black-snail-cream-review', title: '✨ 닥터지 블랙 스네일 크림 리뷰 (Dr.G Black Snail Cream)', url: '/posts/drg-black-snail-cream-review.html' },
     { slug: 'ballop-caloring-acupressure-slippers-review', title: '🦶 밸롭 칼로링 지압 슬리퍼 리뷰 (Ballop Caloring Slippers)', url: '/posts/ballop-caloring-acupressure-slippers-review.html' },
-    { slug: 'seoul-gwansanggam-gwancheondae-wonseo-dong-jongno-guide', title: '🔭 서울 관상감 관천대 가이드 (Gwansanggam Gwancheondae)', url: '/posts/seoul-gwansanggam-gwancheondae-wonseo-dong-jongno-guide.html' }
+    { slug: 'seoul-gwansanggam-gwancheondae-wonseo-dong-jongno-guide', title: '🔭 서울 관상감 관천대 가이드 (Gwansanggam Gwancheondae)', url: '/posts/seoul-gwansanggam-gwancheondae-wonseo-dong-jongno-guide.html' },
+    { slug: 'dalba-vita-toning-mist-serum-review', title: '✨ 달바 비타 토닝 미스트 리뷰 (d’Alba Vita Toning Mist Serum)', url: '/posts/dalba-vita-toning-mist-serum-review.html' },
+    { slug: 'gitis-all-stainless-folding-travel-kettle-gt-037kr-review', title: '🫖 지티스 올스텐 접이식 여행용 전기포트 리뷰 (GITIS GT-037KR)', url: '/posts/gitis-all-stainless-folding-travel-kettle-gt-037kr-review.html' },
+    { slug: 'seoul-dapsimni-film-street-dongdaemun-korean-cinema-guide', title: '🎬 서울 답십리 영화의 거리 가이드 (Dapsimni Film Street)', url: '/posts/seoul-dapsimni-film-street-dongdaemun-korean-cinema-guide.html' }
   ];
 
   function renderAdminToast(info, today, yesterday, openByDefault) {

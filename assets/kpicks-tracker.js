@@ -398,7 +398,10 @@
     { slug: 'seoul-gwansanggam-gwancheondae-wonseo-dong-jongno-guide', title: '🔭 서울 관상감 관천대 가이드 (Gwansanggam Gwancheondae)', url: '/posts/seoul-gwansanggam-gwancheondae-wonseo-dong-jongno-guide.html' },
     { slug: 'dalba-vita-toning-mist-serum-review', title: '✨ 달바 비타 토닝 미스트 리뷰 (d’Alba Vita Toning Mist Serum)', url: '/posts/dalba-vita-toning-mist-serum-review.html' },
     { slug: 'gitis-all-stainless-folding-travel-kettle-gt-037kr-review', title: '🫖 지티스 올스텐 접이식 여행용 전기포트 리뷰 (GITIS GT-037KR)', url: '/posts/gitis-all-stainless-folding-travel-kettle-gt-037kr-review.html' },
-    { slug: 'seoul-dapsimni-film-street-dongdaemun-korean-cinema-guide', title: '🎬 서울 답십리 영화의 거리 가이드 (Dapsimni Film Street)', url: '/posts/seoul-dapsimni-film-street-dongdaemun-korean-cinema-guide.html' }
+    { slug: 'seoul-dapsimni-film-street-dongdaemun-korean-cinema-guide', title: '🎬 서울 답십리 영화의 거리 가이드 (Dapsimni Film Street)', url: '/posts/seoul-dapsimni-film-street-dongdaemun-korean-cinema-guide.html' },
+    { slug: 'centellian24-madeca-cream-time-reverse-zero-review', title: '🌿 센텔리안24 마데카 크림 타임 리버스 제로 리뷰 (Centellian24 Time Reverse Zero)', url: '/posts/centellian24-madeca-cream-time-reverse-zero-review.html' },
+    { slug: 'barner-ems-minispot-neck-shoulder-massager-review', title: '💆 바로너 EMS 미니스팟 리뷰 (Barner EMS Mini Spot)', url: '/posts/barner-ems-minispot-neck-shoulder-massager-review.html' },
+    { slug: 'seoul-jongno-independence-declaration-distribution-site-gyeonun-dong-guide', title: '🗽 서울 종로 독립선언문 배부 터 가이드 (Independence Declaration Site)', url: '/posts/seoul-jongno-independence-declaration-distribution-site-gyeonun-dong-guide.html' }
   ];
 
   function renderAdminToast(info, today, yesterday, openByDefault) {

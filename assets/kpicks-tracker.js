@@ -401,7 +401,10 @@
     { slug: 'seoul-dapsimni-film-street-dongdaemun-korean-cinema-guide', title: '🎬 서울 답십리 영화의 거리 가이드 (Dapsimni Film Street)', url: '/posts/seoul-dapsimni-film-street-dongdaemun-korean-cinema-guide.html' },
     { slug: 'centellian24-madeca-cream-time-reverse-zero-review', title: '🌿 센텔리안24 마데카 크림 타임 리버스 제로 리뷰 (Centellian24 Time Reverse Zero)', url: '/posts/centellian24-madeca-cream-time-reverse-zero-review.html' },
     { slug: 'barner-ems-minispot-neck-shoulder-massager-review', title: '💆 바로너 EMS 미니스팟 리뷰 (Barner EMS Mini Spot)', url: '/posts/barner-ems-minispot-neck-shoulder-massager-review.html' },
-    { slug: 'seoul-jongno-independence-declaration-distribution-site-gyeonun-dong-guide', title: '🗽 서울 종로 독립선언문 배부 터 가이드 (Independence Declaration Site)', url: '/posts/seoul-jongno-independence-declaration-distribution-site-gyeonun-dong-guide.html' }
+    { slug: 'seoul-jongno-independence-declaration-distribution-site-gyeonun-dong-guide', title: '🗽 서울 종로 독립선언문 배부 터 가이드 (Independence Declaration Site)', url: '/posts/seoul-jongno-independence-declaration-distribution-site-gyeonun-dong-guide.html' },
+    { slug: 'sulwhasoo-essential-firming-set-review', title: '💎 설화수 탄력 3종 기획세트 리뷰 (Sulwhasoo Essential Firming Set)', url: '/posts/sulwhasoo-essential-firming-set-review.html' },
+    { slug: 'shark-detect-clean-empty-cordless-vacuum-review', title: '🧹 샤크 디텍트 Clean&Empty 무선청소기 리뷰 (Shark Detect Clean & Empty)', url: '/posts/shark-detect-clean-empty-cordless-vacuum-review.html' },
+    { slug: 'busan-haeundae-marine-city-cloud32-ocean-view-italian-dining-guide', title: '🍝 부산 해운대 마린시티 클라우드32 가이드 (Cloud32 Marine City)', url: '/posts/busan-haeundae-marine-city-cloud32-ocean-view-italian-dining-guide.html' }
   ];
 
   function renderAdminToast(info, today, yesterday, openByDefault) {

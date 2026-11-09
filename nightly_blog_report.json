@@ -1,82 +1,83 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "posts": [
     {
       "n": 1,
       "site": "dctrade.co.kr",
       "category": "K-Beauty B2B",
-      "title": "Centellian24 Madeca Cream Time Reverse Zero Review: Korean Sensitive-Skin Cica Cream, Plus Wholesale Sourcing",
-      "slug": "centellian24-madeca-cream-time-reverse-zero-korean-sensitive-skin-cream",
-      "live_url": "https://dctrade.co.kr/blog/centellian24-madeca-cream-time-reverse-zero-korean-sensitive-skin-cream.html",
+      "title": "Sulwhasoo Essential Firming 3-Piece Set Review: Korean Luxury Toner, Emulsion and Firming Cream Gift Set, Plus Wholesale Sourcing",
+      "slug": "sulwhasoo-essential-firming-3-piece-set-korean-luxury-skincare-gift-set",
+      "live_url": "https://dctrade.co.kr/blog/sulwhasoo-essential-firming-3-piece-set-korean-luxury-skincare-gift-set.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1531GwLWDKJhtEPckud9fftLMZBUltlYH",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1TBgrWQF-uW8fo9X98SBwhE5j08adCJ5A",
+      "drive_english_folder_url": "https://drive.google.com/drive/folders/1N0gpU7_rcWBZhVbKnyqSbtF0p6W4hir-",
       "comments_seeded": 4,
-      "amazon_link": "https://www.amazon.com/s?k=Centellian24+Madeca+Cream+Time+Reverse+Zero&tag=dctrade-20",
-      "indexing": "pending — requires browser (GSC)"
+      "amazon_link": "https://www.amazon.com/s?k=Sulwhasoo+Essential+Firming+3+Piece+Set&tag=dctrade-20",
+      "indexing": "pending_browser — Search Console \"Request indexing\" needs browser (not done)"
     },
     {
       "n": 2,
       "site": "koreapicks.co.kr",
       "category": "K-Beauty",
-      "title": "Centellian24 Madeca Cream Time Reverse Zero Review: How to Use This Korean Cica Cream",
-      "slug": "centellian24-madeca-cream-time-reverse-zero-review",
-      "live_url": "https://koreapicks.co.kr/posts/centellian24-madeca-cream-time-reverse-zero-review.html",
+      "title": "Sulwhasoo Essential Firming Set Review: Korean Luxury Toner, Emulsion and Cream Routine",
+      "slug": "sulwhasoo-essential-firming-set-review",
+      "live_url": "https://koreapicks.co.kr/posts/sulwhasoo-essential-firming-set-review.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1531GwLWDKJhtEPckud9fftLMZBUltlYH",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1TBgrWQF-uW8fo9X98SBwhE5j08adCJ5A",
+      "drive_english_folder_url": "https://drive.google.com/drive/folders/1N0gpU7_rcWBZhVbKnyqSbtF0p6W4hir-",
       "comments_seeded": 3,
-      "amazon_link": "https://www.amazon.com/s?k=Centellian24+Madeca+Cream+Time+Reverse+Zero&tag=dctrade-20",
-      "indexing": "pending — requires browser (GSC)"
+      "amazon_link": "https://www.amazon.com/s?k=Sulwhasoo+Essential+Firming+3+Piece+Set&tag=dctrade-20",
+      "indexing": "pending_browser — Search Console \"Request indexing\" needs browser (not done)"
     },
     {
       "n": 3,
       "site": "koreapicks.co.kr",
       "category": "Tech & Gear",
-      "title": "Barner EMS Mini Spot Review: Korean Portable Neck and Shoulder Massager",
-      "slug": "barner-ems-minispot-neck-shoulder-massager-review",
-      "live_url": "https://koreapicks.co.kr/posts/barner-ems-minispot-neck-shoulder-massager-review.html",
+      "title": "Shark Detect Clean & Empty Cordless Vacuum Review: Auto-Empty Stick Vacuum with Edge, Dust and Floor Sensors",
+      "slug": "shark-detect-clean-empty-cordless-vacuum-review",
+      "live_url": "https://koreapicks.co.kr/posts/shark-detect-clean-empty-cordless-vacuum-review.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1IeAA-qXAPhQq0ArD0wa6jQSoM6nzMCcx",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1OPvno3rB0yCzMBKgQOkGIRACQvoQdtLH",
+      "drive_english_folder_url": "https://drive.google.com/drive/folders/1WEBQlS4W2-vLGDd5hold8mfm_L5n_THn",
       "comments_seeded": 2,
-      "amazon_link": "https://www.amazon.com/s?k=portable+EMS+neck+shoulder+massager&tag=dctrade-20",
-      "indexing": "pending — requires browser (GSC)"
+      "amazon_link": "https://www.amazon.com/s?k=Shark+Detect+Pro+Cordless+Vacuum+Auto-Empty&tag=dctrade-20",
+      "indexing": "pending_browser — Search Console \"Request indexing\" needs browser (not done)"
     },
     {
       "n": 4,
       "site": "koreapicks.co.kr",
-      "category": "Travel (Seoul)",
-      "title": "Seoul Independence Declaration Distribution Site Guide: Jongno's March 1st Memorial Across from Unhyeongung",
-      "slug": "seoul-jongno-independence-declaration-distribution-site-gyeonun-dong-guide",
-      "live_url": "https://koreapicks.co.kr/posts/seoul-jongno-independence-declaration-distribution-site-gyeonun-dong-guide.html",
+      "category": "Travel (Busan)",
+      "title": "Busan Haeundae Marine City Cloud32 Guide: Ocean-View Italian Course Dinner Near Gwangandaegyo",
+      "slug": "busan-haeundae-marine-city-cloud32-ocean-view-italian-dining-guide",
+      "live_url": "https://koreapicks.co.kr/posts/busan-haeundae-marine-city-cloud32-ocean-view-italian-dining-guide.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1NzPKAEm_i7InsLWxx08hC7ZmjWRcKzdG",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1TTbCg_irQV-g_5xCJKJYgjOlm_F3DY_4",
+      "drive_english_folder_url": "https://drive.google.com/drive/folders/1o1oTT2wer5Rmt803Vf2DqW6sDH9sI54a",
       "comments_seeded": 4,
       "amazon_link": null,
       "travel_links": [
-        "https://tp.media/r?marker=795736&p=4110&u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DUnhyeongung",
-        "https://tp.media/r?marker=795736&p=4114&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DJongno%2BSeoul",
+        "https://tp.media/r?marker=795736&p=4110&u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DBusan",
+        "https://tp.media/r?marker=795736&p=4114&u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DHaeundae%2BBusan",
         "https://tp.media/r?marker=795736&p=4110&u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DKorea%2BeSIM"
       ],
-      "indexing": "pending — requires browser (GSC)"
+      "indexing": "pending_browser — Search Console \"Request indexing\" needs browser (not done)"
     }
   ],
   "git": {
-    "duckcheon_korea": "b20ef94cd62091fdf8434f838b0c92dd08cc6951",
-    "korea_picks_origin": "89bd0c0d790741cb846d6a015d1dd939bf31388e",
-    "intid85_github_io_root": "780363d86dd23e3ce347db1100359b66fcc5a9c4"
+    "duckcheon_korea": "45313e6 (origin/main)",
+    "korea_picks_origin": "b565d1a",
+    "intid85_github_io_root": "af17136 (cherry-pick onto root/main)"
   },
   "errors": [],
   "notes": [
-    "Centellian24 Madeca Cream Time Reverse Zero (Korean set 80ml×3 + 15ml×4 ≈300ml + gift bag): unpublished vs The Madeca Cream and Tight Lifting. A single 80ml jar appears discussed on US Amazon (search snippets cite B0FVY91T1Q) but the Korean multi-pack was not confirmed as an identical listing → posts 1–2 use Amazon search (tag=dctrade-20). Barner EMS Mini Spot: no confirmed identical US listing → post 3 uses similar portable EMS neck/shoulder massager search.",
-    "Post 4 (travel, Seoul only): Independence Declaration Distribution Site (독립선언문 배부 터), 457 Samil-daero, Gyeonun-dong, Jongno, across from Unhyeongung. Unpublished vs Nov 7 Gwancheondae (also Jongno). Travelpayouts marker 795736 only (Klook Unhyeongung, Trip.com Jongno hotels, Klook Korea eSIM; each ×2 = 6, all rel=sponsored noopener). Regex: 0 amazon.com / tag=dctrade-20.",
-    "Affiliate & Travelpayouts URLs validated by regex on HTML only, never HTTP-fetched. HTTP 200 checks only on our 4 blog URLs (+3 own image URLs).",
-    "Time Reverse Zero photos: only 2 listing packshots in Drive; 5 real detail views made by cropping those photos (full set+gift, lined-up jars, 80ml crop, 15ml crop, label crop). No AI/mosaic/blur.",
-    "Barner photos: 5 real listing shots. Photo 01 cropped to exclude 경수진 celebrity inset; photo 02 cropped to nape/device to exclude model face. Listing-common specs (~51g, P1–P6, intensity 1–15, heat H1–H3 43–50°C, ~15 min) labeled as retail-page figures, not lab-measured.",
-    "Independence Declaration Site facts from KTO text in Drive 붙여넣기본문; 5 KTO photos (hero marker, marker+panel, name stones, bilingual panel, street with 경운회관). No invented subway exit, phone, parking, or ticket price (official notes list none).",
-    "Comments seeded 4→3→2→4 on dctrade_blog_comments (Supabase zaahvfqfwtcpfvmuiics), ratings mixed 5/4.",
-    "seo_upgrade_helper.upgrade_html_file run on 4 new files (no changes needed; SEO already present with 2026-11-09 dates). No validate.py in repo. Tracker JS syntax OK (node --check).",
-    "duckcheon-korea pushed to origin; korea-picks pushed to origin; cherry-picked onto root intid85.github.io main and pushed non-force.",
-    "Drive 영문블로그 folders created under Time Reverse Zero / Barner Mini Spot / 독립선언문 배부 터 source folders; HTML + bilingual summaries uploaded.",
-    "Search Console indexing not requested: requires box browser (GSC)."
+    "Topics not repeated vs 2026-11-09 (Centellian24 Time Reverse Zero, Barner EMS Mini Spot, Jongno Independence Declaration site).",
+    "Post 1-2: Sulwhasoo 탄력 3종 기획세트 (Drive 쇼핑커넥트 03_설화수 탄력 3종). Only 3 real packshots in Drive; 5 photos made by cropping them (set tray, toner, emulsion, cream, cream-texture close-up). No AI/mosaic/blur. Sample contents hedged (\"check your carton\").",
+    "Post 3: Shark Detect Clean&Empty (99_샤크 무선청소기 디텍트) 5 real Drive listing photos; Korean caption bands cropped off, Shark|Ninja badge cropped. Exercider pull-up bar and Roborock were skipped (AI-generated people / only 1 photo).",
+    "Post 4: Cloud32 Italian restaurant, Marine City, Haeundae (KTO text + 5 KTO photos with watermark credit; 네이버 정보성 글쓰기/여행 글쓰기/부산광역시/중구). Seoul/Busan not previously covered. Only KTO-listed facts used. 0 amazon.com / 0 tag=dctrade-20; 6 Travelpayouts 795736 links (Klook x2 types, Trip.com), rel sponsored noopener.",
+    "Amazon/Travelpayouts links verified by regex on HTML only (local files + live HTML text); never fetched. HTTP 200 checked only on own blog URLs and own images.",
+    "seo_upgrade_helper.upgrade_html_file run on 4 new files: unchanged (SEO already present). JSON-LD parsed OK; TOC anchors resolve; trackers node --check OK.",
+    "Comments seeded 4/3/2/4 in Supabase zaahvfqfwtcpfvmuiics public.dctrade_blog_comments, ratings mixed 5/4.",
+    "Drive 영문블로그 subfolders created under the 3 source folders with HTML + 요약.md (post 1+2 share the Sulwhasoo folder)."
   ],
-  "indexing_blocker": "Search Console requires the box browser; 4 URLs still need Request indexing"
+  "indexing_blocker": "Search Console requires a browser; 4 URLs still need Request indexing (indexing=pending_browser)."
 }

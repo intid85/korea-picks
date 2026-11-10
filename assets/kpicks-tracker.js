@@ -404,7 +404,10 @@
     { slug: 'seoul-jongno-independence-declaration-distribution-site-gyeonun-dong-guide', title: '🗽 서울 종로 독립선언문 배부 터 가이드 (Independence Declaration Site)', url: '/posts/seoul-jongno-independence-declaration-distribution-site-gyeonun-dong-guide.html' },
     { slug: 'sulwhasoo-essential-firming-set-review', title: '💎 설화수 탄력 3종 기획세트 리뷰 (Sulwhasoo Essential Firming Set)', url: '/posts/sulwhasoo-essential-firming-set-review.html' },
     { slug: 'shark-detect-clean-empty-cordless-vacuum-review', title: '🧹 샤크 디텍트 Clean&Empty 무선청소기 리뷰 (Shark Detect Clean & Empty)', url: '/posts/shark-detect-clean-empty-cordless-vacuum-review.html' },
-    { slug: 'busan-haeundae-marine-city-cloud32-ocean-view-italian-dining-guide', title: '🍝 부산 해운대 마린시티 클라우드32 가이드 (Cloud32 Marine City)', url: '/posts/busan-haeundae-marine-city-cloud32-ocean-view-italian-dining-guide.html' }
+    { slug: 'busan-haeundae-marine-city-cloud32-ocean-view-italian-dining-guide', title: '🍝 부산 해운대 마린시티 클라우드32 가이드 (Cloud32 Marine City)', url: '/posts/busan-haeundae-marine-city-cloud32-ocean-view-italian-dining-guide.html' },
+    { slug: 'acnope-cera-gf-cream-review', title: '🧴 아크노프 세라지에프 크림 리뷰 (ACNOPE CERA-GF Cream)', url: '/posts/acnope-cera-gf-cream-review.html' },
+    { slug: 'imetec-pocket-heated-over-blanket-gok-840-review', title: '🔥 이메텍 포켓 캠핑 전기담요 GOK-840 리뷰 (Imetec Pocket Heated Blanket)', url: '/posts/imetec-pocket-heated-over-blanket-gok-840-review.html' },
+    { slug: 'seoul-gyenam-park-sinjeongsan-barrier-free-forest-trail-yangcheon-guide', title: '🌳 서울 양천구 계남근린공원 신정산 무장애 숲길 가이드 (Gyenam Park)', url: '/posts/seoul-gyenam-park-sinjeongsan-barrier-free-forest-trail-yangcheon-guide.html' }
   ];
 
   function renderAdminToast(info, today, yesterday, openByDefault) {

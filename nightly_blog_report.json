@@ -1,48 +1,34 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "posts": [
     {
       "n": 1,
       "site": "dctrade.co.kr",
       "category": "K-Beauty (B2B + Amazon)",
-      "title": "LG Pra.L Melabeam Toning Review: Korean LED Tone-Care Device for Dark Spots, Plus Wholesale Sourcing",
-      "slug": "lg-pral-melabeam-toning-korean-led-tone-care-device",
-      "live_url": "https://dctrade.co.kr/blog/lg-pral-melabeam-toning-korean-led-tone-care-device.html",
-      "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1R_yWqMIhzLFNUaiGI--UlibD-PaygaKR",
-      "drive_english_folder_url": "https://drive.google.com/drive/folders/1fI7-IJB623tzVvPjHepqFx7eZqZITRlQ",
-      "comments_seeded": 4,
-      "amazon_link": "https://www.amazon.com/s?k=LG+Pra.L+Melabeam+Toning&tag=dctrade-20",
-      "travel_links": [],
-      "indexing": "pending_browser — Search Console \"Request indexing\" needs browser (not done)"
+      "skipped": true,
+      "reason": "no material",
+      "detail": "no material — no unused single K-beauty COSMETIC (skincare/makeup) in Drive '네이버 쇼핑커넥트' (all date folders 2026-09-10…2026-10-27 re-checked; no new product folders since 2026-10-27) or /workspace/shorts/clips (all cosmetic clips already published); beauty devices are forbidden, so no substitute"
     },
     {
       "n": 2,
       "site": "koreapicks.co.kr",
       "category": "✨ K-Beauty",
-      "title": "LG Pra.L Melabeam Toning Review: Korean At-Home LED Device for Dark Spots and Uneven Tone",
-      "slug": "lg-pral-melabeam-toning-review",
-      "live_url": "https://koreapicks.co.kr/posts/lg-pral-melabeam-toning-review.html",
-      "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1R_yWqMIhzLFNUaiGI--UlibD-PaygaKR",
-      "drive_english_folder_url": "https://drive.google.com/drive/folders/1fI7-IJB623tzVvPjHepqFx7eZqZITRlQ",
-      "comments_seeded": 3,
-      "amazon_link": "https://www.amazon.com/s?k=LG+Pra.L+Melabeam+Toning&tag=dctrade-20",
-      "travel_links": [],
-      "indexing": "pending_browser — Search Console \"Request indexing\" needs browser (not done)"
+      "skipped": true,
+      "reason": "no material",
+      "detail": "skipped together with post 1 (same cosmetic required): no material — no unused single K-beauty COSMETIC (skincare/makeup) in Drive '네이버 쇼핑커넥트' (all date folders 2026-09-10…2026-10-27 re-checked; no new product folders since 2026-10-27) or /workspace/shorts/clips (all cosmetic clips already published); beauty devices are forbidden, so no substitute"
     },
     {
       "n": 3,
       "site": "koreapicks.co.kr",
       "category": "🏠 Tech & Gear",
-      "title": "Airmade Aquamarine AMH-9002 Review: Korean 9L Hybrid Heated Humidifier with Auto Hot-Air Drying",
-      "slug": "airmade-aquamarine-amh-9002-hybrid-heated-humidifier-review",
-      "live_url": "https://koreapicks.co.kr/posts/airmade-aquamarine-amh-9002-hybrid-heated-humidifier-review.html",
+      "title": "Edir Carbon Five-Sided Heater Review: The Korean \"Obang\" Space Heater with 5 Warm Faces",
+      "slug": "edir-carbon-five-sided-heater-obang-nanro-review",
+      "live_url": "https://koreapicks.co.kr/posts/edir-carbon-five-sided-heater-obang-nanro-review.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1w0aESQ87naRO0KVJz7k_7kAs29-l1fe-",
-      "drive_english_folder_url": "https://drive.google.com/drive/folders/1-d4_5206BW0sCna1mrpbzkRkKinMli2y",
-      "comments_seeded": 2,
-      "amazon_link": "https://www.amazon.com/s?k=Hybrid+Warm+and+Cool+Mist+Humidifier+Large+Room+Tower&tag=dctrade-20",
+      "drive_folder_url": "https://drive.google.com/drive/folders/13kTp0EVuveEEU3a0oVX2nx2Xb5r_BNY7",
+      "drive_english_folder_url": "https://drive.google.com/drive/folders/19Hvq3tNSdsoLUpPrO2Ph1e_TiizMbfCM",
+      "comments_seeded": 4,
+      "amazon_link": "https://www.amazon.com/s?k=5+Sided+Carbon+Infrared+Space+Heater+Tower&tag=dctrade-20",
       "travel_links": [],
       "indexing": "pending_browser — Search Console \"Request indexing\" needs browser (not done)"
     },
@@ -50,39 +36,38 @@
       "n": 4,
       "site": "koreapicks.co.kr",
       "category": "Travel (Seoul)",
-      "title": "Seoul Hakdong Park Guide: A Quiet Pine Forest Walk Near Sinsa Station and Garosu-gil, Gangnam",
-      "slug": "seoul-hakdong-park-gangnam-sinsa-station-forest-walk-guide",
-      "live_url": "https://koreapicks.co.kr/posts/seoul-hakdong-park-gangnam-sinsa-station-forest-walk-guide.html",
+      "title": "Seoul Song Jin-woo Statue Guide: An Independence History Stop Inside Children's Grand Park, Gwangjin",
+      "slug": "seoul-song-jin-woo-statue-childrens-grand-park-gwangjin-guide",
+      "live_url": "https://koreapicks.co.kr/posts/seoul-song-jin-woo-statue-childrens-grand-park-gwangjin-guide.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/13_qyT31lOFx5KOYIVP5Wkb4Ue27iHLFW",
-      "drive_english_folder_url": "https://drive.google.com/drive/folders/1H1YaG4L74oJA30JfVY0m4uduK_5BY6nY",
-      "comments_seeded": 4,
+      "drive_folder_url": "https://drive.google.com/drive/folders/1oQJd5fzwSFwqHtjYJIEWSXmn2gAf-80e",
+      "drive_english_folder_url": "https://drive.google.com/drive/folders/1GKsiNkG8JGwlBaALNP1yTDeEdlxvVO8g",
+      "comments_seeded": 3,
       "amazon_link": null,
       "travel_links": [
         "<a href=\"https://tp.media/r?marker=795736&amp;p=4110&amp;u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DSeoul\" data-klook-link=\"true\" target=\"_blank\" class=\"btn btn-klook btn-sm\" rel=\"sponsored noopener\">🎫 Seoul tours &amp; activities on Klook</a>",
-        "<a href=\"https://tp.media/r?marker=795736&amp;p=4114&amp;u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DSinsa%2BGangnam%2BSeoul\" data-trip-link=\"true\" target=\"_blank\" class=\"btn btn-trip btn-sm\" rel=\"sponsored noopener\">🏨 Hotels near Sinsa &amp; Gangnam on Trip.com</a>",
+        "<a href=\"https://tp.media/r?marker=795736&amp;p=4114&amp;u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DKonkuk%2BUniversity%2BSeoul\" data-trip-link=\"true\" target=\"_blank\" class=\"btn btn-trip btn-sm\" rel=\"sponsored noopener\">🏨 Hotels near Konkuk Univ. &amp; Gwangjin on Trip.com</a>",
         "<a href=\"https://tp.media/r?marker=795736&amp;p=4110&amp;u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DKorea%2BeSIM\" data-klook-link=\"true\" target=\"_blank\" class=\"btn btn-klook btn-sm\" rel=\"sponsored noopener\">📶 Korea eSIM &amp; Airport Transfers on Klook</a>"
       ],
       "indexing": "pending_browser — Search Console \"Request indexing\" needs browser (not done)"
     }
   ],
   "git": {
-    "duckcheon_korea": "452c66a (origin/main)",
-    "korea_picks_origin": "21e1a34",
-    "intid85_github_io_root": "99e4669 (cherry-pick onto root/main)"
+    "duckcheon_korea": "no change (post 1 skipped)",
+    "korea_picks_origin": "2ac34e8",
+    "intid85_github_io_root": "f7adb01 (cherry-pick onto root/main)"
   },
   "errors": [
-    "Posts 1-2 cover a Korean BEAUTY DEVICE (LG Pra.L Melabeam Toning LED tone-care device), not a cosmetic: no unpublished K-beauty cosmetic remains in the Drive ShoppingConnect folders or /workspace/shorts/clips (all dalba/IOPE/Centellian/Dr.G/ACNOPE/Miracle Muse/Arocell/Whoo/Sulwhasoo/Maxclinic/Offon already published; Milbon is Japanese; Nivea/SkinCeuticals are not K-beauty). New K-beauty cosmetic source folders are needed."
+    "Posts 1-2 skipped: no unused K-beauty cosmetic material. New cosmetic product folders in Drive '네이버 쇼핑커넥트' are needed to resume posts 1-2."
   ],
   "notes": [
-    "Topics not repeated vs 2026-11-11 (ACNOPE CERA-GF Cream, Imetec GOK-840, Seoul Gyenam Park).",
-    "Post 1-2: LG Pra.L Melabeam Toning (SPD-003, launched June 2026, LG H&H). 4 real Drive photos (model face and Korean '증정' gift text cropped out) + 1 official lgpralofficial.co.kr product shot (gift graphic cropped). No AI/mosaic/blur. Specs (590/630/830nm, 3 modes, 5 levels, 190g, 5V charging, not waterproof, not a medical device) from official product info. No identical US Amazon listing, so a search link is used.",
-    "Post 3: Airmade Aquamarine AMH-9002 hybrid heated humidifier (Drive 쇼핑커넥트 Airmade folder). 4 real Drive photos (faces cropped) + 1 official airmade.co.kr product shot. 220V caveat included. Amazon category search link (no identical US listing).",
-    "Post 4: Hakdong Park, Nonhyeon-dong, Gangnam-gu (near Sinsa Station/Garosu-gil). The Drive folder images come from 사진프롬프트.json (AI-generated), so 5 real KTO TourAPI photos (KOGL Type 1, contentid 2754735 set) and KTO-listed facts were used. 0 amazon.com / 0 tag=dctrade-20; 6 Travelpayouts 795736 links (Klook Seoul, Trip.com Sinsa/Gangnam hotels, Klook Korea eSIM, x2 each), rel sponsored noopener.",
-    "Amazon/Travelpayouts links verified by regex on HTML only; never fetched. HTTP 200 checked only on own blog URLs/home pages (all 200 on first try after push).",
-    "seo_upgrade_helper.upgrade_html_file run on 4 new files: unchanged (SEO already present). validate.py OK; sitemaps parse; trackers node --check OK.",
-    "Comments seeded 4/3/2/4 in Supabase zaahvfqfwtcpfvmuiics public.dctrade_blog_comments, ratings mixed 5/4.",
-    "Drive 영문블로그 subfolders created under the 3 source folders with HTML + 요약.md (post 1+2 share the LG folder)."
+    "Topics not repeated vs 2026-11-12 (LG Pra.L Melabeam Toning, Airmade AMH-9002, Seoul Hakdong Park).",
+    "Post 3: Edir 오방난로 carbon five-sided heater (Drive 쇼핑커넥트 2026-10-07/11_에디르 folder). 5 real Drive brand photos without people (01,02,07,08,09; photos with model faces not used). No AI/mosaic/blur. Specs from Korean product notice (오늘의집/Ananti listings: 220V 60Hz, 400W per face/2,000W, 33㎡, 300×300×615mm, KC SU072146-25001, released 2025-09) + nosearch/owner review (tip-over sensor/timer, ~4.5kg, attributed). 220V caveat; Amazon category search link (no identical US listing).",
+    "Post 4: 고하송진우선생동상 inside Seoul Children's Grand Park, Gwangjin-gu (Drive 여행 글쓰기 folder '서울 광진구 고하 송진우 선생 동상_2026-10-11'). Drive images are AI (사진프롬프트.json), so 5 real KTO TourAPI photos (contentid 1827189, KOGL Type 3 with attribution) + KTO facts used. 0 amazon.com / 0 tag=dctrade-20; 6 Travelpayouts 795736 links (Klook Seoul, Trip.com Konkuk Univ./Gwangjin hotels, Klook Korea eSIM, x2 each), rel sponsored noopener.",
+    "Amazon/Travelpayouts links verified by regex on HTML only; never fetched. HTTP 200 checked only on own koreapicks.co.kr URLs (404 on first try, 200 on second ~20s later).",
+    "seo_upgrade_helper.upgrade_html_file run on 2 new files: unchanged (SEO already present). validate.py OK; sitemap parses; kpicks-tracker node --check OK; index All count 50→52.",
+    "Comments seeded 4/3 in Supabase zaahvfqfwtcpfvmuiics public.dctrade_blog_comments, ratings 5/4/5/4 and 5/4/5.",
+    "Drive 영문블로그 subfolders created under the 2 source folders with HTML + 요약.md."
   ],
-  "indexing_blocker": "Search Console requires a browser; 4 URLs still need Request indexing (indexing=pending_browser)."
+  "indexing_blocker": "Search Console requires a browser; 2 URLs still need Request indexing (indexing=pending_browser)."
 }

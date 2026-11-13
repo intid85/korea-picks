@@ -412,7 +412,9 @@
     { slug: 'airmade-aquamarine-amh-9002-hybrid-heated-humidifier-review', title: '💧 에어메이드 가열살균 가습기 아쿠아마린 AMH-9002 리뷰 (Airmade Humidifier)', url: '/posts/airmade-aquamarine-amh-9002-hybrid-heated-humidifier-review.html' },
     { slug: 'seoul-hakdong-park-gangnam-sinsa-station-forest-walk-guide', title: '🌲 서울 강남구 학동근린공원 신사역 숲길 산책 가이드 (Hakdong Park)', url: '/posts/seoul-hakdong-park-gangnam-sinsa-station-forest-walk-guide.html' },
     { slug: 'edir-carbon-five-sided-heater-obang-nanro-review', title: '🔥 에디르 오방난로 카본 전기히터 리뷰 (Edir Five-Sided Carbon Heater)', url: '/posts/edir-carbon-five-sided-heater-obang-nanro-review.html' },
-    { slug: 'seoul-song-jin-woo-statue-childrens-grand-park-gwangjin-guide', title: '🗽 서울 광진구 고하 송진우 선생 동상 어린이대공원 역사 산책 가이드 (Song Jin-woo Statue)', url: '/posts/seoul-song-jin-woo-statue-childrens-grand-park-gwangjin-guide.html' }
+    { slug: 'seoul-song-jin-woo-statue-childrens-grand-park-gwangjin-guide', title: '🗽 서울 광진구 고하 송진우 선생 동상 어린이대공원 역사 산책 가이드 (Song Jin-woo Statue)', url: '/posts/seoul-song-jin-woo-statue-childrens-grand-park-gwangjin-guide.html' },
+    { slug: 'bose-quietcomfort-ultra-headphones-2nd-gen-review', title: '🎧 보스 QC 울트라 헤드폰 2세대 리뷰 (Bose QuietComfort Ultra 2nd Gen)', url: '/posts/bose-quietcomfort-ultra-headphones-2nd-gen-review.html' },
+    { slug: 'busan-daejeo-campground-ecological-park-gangseo-guide', title: '⛺ 부산 강서구 대저캠핑장 대저생태공원 오토캠핑 가이드 (Daejeo Campground)', url: '/posts/busan-daejeo-campground-ecological-park-gangseo-guide.html' }
   ];
 
   function renderAdminToast(info, today, yesterday, openByDefault) {

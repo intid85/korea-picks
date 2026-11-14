@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "posts": [
     {
       "n": 1,
@@ -7,7 +7,7 @@
       "category": "K-Beauty (B2B + Amazon)",
       "skipped": true,
       "reason": "no material",
-      "detail": "no material — no unused single K-beauty COSMETIC (skincare/makeup) in Drive '네이버 쇼핑커넥트' (folder list re-checked 2026-11-14 00:00 KST: date folders 2026-09-10…2026-10-27 only, no new product folders since 2026-10-27; the only cosmetic left in 2026-10-27 is Centellian24 Madeca Cream Time Reverse Zero, already published) or /workspace/shorts/clips (no new folders since 2026-11-10; all cosmetic clips already published); beauty devices are forbidden, so no substitute"
+      "detail": "no material — no unused single K-beauty COSMETIC (skincare/makeup) in Drive '네이버 쇼핑커넥트' (folder list re-checked 2026-11-15 00:05 KST: date folders 2026-09-10…2026-10-27 only, no new product folders since 2026-10-27; the only cosmetic in 2026-10-27 is Centellian24 Madeca Cream Time Reverse Zero, already published; #22 EOA RF device is a beauty device, forbidden) or /workspace/shorts/clips (no new folders since 2026-11-10; all cosmetic clips already published); beauty devices are forbidden, so no substitute"
     },
     {
       "n": 2,
@@ -15,38 +15,38 @@
       "category": "✨ K-Beauty",
       "skipped": true,
       "reason": "no material",
-      "detail": "skipped together with post 1 (same cosmetic required): no material — no unused single K-beauty COSMETIC (skincare/makeup) in Drive '네이버 쇼핑커넥트' (folder list re-checked 2026-11-14 00:00 KST: date folders 2026-09-10…2026-10-27 only, no new product folders since 2026-10-27; the only cosmetic left in 2026-10-27 is Centellian24 Madeca Cream Time Reverse Zero, already published) or /workspace/shorts/clips (no new folders since 2026-11-10; all cosmetic clips already published); beauty devices are forbidden, so no substitute"
+      "detail": "skipped together with post 1 (same cosmetic required): no material — no unused single K-beauty COSMETIC (skincare/makeup) in Drive '네이버 쇼핑커넥트' (folder list re-checked 2026-11-15 00:05 KST: date folders 2026-09-10…2026-10-27 only, no new product folders since 2026-10-27; the only cosmetic in 2026-10-27 is Centellian24 Madeca Cream Time Reverse Zero, already published; #22 EOA RF device is a beauty device, forbidden) or /workspace/shorts/clips (no new folders since 2026-11-10; all cosmetic clips already published); beauty devices are forbidden, so no substitute"
     },
     {
       "n": 3,
       "site": "koreapicks.co.kr",
       "category": "🏠 Tech & Gear",
-      "title": "Bose QuietComfort Ultra Headphones 2nd Gen Review: Lossless USB-C, 30-Hour ANC and the Korean Spare-Cushion Set",
-      "slug": "bose-quietcomfort-ultra-headphones-2nd-gen-review",
-      "live_url": "https://koreapicks.co.kr/posts/bose-quietcomfort-ultra-headphones-2nd-gen-review.html",
+      "title": "Samsung Odyssey G5 LS27FG500 Review: 27-Inch QHD 180Hz IPS Gaming Monitor for Games and Work",
+      "slug": "samsung-odyssey-g5-ls27fg500-qhd-180hz-ips-monitor-review",
+      "live_url": "https://koreapicks.co.kr/posts/samsung-odyssey-g5-ls27fg500-qhd-180hz-ips-monitor-review.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1nVWBcJVdJPxVDWG7Kbpr0PYeih_WuuLB",
-      "drive_english_folder_url": "https://drive.google.com/drive/folders/1yp3kzbs0ciXuqHAnY_DpnJl-Kb0kjctk",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1Akj-jWVR8wwHaREPt-WW_-Rd_yEsaleh",
+      "drive_english_folder_url": "https://drive.google.com/drive/folders/1Ssjf-YDwTBFrZS_iHcFNuxyQ9hZnH0vC",
       "comments_seeded": 4,
-      "amazon_link": "https://www.amazon.com/s?k=Bose+QuietComfort+Ultra+Headphones+2nd+Gen&tag=dctrade-20",
+      "amazon_link": "https://www.amazon.com/s?k=Samsung+Odyssey+G5+G50F+27+inch+QHD+180Hz+IPS+Gaming+Monitor&tag=dctrade-20",
       "travel_links": [],
       "indexing": "pending_browser — Search Console \"Request indexing\" needs browser (not done)"
     },
     {
       "n": 4,
       "site": "koreapicks.co.kr",
-      "category": "Travel (Busan)",
-      "title": "Busan Daejeo Campground Guide: Riverside Camping in Daejeo Ecological Park, Gangseo-gu",
-      "slug": "busan-daejeo-campground-ecological-park-gangseo-guide",
-      "live_url": "https://koreapicks.co.kr/posts/busan-daejeo-campground-ecological-park-gangseo-guide.html",
+      "category": "Travel (Seoul)",
+      "title": "Hanseong Baekje Cultural Festival Guide: Songpa's Free Autumn Festival at Olympic Park, Seoul",
+      "slug": "seoul-hanseong-baekje-cultural-festival-olympic-park-songpa-guide",
+      "live_url": "https://koreapicks.co.kr/posts/seoul-hanseong-baekje-cultural-festival-olympic-park-songpa-guide.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1RODm_d4INAqOdyVGlgm7TkqxpJSeeYur",
-      "drive_english_folder_url": "https://drive.google.com/drive/folders/1Uf7koNSj66wSp-guJooMLuIpRc1b9YSo",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1E1qrHnb_2cpXT1VudFHlDVGDjN2HKs4o",
+      "drive_english_folder_url": "https://drive.google.com/drive/folders/1tRuyXazaiiFT3TzRgcs7nxGzHiXjIt16",
       "comments_seeded": 3,
       "amazon_link": null,
       "travel_links": [
-        "<a href=\"https://tp.media/r?marker=795736&amp;p=4110&amp;u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DBusan\" data-klook-link=\"true\" target=\"_blank\" class=\"btn btn-klook btn-sm\" rel=\"sponsored noopener\">🎫 Busan tours &amp; activities on Klook</a>",
-        "<a href=\"https://tp.media/r?marker=795736&amp;p=4114&amp;u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DGimhae%2BAirport%2BBusan\" data-trip-link=\"true\" target=\"_blank\" class=\"btn btn-trip btn-sm\" rel=\"sponsored noopener\">🏨 Hotels near Gimhae Airport &amp; Gangseo on Trip.com</a>",
+        "<a href=\"https://tp.media/r?marker=795736&amp;p=4110&amp;u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DSeoul\" data-klook-link=\"true\" target=\"_blank\" class=\"btn btn-klook btn-sm\" rel=\"sponsored noopener\">🎫 Seoul tours &amp; activities on Klook</a>",
+        "<a href=\"https://tp.media/r?marker=795736&amp;p=4114&amp;u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DJamsil%2BSongpa%2BSeoul\" data-trip-link=\"true\" target=\"_blank\" class=\"btn btn-trip btn-sm\" rel=\"sponsored noopener\">🏨 Hotels in Jamsil &amp; Songpa on Trip.com</a>",
         "<a href=\"https://tp.media/r?marker=795736&amp;p=4110&amp;u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DKorea%2BeSIM\" data-klook-link=\"true\" target=\"_blank\" class=\"btn btn-klook btn-sm\" rel=\"sponsored noopener\">📶 Korea eSIM &amp; Airport Transfers on Klook</a>"
       ],
       "indexing": "pending_browser — Search Console \"Request indexing\" needs browser (not done)"
@@ -54,20 +54,21 @@
   ],
   "git": {
     "duckcheon_korea": "no change (post 1 skipped)",
-    "korea_picks_origin": "9261933",
-    "intid85_github_io_root": "ddb0c6b (cherry-pick onto root/main)"
+    "korea_picks_origin": "bc26710",
+    "intid85_github_io_root": "d706b7b (cherry-pick onto root/main)"
   },
   "errors": [
     "Posts 1-2 skipped: no unused K-beauty cosmetic material. New cosmetic product folders in Drive '네이버 쇼핑커넥트' are needed to resume posts 1-2."
   ],
   "notes": [
-    "Topics not repeated vs 2026-11-13 (Edir heater, Seoul Song Jin-woo statue).",
-    "Post 3: Bose QC Ultra Headphones 2nd Gen + ear cushion set (Drive 쇼핑커넥트 2026-10-27/05_[공식][BOSE] folder; Bose official store on Naver, 539,000 KRW). 5 real Drive store photos (01-05, product only, no people). No AI/mosaic/blur. Specs from Bose official product page + press release (2025-09-10 announce, 2025-10-02 release, 30h ANC/23h Immersive/45h off, USB-C lossless 16-bit 44.1/48kHz, BT 5.4 multipoint, SBC/AAC/aptX Adaptive, 0.583 lb). Amazon: one search link type (2 instances: CTA + index card) with tag=dctrade-20.",
-    "Post 4: Daejeo Campground (대저캠핑장), Daejeo Ecological Park, Gangseo-gu, Busan (Drive 네이버 정보성 글쓰기 '대저캠핑장_2026-10-11'). Drive images are AI (사진프롬프트.json), so 5 real KTO TourAPI photos used (campground contentid 2729157 first image KOGL Type 1 + park contentid 2487925 images 3491915/3491914/3491927/3491931 KOGL Type 3, attributed) + KTO facts (sites ~100, auto/general zones, electricity, check-in 14:00/out 12:00, open all year, parking 1 car free / extra 2,400 KRW/day, tel 051-941-0957) + official site notice (monthly lottery booking). 0 amazon.com / 0 tag=dctrade-20; 6 Travelpayouts 795736 links (Klook Busan, Trip.com Gimhae Airport/Gangseo hotels, Klook Korea eSIM, x2 each), rel sponsored noopener.",
-    "Amazon/Travelpayouts links verified by regex on HTML only; never fetched. HTTP 200 checked only on own koreapicks.co.kr URLs (200 on first try).",
-    "seo_upgrade_helper.upgrade_html_file run on 2 new files: unchanged (SEO already present). validate.py OK; sitemap parses; kpicks-tracker node --check OK; index All count 52→54.",
+    "Topics not repeated vs 2026-11-13/14 (Edir heater, Song Jin-woo statue, Bose QC Ultra 2nd Gen, Daejeo Campground).",
+    "Post 3: Samsung Odyssey G5 LS27FG500 (G50F) 27\" QHD 180Hz IPS monitor (Drive 쇼핑커넥트 2026-10-27/06_[N배송] folder; Samsung official partner store on Naver, 323,000 KRW). 5 Drive store photos (product only, no people); '삼성전자 공식파트너' corner badge on 01-03 and small logo on 04 removed by cropping only (no mosaic/blur/AI). Specs from Samsung official product pages/spec sheets (IPS, 2560x1440, 180Hz, 1ms GtG, 300nit, 1000:1, HDR10, 99% sRGB, FreeSync/G-Sync Compatible, DP1.2+HDMI2.0, HAS 105mm/tilt/swivel/pivot, VESA 100, 4.1kg). Amazon: one search link type (2 instances: CTA + index card) with tag=dctrade-20.",
+    "Post 4: Hanseong Baekje Cultural Festival (한성백제문화제), Olympic Park 88 Lawn, Songpa-gu, Seoul (Drive 네이버 정보성 글쓰기/축제 '한성백제문화제_2026-10-16'). Drive images are AI (사진프롬프트.json), so 5 real KTO TourAPI photos used, all KOGL Type 1 (Olympic Park 126532: 4129637/4129635/4129636; Seoul Baekje Museum 1916296: 3502855; Deulkkotmaru 2758192: 3516652), attributed. Facts from Songpa-gu official festival site, Seoul festival portal (festacode 581), Yonhap 2026-10-12, KTO. Festival (Oct 23-25, 2026) is past; post framed as annual festival recap + Olympic Park year-round visit. 0 amazon.com / 0 tag=dctrade-20; 6 Travelpayouts 795736 links (Klook Seoul, Trip.com Jamsil/Songpa hotels, Klook Korea eSIM, x2 each), rel sponsored noopener.",
+    "Amazon/Travelpayouts links verified by regex on HTML only; never fetched. HTTP 200 checked only on own koreapicks.co.kr URLs (404 on first try, 200 on second ~20s later).",
+    "seo_upgrade_helper.upgrade_html_file run on 2 new files: unchanged (SEO already present). validate.py OK; sitemap parses; kpicks-tracker node --check OK; index All count 54→56; koreapicks.co.kr homepage has no Factory Map link.",
     "Comments seeded 4/3 in Supabase zaahvfqfwtcpfvmuiics public.dctrade_blog_comments, ratings 5/4/5/4 and 5/4/5.",
-    "Drive 영문블로그 subfolders created under the 2 source folders with HTML + 요약.md."
+    "Drive 영문블로그 subfolders created under the 2 source folders with HTML + 요약.md.",
+    "Note: the intid85.github.io (root) mirror's index.html still has a 'Factory Map' nav link (root never received the 2026-11-14 removal commit); not touched per 'do not touch anything else'. koreapicks.co.kr itself (origin, CNAME) has no Factory Map link."
   ],
   "indexing_blocker": "Search Console requires a browser; 2 URLs still need Request indexing (indexing=pending_browser)."
 }

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://koreapicks.co.kr/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -412,6 +412,18 @@
   <url>
     <loc>https://koreapicks.co.kr/posts/busan-daejeo-campground-ecological-park-gangseo-guide.html</loc>
     <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://koreapicks.co.kr/posts/samsung-odyssey-g5-ls27fg500-qhd-180hz-ips-monitor-review.html</loc>
+    <lastmod>2026-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://koreapicks.co.kr/posts/seoul-hanseong-baekje-cultural-festival-olympic-park-songpa-guide.html</loc>
+    <lastmod>2026-11-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

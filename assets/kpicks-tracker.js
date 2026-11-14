@@ -414,7 +414,9 @@
     { slug: 'edir-carbon-five-sided-heater-obang-nanro-review', title: '🔥 에디르 오방난로 카본 전기히터 리뷰 (Edir Five-Sided Carbon Heater)', url: '/posts/edir-carbon-five-sided-heater-obang-nanro-review.html' },
     { slug: 'seoul-song-jin-woo-statue-childrens-grand-park-gwangjin-guide', title: '🗽 서울 광진구 고하 송진우 선생 동상 어린이대공원 역사 산책 가이드 (Song Jin-woo Statue)', url: '/posts/seoul-song-jin-woo-statue-childrens-grand-park-gwangjin-guide.html' },
     { slug: 'bose-quietcomfort-ultra-headphones-2nd-gen-review', title: '🎧 보스 QC 울트라 헤드폰 2세대 리뷰 (Bose QuietComfort Ultra 2nd Gen)', url: '/posts/bose-quietcomfort-ultra-headphones-2nd-gen-review.html' },
-    { slug: 'busan-daejeo-campground-ecological-park-gangseo-guide', title: '⛺ 부산 강서구 대저캠핑장 대저생태공원 오토캠핑 가이드 (Daejeo Campground)', url: '/posts/busan-daejeo-campground-ecological-park-gangseo-guide.html' }
+    { slug: 'busan-daejeo-campground-ecological-park-gangseo-guide', title: '⛺ 부산 강서구 대저캠핑장 대저생태공원 오토캠핑 가이드 (Daejeo Campground)', url: '/posts/busan-daejeo-campground-ecological-park-gangseo-guide.html' },
+    { slug: 'samsung-odyssey-g5-ls27fg500-qhd-180hz-ips-monitor-review', title: '🖥️ 삼성 오디세이 G5 LS27FG500 QHD 180Hz IPS 모니터 리뷰 (Samsung Odyssey G5)', url: '/posts/samsung-odyssey-g5-ls27fg500-qhd-180hz-ips-monitor-review.html' },
+    { slug: 'seoul-hanseong-baekje-cultural-festival-olympic-park-songpa-guide', title: '🎆 서울 송파 한성백제문화제 올림픽공원 88잔디마당 가이드 (Hanseong Baekje Cultural Festival)', url: '/posts/seoul-hanseong-baekje-cultural-festival-olympic-park-songpa-guide.html' }
   ];
 
   function renderAdminToast(info, today, yesterday, openByDefault) {

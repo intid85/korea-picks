@@ -418,7 +418,9 @@
     { slug: 'samsung-odyssey-g5-ls27fg500-qhd-180hz-ips-monitor-review', title: '🖥️ 삼성 오디세이 G5 LS27FG500 QHD 180Hz IPS 모니터 리뷰 (Samsung Odyssey G5)', url: '/posts/samsung-odyssey-g5-ls27fg500-qhd-180hz-ips-monitor-review.html' },
     { slug: 'seoul-hanseong-baekje-cultural-festival-olympic-park-songpa-guide', title: '🎆 서울 송파 한성백제문화제 올림픽공원 88잔디마당 가이드 (Hanseong Baekje Cultural Festival)', url: '/posts/seoul-hanseong-baekje-cultural-festival-olympic-park-songpa-guide.html' },
     { slug: 'braun-series-9-pro-plus-9665cc-electric-shaver-review', title: '🪒 브라운 전기면도기 시리즈9 PRO+ 9665cc 리뷰 (Braun Series 9 PRO+)', url: '/posts/braun-series-9-pro-plus-9665cc-electric-shaver-review.html' },
-    { slug: 'seoul-nakseongdae-park-gwanak-gang-gam-chan-festival-guide', title: '⭐ 서울 관악구 낙성대공원 강감찬 생가터·관악강감찬축제 가이드 (Nakseongdae Park)', url: '/posts/seoul-nakseongdae-park-gwanak-gang-gam-chan-festival-guide.html' }
+    { slug: 'seoul-nakseongdae-park-gwanak-gang-gam-chan-festival-guide', title: '⭐ 서울 관악구 낙성대공원 강감찬 생가터·관악강감찬축제 가이드 (Nakseongdae Park)', url: '/posts/seoul-nakseongdae-park-gwanak-gang-gam-chan-festival-guide.html' },
+    { slug: 'huplus-kimpro-25-full-body-massage-mat-review', title: '💆 휴플러스 김프로 전신 마사지기 안마매트 KIMPRO-25 리뷰 (Huplus KIMPRO-25)', url: '/posts/huplus-kimpro-25-full-body-massage-mat-review.html' },
+    { slug: 'seoul-world-cup-park-haneul-park-silver-grass-petlympic-mapo-guide', title: '🌾 서울 마포 월드컵공원 하늘공원 억새·메타세쿼이아길·2026 서울 펫림픽 가이드 (World Cup Park)', url: '/posts/seoul-world-cup-park-haneul-park-silver-grass-petlympic-mapo-guide.html' }
   ];
 
   function renderAdminToast(info, today, yesterday, openByDefault) {

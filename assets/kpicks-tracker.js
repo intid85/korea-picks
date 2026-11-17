@@ -420,7 +420,9 @@
     { slug: 'braun-series-9-pro-plus-9665cc-electric-shaver-review', title: '🪒 브라운 전기면도기 시리즈9 PRO+ 9665cc 리뷰 (Braun Series 9 PRO+)', url: '/posts/braun-series-9-pro-plus-9665cc-electric-shaver-review.html' },
     { slug: 'seoul-nakseongdae-park-gwanak-gang-gam-chan-festival-guide', title: '⭐ 서울 관악구 낙성대공원 강감찬 생가터·관악강감찬축제 가이드 (Nakseongdae Park)', url: '/posts/seoul-nakseongdae-park-gwanak-gang-gam-chan-festival-guide.html' },
     { slug: 'huplus-kimpro-25-full-body-massage-mat-review', title: '💆 휴플러스 김프로 전신 마사지기 안마매트 KIMPRO-25 리뷰 (Huplus KIMPRO-25)', url: '/posts/huplus-kimpro-25-full-body-massage-mat-review.html' },
-    { slug: 'seoul-world-cup-park-haneul-park-silver-grass-petlympic-mapo-guide', title: '🌾 서울 마포 월드컵공원 하늘공원 억새·메타세쿼이아길·2026 서울 펫림픽 가이드 (World Cup Park)', url: '/posts/seoul-world-cup-park-haneul-park-silver-grass-petlympic-mapo-guide.html' }
+    { slug: 'seoul-world-cup-park-haneul-park-silver-grass-petlympic-mapo-guide', title: '🌾 서울 마포 월드컵공원 하늘공원 억새·메타세쿼이아길·2026 서울 펫림픽 가이드 (World Cup Park)', url: '/posts/seoul-world-cup-park-haneul-park-silver-grass-petlympic-mapo-guide.html' },
+    { slug: 'braun-nevo-11010c-electric-shaver-review', title: '🪒 브라운 네보 전기면도기 NEVO 11010C 세척&충전스테이션 리뷰 (Braun NEVO 11010C)', url: '/posts/braun-nevo-11010c-electric-shaver-review.html' },
+    { slug: 'seoul-nodeul-island-music-festival-han-river-yongsan-guide', title: '🎵 서울 용산 노들섬 가이드: 2026 서울뮤직페스티벌·한강 노을·라이브하우스 (Nodeul Island)', url: '/posts/seoul-nodeul-island-music-festival-han-river-yongsan-guide.html' }
   ];
 
   function renderAdminToast(info, today, yesterday, openByDefault) {

@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "posts": [
     {
       "n": 1,
@@ -7,7 +7,7 @@
       "category": "K-Beauty (B2B + Amazon)",
       "skipped": true,
       "reason": "no material",
-      "detail": "no material — no unused single K-beauty COSMETIC (skincare/makeup) in Drive '네이버 쇼핑커넥트' (folder list re-checked 2026-11-17 00:05 KST: date folders 2026-09-10…2026-10-27 only, no new product folders since 2026-10-27; the only cosmetic in 2026-10-27 is Centellian24 Madeca Cream Time Reverse Zero, already published; #22 EOA RF device is a beauty device, forbidden) or /workspace/shorts/clips (no new folders since 2026-11-10; all cosmetic clips already published); beauty devices are forbidden, so no substitute"
+      "detail": "no material — no unused single K-beauty COSMETIC (skincare/makeup) in Drive '네이버 쇼핑커넥트' (folder list re-checked 2026-11-18 00:02 KST: date folders 2026-09-10…2026-10-27 only, no new product folders since 2026-10-27; the only cosmetic in 2026-10-27 is Centellian24 Madeca Cream Time Reverse Zero, already published; #22 EOA RF device is a beauty device, forbidden) or /workspace/shorts/clips (no new folders since 2026-11-10; all cosmetic clips already published); beauty devices are forbidden, so no substitute"
     },
     {
       "n": 2,
@@ -15,20 +15,20 @@
       "category": "✨ K-Beauty",
       "skipped": true,
       "reason": "no material",
-      "detail": "skipped together with post 1 (same cosmetic required): no material — no unused single K-beauty COSMETIC (skincare/makeup) in Drive '네이버 쇼핑커넥트' (folder list re-checked 2026-11-17 00:05 KST: date folders 2026-09-10…2026-10-27 only, no new product folders since 2026-10-27; the only cosmetic in 2026-10-27 is Centellian24 Madeca Cream Time Reverse Zero, already published; #22 EOA RF device is a beauty device, forbidden) or /workspace/shorts/clips (no new folders since 2026-11-10; all cosmetic clips already published); beauty devices are forbidden, so no substitute"
+      "detail": "skipped together with post 1 (same cosmetic required): no material — no unused single K-beauty COSMETIC (skincare/makeup) in Drive '네이버 쇼핑커넥트' (folder list re-checked 2026-11-18 00:02 KST: date folders 2026-09-10…2026-10-27 only, no new product folders since 2026-10-27; the only cosmetic in 2026-10-27 is Centellian24 Madeca Cream Time Reverse Zero, already published; #22 EOA RF device is a beauty device, forbidden) or /workspace/shorts/clips (no new folders since 2026-11-10; all cosmetic clips already published); beauty devices are forbidden, so no substitute"
     },
     {
       "n": 3,
       "site": "koreapicks.co.kr",
       "category": "🏠 Tech & Gear",
-      "title": "Huplus KIMPRO-25 Review: Korean Full-Body Massage Mat with Heated Rollers and Leg Air Compression",
-      "slug": "huplus-kimpro-25-full-body-massage-mat-review",
-      "live_url": "https://koreapicks.co.kr/posts/huplus-kimpro-25-full-body-massage-mat-review.html",
+      "title": "Braun NEVO 11010C Review: Silk Glide Foil Electric Shaver with Cleaning Station",
+      "slug": "braun-nevo-11010c-electric-shaver-review",
+      "live_url": "https://koreapicks.co.kr/posts/braun-nevo-11010c-electric-shaver-review.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1JALEsMho94nUVIm0QrZy5DWu1tIz5sqc",
-      "drive_english_folder_url": "https://drive.google.com/drive/folders/1wnFTy1w8Cm8Q3zeqXMjVMNHQVlRgzKOq",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1gKcwinTKffVpgR0OQKpqBAYW_5NHp-DH",
+      "drive_english_folder_url": "https://drive.google.com/drive/folders/1tGUtofYJzxleJZF3QzLb3egJOm7PCLYq",
       "comments_seeded": 4,
-      "amazon_link": "https://www.amazon.com/s?k=Full+Body+Massage+Mat+Air+Compression+Leg+Massager+Heat&tag=dctrade-20",
+      "amazon_link": "https://www.amazon.com/s?k=Braun+Electric+Razor+Wet+Dry+Cleaning+Station&tag=dctrade-20",
       "travel_links": [],
       "indexing": "pending_browser — Search Console \"Request indexing\" needs browser (not done)"
     },
@@ -36,17 +36,17 @@
       "n": 4,
       "site": "koreapicks.co.kr",
       "category": "Travel (Seoul)",
-      "title": "Seoul World Cup Park Guide: Haneul Park Silver Grass, Metasequoia Lanes and the Seoul Petlympic, Mapo",
-      "slug": "seoul-world-cup-park-haneul-park-silver-grass-petlympic-mapo-guide",
-      "live_url": "https://koreapicks.co.kr/posts/seoul-world-cup-park-haneul-park-silver-grass-petlympic-mapo-guide.html",
+      "title": "Nodeul Island Guide: Seoul Music Festival, Han River Sunsets and Live House, Yongsan",
+      "slug": "seoul-nodeul-island-music-festival-han-river-yongsan-guide",
+      "live_url": "https://koreapicks.co.kr/posts/seoul-nodeul-island-music-festival-han-river-yongsan-guide.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1kid8Veg3cL4Pfl737vKcRb3UgZD6oQm5",
-      "drive_english_folder_url": "https://drive.google.com/drive/folders/1e_44h8DGsxrEu4paf4unSMnSktKKtqEe",
+      "drive_folder_url": "https://drive.google.com/drive/folders/11SEoes1UuJ1bGywJrP7clyumYf5qb03v",
+      "drive_english_folder_url": "https://drive.google.com/drive/folders/1EKCiqo-LKHGWXXwztFtxW6h7IPBZquxo",
       "comments_seeded": 3,
       "amazon_link": null,
       "travel_links": [
         "<a href=\"https://tp.media/r?marker=795736&amp;p=4110&amp;u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DSeoul\" data-klook-link=\"true\" target=\"_blank\" class=\"btn btn-klook btn-sm\" rel=\"sponsored noopener\">🎫 Seoul tours &amp; activities on Klook</a>",
-        "<a href=\"https://tp.media/r?marker=795736&amp;p=4114&amp;u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DSangam%2BMapo%2BSeoul\" data-trip-link=\"true\" target=\"_blank\" class=\"btn btn-trip btn-sm\" rel=\"sponsored noopener\">🏨 Hotels in Sangam &amp; Mapo on Trip.com</a>",
+        "<a href=\"https://tp.media/r?marker=795736&amp;p=4114&amp;u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DYongsan%2BSeoul\" data-trip-link=\"true\" target=\"_blank\" class=\"btn btn-trip btn-sm\" rel=\"sponsored noopener\">🏨 Hotels in Yongsan on Trip.com</a>",
         "<a href=\"https://tp.media/r?marker=795736&amp;p=4110&amp;u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DKorea%2BeSIM\" data-klook-link=\"true\" target=\"_blank\" class=\"btn btn-klook btn-sm\" rel=\"sponsored noopener\">📶 Korea eSIM &amp; Airport Transfers on Klook</a>"
       ],
       "indexing": "pending_browser — Search Console \"Request indexing\" needs browser (not done)"
@@ -54,21 +54,21 @@
   ],
   "git": {
     "duckcheon_korea": "no change (post 1 skipped)",
-    "korea_picks_origin": "2580031",
-    "intid85_github_io_root": "cd8cc2a (cherry-pick onto root/main)"
+    "korea_picks_origin": "794af83",
+    "intid85_github_io_root": "c165e9e (cherry-pick onto root/main)"
   },
   "errors": [
     "Posts 1-2 skipped: no unused K-beauty cosmetic material. New cosmetic product folders in Drive '네이버 쇼핑커넥트' are needed to resume posts 1-2."
   ],
   "notes": [
-    "Topics not repeated vs 2026-11-14/15/16 (Bose QC Ultra 2nd Gen, Daejeo Campground, Samsung Odyssey G5, Hanseong Baekje festival, Braun 9665cc, Nakseongdae Park).",
-    "Post 3: Huplus KIMPRO-25 folding full-body massage mat (Drive 쇼핑커넥트 2026-10-27/02_[무이자 6개월]휴플러스 folder; Huplus official store on Naver, 440,100 KRW). 5 Drive store photos; '의료자문 인증' badge and model faces removed by cropping only (01 badge+face, 04 face+caption, 05 cropped to remote/hand), 02-03 bottom Korean caption bands cropped (no mosaic/blur/AI). Specs from Korean product notice (ohou.se, wonju-mall) + enuri spec sheet (54x177x7 cm / folded 54x100x14 cm, 8.11 kg / 9.3 kg, DC 12V 36W, 5 auto modes, 15-min auto-off, heat, Happyroom Co., China OEM, 1-yr A/S, model released 2023.01). Not-a-medical-device caveat; 220V adapter caveat. No identical US listing, so Amazon category search link (2 instances: CTA + index card) with tag=dctrade-20. Category gear (consistent with Barner/Pulio massagers).",
-    "Post 4: Seoul World Cup Park (Mapo-gu) with Haneul Park silver grass, metasequoia lanes and the 2026 Seoul Petlympic (Drive 네이버 정보성 글쓰기/축제 '2026 서울 펫림픽_2026-10-16'). Drive images are AI (사진프롬프트.json), so 5 real KTO TourAPI photos used, all KOGL Type 1, attributed, unmodified (Haneul Park 2654607: 4063054/4063037; World Cup Park 128021: 3500987/3500988/3500992). Facts from KTO (128021 overview/hours/parking/02-300-5500; 2654607 hours 05:00-20:30; 4115205 Petlympic Oct 24-25 2026, 10:00-17:00, programmes, fees 40,000 KRW, free entry), VisitSeoul Haneul Park (shuttle fares 2026, 02-300-5501, 1.9 km from Exit 1), news/blog cross-checks (291 steps, 2026 Eulalia Festival Oct 17-23). Festival past; framed as year-round park guide + annual festival recap. 0 amazon.com / 0 tag=dctrade-20; 6 Travelpayouts 795736 links (Klook Seoul, Trip.com Sangam/Mapo hotels, Klook Korea eSIM, x2 each), rel sponsored noopener.",
-    "Amazon/Travelpayouts links verified by regex on HTML only; never fetched. HTTP 200 checked only on own koreapicks.co.kr URLs (200 on first try).",
-    "seo_upgrade_helper.upgrade_html_file run on 2 new files: unchanged (SEO already present). validate OK; sitemap parses; kpicks-tracker node --check OK; index All count 58→60; koreapicks.co.kr homepage and root mirror have no Factory Map link.",
+    "Topics not repeated vs 2026-11-15/16/17 (Samsung Odyssey G5, Hanseong Baekje festival, Braun 9665cc, Nakseongdae Park, Huplus KIMPRO-25, World Cup Park). NEVO 11010C is a different model/line from the Series 9 PRO+ 9665cc published 11-16.",
+    "Post 3: Braun NEVO 11010C (Drive 쇼핑커넥트 2026-10-27/08_[BRAUN] 브라운네보 NEVO 11010C folder; Braun official brand store on Naver, 599,000 KRW). 5 images cropped from Drive store photos 01-04 only (01 badges + gift insets removed; 02 split into shaver body + hand/display crops excluding derm badge and Korean text; 03/04 Korean headline text excluded); photo 05 (celebrity model face) not used. No mosaic/blur/AI. Specs from Korean product notice (G마켓: NEVO11010C, 100-240V 7W, released 2026-08, BRAUN GMBH / Korea P&G, shaver made in Germany), danawa/enuri spec sheets (wet&dry, 1h charge/60 min, cleaning & charging station, pop-up trimmer), kakaku.com Japan launch article 2026-07-01 (Silk-touch foil 24% less friction, 5+1, 250 diamond-cut blades, 40° head, -0.12 mm, 7-in-1 station, 168x64x50 mm, 231 g, 18-month foil replacement) and Braun Korean listing images (IPX8, 5-min quick charge). No US NEVO listing, so Amazon category search link (2 instances: CTA + index card) with tag=dctrade-20.",
+    "Post 4: Nodeul Island (Yongsan-gu) + 2026 Seoul Music Festival (Drive 네이버 정보성 글쓰기/축제 '2026 서울뮤직페스티벌_2026-10-16'). Drive images are AI (사진프롬프트.json), so 5 real KTO TourAPI photos used, all KOGL Type 1, attributed, unmodified (Nodeul Island 2638475: 4078207/4078208/4078212/4078213/4078211). Facts from KTO (2638475 overview/hours/closing days/parking 90/02-749-4500/opened 2019-09-28; 3013134 Live House 456 seats/708 standing; 2857763 festival Oct 24 2026 12:00-21:00 free, line-up and side programmes), nodeul.org (guide: hours, transport, pets; notice: all shops closed for Nodeul Global Art Island works, weekend food trucks; waterfront space opened 2026-09-18, floating garden Dec 2027, sky art garden 2030), Seoul mediahub. Festival past; framed as year-round island guide + festival recap. 0 amazon.com / 0 tag=dctrade-20; 6 Travelpayouts 795736 links (Klook Seoul, Trip.com Yongsan hotels, Klook Korea eSIM, x2 each), rel sponsored noopener.",
+    "Amazon/Travelpayouts links verified by regex on HTML only; never fetched. HTTP 200 checked only on own koreapicks.co.kr URLs (404 on first try, 200 on second ~20s later).",
+    "seo_upgrade_helper.upgrade_html_file run on 2 new files: unchanged (SEO already present). validate OK; sitemap parses; kpicks-tracker node --check OK; index All count 60→62; koreapicks.co.kr homepage has no Factory Map link.",
     "Comments seeded 4/3 in Supabase zaahvfqfwtcpfvmuiics public.dctrade_blog_comments, ratings 5/4/5/4 and 5/4/5.",
     "Drive 영문블로그 subfolders created under the 2 source folders with HTML + 요약.md.",
-    "Remaining unused non-cosmetic Shopping Connect candidates in 2026-10-27 include 08 Braun NEVO 11010C, 09 LG QNED TV, 10/13 Samsung Bespoke fridges, 12 Samsung Neo QLED, 16 Samsung water purifier, 17 Samsung AI combo washer, 21 Basics Basicbook14, 24 Bullsone car mat, 25 Neckpeel MDM-3577, 27 Airnep nebulizer (03 Roborock has only 1 photo)."
+    "Remaining unused non-cosmetic Shopping Connect candidates in 2026-10-27 include 09 LG QNED TV, 10/13 Samsung Bespoke fridges, 11 Samsung Kimchi fridge, 12 Samsung Neo QLED, 16 Samsung water purifier, 17 Samsung AI combo washer, 21 Basics Basicbook14, 24 Bullsone car mat, 25 Neckpeel MDM-3577, 27 Airnep nebulizer (03 Roborock has only 1 photo). Remaining uncovered Seoul Drive topics include 우이천변 페스타 2026, 동대문구 청소년 페스티벌, 양재도서관 그림책 여행."
   ],
   "indexing_blocker": "Search Console requires a browser; 2 URLs still need Request indexing (indexing=pending_browser)."
 }

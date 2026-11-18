@@ -422,7 +422,9 @@
     { slug: 'huplus-kimpro-25-full-body-massage-mat-review', title: '💆 휴플러스 김프로 전신 마사지기 안마매트 KIMPRO-25 리뷰 (Huplus KIMPRO-25)', url: '/posts/huplus-kimpro-25-full-body-massage-mat-review.html' },
     { slug: 'seoul-world-cup-park-haneul-park-silver-grass-petlympic-mapo-guide', title: '🌾 서울 마포 월드컵공원 하늘공원 억새·메타세쿼이아길·2026 서울 펫림픽 가이드 (World Cup Park)', url: '/posts/seoul-world-cup-park-haneul-park-silver-grass-petlympic-mapo-guide.html' },
     { slug: 'braun-nevo-11010c-electric-shaver-review', title: '🪒 브라운 네보 전기면도기 NEVO 11010C 세척&충전스테이션 리뷰 (Braun NEVO 11010C)', url: '/posts/braun-nevo-11010c-electric-shaver-review.html' },
-    { slug: 'seoul-nodeul-island-music-festival-han-river-yongsan-guide', title: '🎵 서울 용산 노들섬 가이드: 2026 서울뮤직페스티벌·한강 노을·라이브하우스 (Nodeul Island)', url: '/posts/seoul-nodeul-island-music-festival-han-river-yongsan-guide.html' }
+    { slug: 'seoul-nodeul-island-music-festival-han-river-yongsan-guide', title: '🎵 서울 용산 노들섬 가이드: 2026 서울뮤직페스티벌·한강 노을·라이브하우스 (Nodeul Island)', url: '/posts/seoul-nodeul-island-music-festival-han-river-yongsan-guide.html' },
+    { slug: 'dreame-x60-ultra-robot-vacuum-review', title: '🤖 드리미 X60 시리즈 올인원 로봇청소기 리뷰 (Dreame X60 Ultra)', url: '/posts/dreame-x60-ultra-robot-vacuum-review.html' },
+    { slug: 'seoul-mountain-culture-center-climbing-mapo-guide', title: '🧗 서울 마포 산악문화체험센터 가이드: 클라이밍 일일체험·어드벤처·전시 (Seoul Mountain Culture Center)', url: '/posts/seoul-mountain-culture-center-climbing-mapo-guide.html' }
   ];
 
   function renderAdminToast(info, today, yesterday, openByDefault) {

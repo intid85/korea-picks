@@ -424,7 +424,9 @@
     { slug: 'braun-nevo-11010c-electric-shaver-review', title: '🪒 브라운 네보 전기면도기 NEVO 11010C 세척&충전스테이션 리뷰 (Braun NEVO 11010C)', url: '/posts/braun-nevo-11010c-electric-shaver-review.html' },
     { slug: 'seoul-nodeul-island-music-festival-han-river-yongsan-guide', title: '🎵 서울 용산 노들섬 가이드: 2026 서울뮤직페스티벌·한강 노을·라이브하우스 (Nodeul Island)', url: '/posts/seoul-nodeul-island-music-festival-han-river-yongsan-guide.html' },
     { slug: 'dreame-x60-ultra-robot-vacuum-review', title: '🤖 드리미 X60 시리즈 올인원 로봇청소기 리뷰 (Dreame X60 Ultra)', url: '/posts/dreame-x60-ultra-robot-vacuum-review.html' },
-    { slug: 'seoul-mountain-culture-center-climbing-mapo-guide', title: '🧗 서울 마포 산악문화체험센터 가이드: 클라이밍 일일체험·어드벤처·전시 (Seoul Mountain Culture Center)', url: '/posts/seoul-mountain-culture-center-climbing-mapo-guide.html' }
+    { slug: 'seoul-mountain-culture-center-climbing-mapo-guide', title: '🧗 서울 마포 산악문화체험센터 가이드: 클라이밍 일일체험·어드벤처·전시 (Seoul Mountain Culture Center)', url: '/posts/seoul-mountain-culture-center-climbing-mapo-guide.html' },
+    { slug: 'samsung-bespoke-ai-combo-wd80h25bhb-washer-dryer-review', title: '🧺 삼성 비스포크 AI콤보 WD80H25BHB 세탁건조기 리뷰 (25kg/18kg)', url: '/posts/samsung-bespoke-ai-combo-wd80h25bhb-washer-dryer-review.html' },
+    { slug: 'busan-yeongdo-jungni-port-lighthouse-sunset-haenyeo-village-guide', title: '🌅 부산 영도 중리항 방파제 등대 가이드: 노을 전망대·해녀촌 (Jungni Port Lighthouse)', url: '/posts/busan-yeongdo-jungni-port-lighthouse-sunset-haenyeo-village-guide.html' }
   ];
 
   function renderAdminToast(info, today, yesterday, openByDefault) {

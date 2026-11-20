@@ -426,7 +426,9 @@
     { slug: 'dreame-x60-ultra-robot-vacuum-review', title: '🤖 드리미 X60 시리즈 올인원 로봇청소기 리뷰 (Dreame X60 Ultra)', url: '/posts/dreame-x60-ultra-robot-vacuum-review.html' },
     { slug: 'seoul-mountain-culture-center-climbing-mapo-guide', title: '🧗 서울 마포 산악문화체험센터 가이드: 클라이밍 일일체험·어드벤처·전시 (Seoul Mountain Culture Center)', url: '/posts/seoul-mountain-culture-center-climbing-mapo-guide.html' },
     { slug: 'samsung-bespoke-ai-combo-wd80h25bhb-washer-dryer-review', title: '🧺 삼성 비스포크 AI콤보 WD80H25BHB 세탁건조기 리뷰 (25kg/18kg)', url: '/posts/samsung-bespoke-ai-combo-wd80h25bhb-washer-dryer-review.html' },
-    { slug: 'busan-yeongdo-jungni-port-lighthouse-sunset-haenyeo-village-guide', title: '🌅 부산 영도 중리항 방파제 등대 가이드: 노을 전망대·해녀촌 (Jungni Port Lighthouse)', url: '/posts/busan-yeongdo-jungni-port-lighthouse-sunset-haenyeo-village-guide.html' }
+    { slug: 'busan-yeongdo-jungni-port-lighthouse-sunset-haenyeo-village-guide', title: '🌅 부산 영도 중리항 방파제 등대 가이드: 노을 전망대·해녀촌 (Jungni Port Lighthouse)', url: '/posts/busan-yeongdo-jungni-port-lighthouse-sunset-haenyeo-village-guide.html' },
+    { slug: 'samsung-neo-qled-qnh70-kq75qnh70afxkr-75-inch-mini-led-tv-review', title: '📺 삼성 Neo QLED QNH70 75인치 KQ75QNH70AFXKR 4K 미니LED TV 리뷰', url: '/posts/samsung-neo-qled-qnh70-kq75qnh70afxkr-75-inch-mini-led-tv-review.html' },
+    { slug: 'seoul-ui-cheon-stream-ui-dong-valley-jaeganjeong-gangbuk-guide', title: '🏞️ 서울 강북 우이천 가이드: 우이동계곡·재간정·우이천변 페스타 (Ui-cheon Stream)', url: '/posts/seoul-ui-cheon-stream-ui-dong-valley-jaeganjeong-gangbuk-guide.html' }
   ];
 
   function renderAdminToast(info, today, yesterday, openByDefault) {

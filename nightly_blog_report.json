@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "posts": [
     {
       "n": 1,
@@ -7,7 +7,7 @@
       "category": "K-Beauty (B2B + Amazon)",
       "skipped": true,
       "reason": "no material",
-      "detail": "no material — no unused single K-beauty COSMETIC (skincare/makeup) in Drive '네이버 쇼핑커넥트' (folder list re-checked 2026-11-20 00:00 KST: date folders 2026-09-10…2026-10-27 only, no new folders since 2026-10-27; the only cosmetic in 2026-10-27 is Centellian24 Madeca Cream Time Reverse Zero, already published; #22 EOA RF device is a beauty device, forbidden) or /workspace/shorts/clips (no new folders since 2026-11-10; all cosmetic clips already published); beauty devices are forbidden, so no substitute"
+      "detail": "no material — no unused single K-beauty COSMETIC (skincare/makeup) in Drive '네이버 쇼핑커넥트' (folder list re-checked 2026-11-21 00:05 KST: date folders 2026-09-10…2026-10-27 only, no new folders since 2026-10-27; the only cosmetic in 2026-10-27 is Centellian24 Madeca Cream Time Reverse Zero, already published; #22 EOA RF device is a beauty device, forbidden) or /workspace/shorts/clips (no new folders; all cosmetic clips already published); beauty devices are forbidden, so no substitute"
     },
     {
       "n": 2,
@@ -15,38 +15,38 @@
       "category": "✨ K-Beauty",
       "skipped": true,
       "reason": "no material",
-      "detail": "skipped together with post 1 (same cosmetic required): no material — no unused single K-beauty COSMETIC (skincare/makeup) in Drive '네이버 쇼핑커넥트' (folder list re-checked 2026-11-20 00:00 KST: date folders 2026-09-10…2026-10-27 only, no new folders since 2026-10-27; the only cosmetic in 2026-10-27 is Centellian24 Madeca Cream Time Reverse Zero, already published; #22 EOA RF device is a beauty device, forbidden) or /workspace/shorts/clips (no new folders since 2026-11-10; all cosmetic clips already published); beauty devices are forbidden, so no substitute"
+      "detail": "skipped together with post 1 (same cosmetic required): no material — no unused single K-beauty COSMETIC (skincare/makeup) in Drive '네이버 쇼핑커넥트' (folder list re-checked 2026-11-21 00:05 KST: date folders 2026-09-10…2026-10-27 only, no new folders since 2026-10-27; the only cosmetic in 2026-10-27 is Centellian24 Madeca Cream Time Reverse Zero, already published; #22 EOA RF device is a beauty device, forbidden) or /workspace/shorts/clips (no new folders; all cosmetic clips already published); beauty devices are forbidden, so no substitute"
     },
     {
       "n": 3,
       "site": "koreapicks.co.kr",
       "category": "🏠 Tech & Gear",
-      "title": "Samsung Bespoke AI Combo WD80H25BHB Review: 25 kg Wash, 18 kg Dry All-in-One Washer Dryer",
-      "slug": "samsung-bespoke-ai-combo-wd80h25bhb-washer-dryer-review",
-      "live_url": "https://koreapicks.co.kr/posts/samsung-bespoke-ai-combo-wd80h25bhb-washer-dryer-review.html",
+      "title": "Samsung Neo QLED QNH70 Review: 75-Inch KQ75QNH70AFXKR 4K Mini LED TV",
+      "slug": "samsung-neo-qled-qnh70-kq75qnh70afxkr-75-inch-mini-led-tv-review",
+      "live_url": "https://koreapicks.co.kr/posts/samsung-neo-qled-qnh70-kq75qnh70afxkr-75-inch-mini-led-tv-review.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1Y_duBAolf31oiewKv2QfmfKje28Ey811",
-      "drive_english_folder_url": "https://drive.google.com/drive/folders/1fUAmH4g2nSYqR_sqBv4uqtY_cnFCXV03",
-      "comments_seeded": 3,
-      "amazon_link": "https://www.amazon.com/s?k=Samsung+Bespoke+AI+Laundry+Combo+Washer+Dryer&tag=dctrade-20",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1i27oQ9PFgnhnCxuC1b_GnbQlBZ81P31w",
+      "drive_english_folder_url": "https://drive.google.com/drive/folders/1_Dm7SdLfQrrMwX-q_W9o4D1FXcd5mXtU",
+      "comments_seeded": 4,
+      "amazon_link": "https://www.amazon.com/s?k=Samsung+75+inch+Neo+QLED+4K+QN70+Mini+LED+TV&tag=dctrade-20",
       "travel_links": [],
       "indexing": "pending_browser — Search Console \"Request indexing\" needs browser (not done)"
     },
     {
       "n": 4,
       "site": "koreapicks.co.kr",
-      "category": "Travel (Busan)",
-      "title": "Jungni Port Lighthouse Guide: Yeongdo Sunset Spot and Haenyeo Village in Busan",
-      "slug": "busan-yeongdo-jungni-port-lighthouse-sunset-haenyeo-village-guide",
-      "live_url": "https://koreapicks.co.kr/posts/busan-yeongdo-jungni-port-lighthouse-sunset-haenyeo-village-guide.html",
+      "category": "Travel (Seoul)",
+      "title": "Ui-cheon Stream Guide: Ui-dong Valley, Jaeganjeong and the Ui-cheon Festa in Gangbuk, Seoul",
+      "slug": "seoul-ui-cheon-stream-ui-dong-valley-jaeganjeong-gangbuk-guide",
+      "live_url": "https://koreapicks.co.kr/posts/seoul-ui-cheon-stream-ui-dong-valley-jaeganjeong-gangbuk-guide.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1N5z4CFxcT8w9vgVRCBu7PZm9oLoO8Yb4",
-      "drive_english_folder_url": "https://drive.google.com/drive/folders/1Ax9OOiRlHekwTwFv4m7gMnLu0R1hwBci",
-      "comments_seeded": 2,
+      "drive_folder_url": "https://drive.google.com/drive/folders/1XiXMIvYcVAxW1ZsqANkykLBUN4H9cL7E",
+      "drive_english_folder_url": "https://drive.google.com/drive/folders/1kF2ZlUSz0A55Zv0Wft5jZZbDU1iRF1Gk",
+      "comments_seeded": 3,
       "amazon_link": null,
       "travel_links": [
-        "<a href=\"https://tp.media/r?marker=795736&amp;p=4110&amp;u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DBusan%2Btours\" data-klook-link=\"true\" target=\"_blank\" class=\"btn btn-klook btn-sm\" rel=\"sponsored noopener\">🎫 Busan tours &amp; activities on Klook</a>",
-        "<a href=\"https://tp.media/r?marker=795736&amp;p=4114&amp;u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DYeongdo%2BBusan\" data-trip-link=\"true\" target=\"_blank\" class=\"btn btn-trip btn-sm\" rel=\"sponsored noopener\">🏨 Hotels in Yeongdo &amp; Nampo on Trip.com</a>",
+        "<a href=\"https://tp.media/r?marker=795736&amp;p=4110&amp;u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DBukhansan%2Bhiking\" data-klook-link=\"true\" target=\"_blank\" class=\"btn btn-klook btn-sm\" rel=\"sponsored noopener\">🎫 Bukhansan &amp; Seoul tours on Klook</a>",
+        "<a href=\"https://tp.media/r?marker=795736&amp;p=4114&amp;u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DSuyu%2BSeoul\" data-trip-link=\"true\" target=\"_blank\" class=\"btn btn-trip btn-sm\" rel=\"sponsored noopener\">🏨 Hotels near Suyu &amp; Gangbuk on Trip.com</a>",
         "<a href=\"https://tp.media/r?marker=795736&amp;p=4110&amp;u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DKorea%2BeSIM\" data-klook-link=\"true\" target=\"_blank\" class=\"btn btn-klook btn-sm\" rel=\"sponsored noopener\">📶 Korea eSIM &amp; Airport Transfers on Klook</a>"
       ],
       "indexing": "pending_browser — Search Console \"Request indexing\" needs browser (not done)"
@@ -54,20 +54,20 @@
   ],
   "git": {
     "duckcheon_korea": "no change (post 1 skipped)",
-    "korea_picks_origin": "71fa150",
-    "intid85_github_io_root": "83261c7 (cherry-pick onto root/main)"
+    "korea_picks_origin": "2022d28",
+    "intid85_github_io_root": "3630974 (cherry-pick onto root/main)"
   },
   "errors": [
     "Posts 1-2 skipped: no unused K-beauty cosmetic material. New cosmetic product folders in Drive '네이버 쇼핑커넥트' are needed to resume posts 1-2."
   ],
   "notes": [
-    "Post 3: Samsung Bespoke AI Combo WD80H25BHB (Drive 쇼핑커넥트 2026-10-27/17_삼성 WD80H25BHB 비스포크 AI콤보). 4 Drive store photos used (03 front; 02/04 cropped to remove Korean benefit badges; 05 control panel); no mosaic/blur. Photo 01 excluded: C2PA metadata marks it as an Adobe Firefly generative composite and it carries a badge. Specs from Samsung Korea product page/spec list, Samsung Newsroom Korea launch release (2026-03-26), Danawa/11st. Amazon search link (CTA + index card) with tag=dctrade-20 since the Korean 220V model is not on US Amazon.",
-    "Post 4: Jungni Port breakwater lighthouse, Yeongdo-gu, Busan (Drive 네이버 정보성 글쓰기/여행 글쓰기/부산광역시/영도구 '중리항 방파제 등대_2026-10-11'). Drive images are AI (사진프롬프트.json), so 5 real KTO TourAPI photos (3017467: 4130190/4130193/4130189/4130191; 3017435: 3455154), KOGL Type 1, attributed, unmodified. Facts from KTO TourAPI (3017467, 3017435, 3017282), Yeongdo-gu audio guide and bus route list, Busan City Tour Green Line stop info. 0 amazon.com / 0 tag=dctrade-20; 6 Travelpayouts 795736 links (Klook Busan tours, Trip.com Yeongdo hotels, Klook Korea eSIM, x2 each), rel sponsored noopener.",
+    "Post 3: Samsung Neo QLED QNH70 75\" KQ75QNH70AFXKR (Drive 쇼핑커넥트 2026-10-27/12_삼성 Neo QLED 189cm(75인치) TV KQ75QNH70AFXKR 스탠드). All 5 Drive store photos used (02 front cropped to remove '2만원 포토리뷰' badge; 01 living-room shot cropped to remove '삼성전자 공식파트너' badge; 03/04 angles; 05 side profile); no mosaic/blur; no C2PA/Firefly markers found. Specs from Samsung Korea product page, Enuri and Gmarket product notices, QNH80 vs QNH70 comparison. Amazon search link (CTA + index card) with tag=dctrade-20 since the Korean model is not on US Amazon.",
+    "Post 4: Ui-cheon Stream / Ui-dong Valley, Gangbuk-gu, Seoul (Drive 네이버 정보성 글쓰기/축제 '우이천변 페스타 2026 이상한 나라의 웰니스_2026-10-16'). Festival ended Oct 18, so framed as an evergreen stream walk guide with festival section. Drive images are infographic/AI (사진프롬프트.json), so 5 real KTO TourAPI photos of Ui-dong Valley (758299: 3568554/3568559/3568555/3568557/3568558), KOGL Type 1, attributed, unmodified. Facts from KTO TourAPI 758299, Gangbuk-gu notice, Yonhap (2026-10-12, 2025-10-20), Seoul Dongbuk Shinmun, Seoul media hub, Digital Dobong Culture Encyclopedia. 0 amazon.com / 0 tag=dctrade-20; 6 Travelpayouts 795736 links (Klook Bukhansan/Seoul tours, Trip.com Suyu hotels, Klook Korea eSIM, x2 each) + 1 Klook index card link, rel sponsored noopener.",
     "Amazon/Travelpayouts links verified by regex on HTML only; never fetched. HTTP 200 checked only on own koreapicks.co.kr URLs.",
-    "seo_upgrade_helper.upgrade_html_file run on 2 new files: unchanged (SEO already present). validate OK; JSON-LD parses; sitemap parses; kpicks-tracker node --check OK; index All count 64→66; homepage has no Factory Map link.",
-    "Comments seeded 3/2 in Supabase zaahvfqfwtcpfvmuiics public.dctrade_blog_comments (continuing 4→3→2 cycle after 2/4 on 11-19), ratings 5/4/5 and 5/4.",
+    "seo_upgrade_helper.upgrade_html_file run on 2 new files: unchanged (SEO already present). validate OK; JSON-LD parses; sitemap parses; kpicks-tracker node --check OK; index All count 66→68; homepage has no Factory Map link.",
+    "Comments seeded 4/3 in Supabase zaahvfqfwtcpfvmuiics public.dctrade_blog_comments (continuing 4→3→2 cycle after 3/2 on 11-20), ratings 5/4/5/4 and 5/4/5.",
     "Drive 영문블로그 subfolders created under the 2 source folders with HTML + 요약.md.",
-    "Remaining unused non-cosmetic Shopping Connect candidates in 2026-10-27: 09 LG QNED TV, 10/13 Samsung Bespoke fridges, 11 Samsung Kimchi fridge, 12 Samsung Neo QLED, 16 Samsung water purifier, 21 Basics Basicbook14 (3 photos), 24 Bullsone EZ Clean TPE car mat, 25 Neckpeel MDM-3577, 27 Airnep nebulizer (03 Roborock has only 1 photo). Remaining uncovered Drive travel topics include Seoul 우이천변 페스타 2026, 동대문구 청소년 페스티벌, 양재도서관 그림책 여행, plus other Busan/Seoul district folders not yet checked."
+    "Remaining unused non-cosmetic Shopping Connect candidates in 2026-10-27: 09 LG QNED TV, 10/13 Samsung Bespoke fridges, 11 Samsung Kimchi fridge, 16 Samsung water purifier, 21 Basics Basicbook14 (3 photos), 24 Bullsone EZ Clean TPE car mat, 25 Neckpeel MDM-3577, 27 Airnep nebulizer (03 Roborock has only 1 photo). Remaining uncovered Seoul/Busan Drive travel topics are ended 2026 events: 동대문구 청소년 페스티벌, 양재도서관 「물길 따라 그림책 여행」; after that the KTO-photo fallback will be needed."
   ],
   "indexing_blocker": "Search Console requires a browser; 2 URLs still need Request indexing (indexing=pending_browser)."
 }

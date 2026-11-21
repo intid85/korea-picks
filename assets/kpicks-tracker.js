@@ -428,7 +428,9 @@
     { slug: 'samsung-bespoke-ai-combo-wd80h25bhb-washer-dryer-review', title: '🧺 삼성 비스포크 AI콤보 WD80H25BHB 세탁건조기 리뷰 (25kg/18kg)', url: '/posts/samsung-bespoke-ai-combo-wd80h25bhb-washer-dryer-review.html' },
     { slug: 'busan-yeongdo-jungni-port-lighthouse-sunset-haenyeo-village-guide', title: '🌅 부산 영도 중리항 방파제 등대 가이드: 노을 전망대·해녀촌 (Jungni Port Lighthouse)', url: '/posts/busan-yeongdo-jungni-port-lighthouse-sunset-haenyeo-village-guide.html' },
     { slug: 'samsung-neo-qled-qnh70-kq75qnh70afxkr-75-inch-mini-led-tv-review', title: '📺 삼성 Neo QLED QNH70 75인치 KQ75QNH70AFXKR 4K 미니LED TV 리뷰', url: '/posts/samsung-neo-qled-qnh70-kq75qnh70afxkr-75-inch-mini-led-tv-review.html' },
-    { slug: 'seoul-ui-cheon-stream-ui-dong-valley-jaeganjeong-gangbuk-guide', title: '🏞️ 서울 강북 우이천 가이드: 우이동계곡·재간정·우이천변 페스타 (Ui-cheon Stream)', url: '/posts/seoul-ui-cheon-stream-ui-dong-valley-jaeganjeong-gangbuk-guide.html' }
+    { slug: 'seoul-ui-cheon-stream-ui-dong-valley-jaeganjeong-gangbuk-guide', title: '🏞️ 서울 강북 우이천 가이드: 우이동계곡·재간정·우이천변 페스타 (Ui-cheon Stream)', url: '/posts/seoul-ui-cheon-stream-ui-dong-valley-jaeganjeong-gangbuk-guide.html' },
+    { slug: 'lg-qned-ai-75qned75aea-75-inch-4k-tv-soundbar-review', title: '📺 LG전자 QNED AI 75인치 75QNED75AEA 4K TV + S20A 사운드바 리뷰', url: '/posts/lg-qned-ai-75qned75aea-75-inch-4k-tv-soundbar-review.html' },
+    { slug: 'seoul-yangjaecheon-stream-yangjae-citizens-forest-seocho-guide', title: '🌳 서울 서초 양재천 가이드: 양재시민의숲·메타세쿼이아길·물길 따라 그림책 여행 (Yangjaecheon Stream)', url: '/posts/seoul-yangjaecheon-stream-yangjae-citizens-forest-seocho-guide.html' }
   ];
 
   function renderAdminToast(info, today, yesterday, openByDefault) {

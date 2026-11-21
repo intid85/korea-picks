@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "posts": [
     {
       "n": 1,
@@ -7,7 +7,7 @@
       "category": "K-Beauty (B2B + Amazon)",
       "skipped": true,
       "reason": "no material",
-      "detail": "no material — no unused single K-beauty COSMETIC (skincare/makeup) in Drive '네이버 쇼핑커넥트' (folder list re-checked 2026-11-21 00:05 KST: date folders 2026-09-10…2026-10-27 only, no new folders since 2026-10-27; the only cosmetic in 2026-10-27 is Centellian24 Madeca Cream Time Reverse Zero, already published; #22 EOA RF device is a beauty device, forbidden) or /workspace/shorts/clips (no new folders; all cosmetic clips already published); beauty devices are forbidden, so no substitute"
+      "detail": "no material — no unused single K-beauty COSMETIC (skincare/makeup) in Drive '네이버 쇼핑커넥트' (folder list re-checked 2026-11-22 00:05 KST: date folders 2026-09-10…2026-10-27 only, no new folders since 2026-10-27; the only cosmetic in 2026-10-27 is Centellian24 Madeca Cream Time Reverse Zero, already published; #22 EOA RF device is a beauty device, forbidden) or /workspace/shorts/clips (no new folders; all cosmetic clips already published — 37_dalba-cream is the same d'Alba Vita Toning 3-piece set already published); beauty devices are forbidden, so no substitute"
     },
     {
       "n": 2,
@@ -15,20 +15,20 @@
       "category": "✨ K-Beauty",
       "skipped": true,
       "reason": "no material",
-      "detail": "skipped together with post 1 (same cosmetic required): no material — no unused single K-beauty COSMETIC (skincare/makeup) in Drive '네이버 쇼핑커넥트' (folder list re-checked 2026-11-21 00:05 KST: date folders 2026-09-10…2026-10-27 only, no new folders since 2026-10-27; the only cosmetic in 2026-10-27 is Centellian24 Madeca Cream Time Reverse Zero, already published; #22 EOA RF device is a beauty device, forbidden) or /workspace/shorts/clips (no new folders; all cosmetic clips already published); beauty devices are forbidden, so no substitute"
+      "detail": "skipped together with post 1 (same cosmetic required): no material — no unused single K-beauty COSMETIC (skincare/makeup) in Drive '네이버 쇼핑커넥트' (folder list re-checked 2026-11-22 00:05 KST: date folders 2026-09-10…2026-10-27 only, no new folders since 2026-10-27; the only cosmetic in 2026-10-27 is Centellian24 Madeca Cream Time Reverse Zero, already published; #22 EOA RF device is a beauty device, forbidden) or /workspace/shorts/clips (no new folders; all cosmetic clips already published — 37_dalba-cream is the same d'Alba Vita Toning 3-piece set already published); beauty devices are forbidden, so no substitute"
     },
     {
       "n": 3,
       "site": "koreapicks.co.kr",
       "category": "🏠 Tech & Gear",
-      "title": "Samsung Neo QLED QNH70 Review: 75-Inch KQ75QNH70AFXKR 4K Mini LED TV",
-      "slug": "samsung-neo-qled-qnh70-kq75qnh70afxkr-75-inch-mini-led-tv-review",
-      "live_url": "https://koreapicks.co.kr/posts/samsung-neo-qled-qnh70-kq75qnh70afxkr-75-inch-mini-led-tv-review.html",
+      "title": "LG QNED AI 75QNED75AEA Review: 75-Inch 4K TV with S20A Soundbar",
+      "slug": "lg-qned-ai-75qned75aea-75-inch-4k-tv-soundbar-review",
+      "live_url": "https://koreapicks.co.kr/posts/lg-qned-ai-75qned75aea-75-inch-4k-tv-soundbar-review.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1i27oQ9PFgnhnCxuC1b_GnbQlBZ81P31w",
-      "drive_english_folder_url": "https://drive.google.com/drive/folders/1_Dm7SdLfQrrMwX-q_W9o4D1FXcd5mXtU",
-      "comments_seeded": 4,
-      "amazon_link": "https://www.amazon.com/s?k=Samsung+75+inch+Neo+QLED+4K+QN70+Mini+LED+TV&tag=dctrade-20",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1aY7UfqP2fdG1uhoPMwhX9e8QGUnL1GUe",
+      "drive_english_folder_url": "https://drive.google.com/drive/folders/1MFmkqO3gMTZVXlUHKKuxp8meF-7uGum3",
+      "comments_seeded": 2,
+      "amazon_link": "https://www.amazon.com/s?k=LG+75+inch+QNED+4K+Smart+TV&tag=dctrade-20",
       "travel_links": [],
       "indexing": "pending_browser — Search Console \"Request indexing\" needs browser (not done)"
     },
@@ -36,17 +36,17 @@
       "n": 4,
       "site": "koreapicks.co.kr",
       "category": "Travel (Seoul)",
-      "title": "Ui-cheon Stream Guide: Ui-dong Valley, Jaeganjeong and the Ui-cheon Festa in Gangbuk, Seoul",
-      "slug": "seoul-ui-cheon-stream-ui-dong-valley-jaeganjeong-gangbuk-guide",
-      "live_url": "https://koreapicks.co.kr/posts/seoul-ui-cheon-stream-ui-dong-valley-jaeganjeong-gangbuk-guide.html",
+      "title": "Yangjaecheon Stream Guide: Yangjae Citizen's Forest, Metasequoia Paths and Seasonal Events in Seocho, Seoul",
+      "slug": "seoul-yangjaecheon-stream-yangjae-citizens-forest-seocho-guide",
+      "live_url": "https://koreapicks.co.kr/posts/seoul-yangjaecheon-stream-yangjae-citizens-forest-seocho-guide.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1XiXMIvYcVAxW1ZsqANkykLBUN4H9cL7E",
-      "drive_english_folder_url": "https://drive.google.com/drive/folders/1kF2ZlUSz0A55Zv0Wft5jZZbDU1iRF1Gk",
-      "comments_seeded": 3,
+      "drive_folder_url": "https://drive.google.com/drive/folders/1AjiO3FnLgyVNPIoe4R__cLq78zC0ncLx",
+      "drive_english_folder_url": "https://drive.google.com/drive/folders/150YDz1qC3z-e9XGJTNq-dQchJca4TdWK",
+      "comments_seeded": 4,
       "amazon_link": null,
       "travel_links": [
-        "<a href=\"https://tp.media/r?marker=795736&amp;p=4110&amp;u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DBukhansan%2Bhiking\" data-klook-link=\"true\" target=\"_blank\" class=\"btn btn-klook btn-sm\" rel=\"sponsored noopener\">🎫 Bukhansan &amp; Seoul tours on Klook</a>",
-        "<a href=\"https://tp.media/r?marker=795736&amp;p=4114&amp;u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DSuyu%2BSeoul\" data-trip-link=\"true\" target=\"_blank\" class=\"btn btn-trip btn-sm\" rel=\"sponsored noopener\">🏨 Hotels near Suyu &amp; Gangbuk on Trip.com</a>",
+        "<a href=\"https://tp.media/r?marker=795736&amp;p=4110&amp;u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DGangnam%2BSeoul%2Btour\" data-klook-link=\"true\" target=\"_blank\" class=\"btn btn-klook btn-sm\" rel=\"sponsored noopener\">🎫 Gangnam &amp; Seoul tours on Klook</a>",
+        "<a href=\"https://tp.media/r?marker=795736&amp;p=4114&amp;u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DYangjae%2BSeoul\" data-trip-link=\"true\" target=\"_blank\" class=\"btn btn-trip btn-sm\" rel=\"sponsored noopener\">🏨 Hotels near Yangjae &amp; Gangnam on Trip.com</a>",
         "<a href=\"https://tp.media/r?marker=795736&amp;p=4110&amp;u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DKorea%2BeSIM\" data-klook-link=\"true\" target=\"_blank\" class=\"btn btn-klook btn-sm\" rel=\"sponsored noopener\">📶 Korea eSIM &amp; Airport Transfers on Klook</a>"
       ],
       "indexing": "pending_browser — Search Console \"Request indexing\" needs browser (not done)"
@@ -54,20 +54,21 @@
   ],
   "git": {
     "duckcheon_korea": "no change (post 1 skipped)",
-    "korea_picks_origin": "2022d28",
-    "intid85_github_io_root": "3630974 (cherry-pick onto root/main)"
+    "korea_picks_origin": "7bea180",
+    "intid85_github_io_root": "b92e8c1 (cherry-pick onto root/main)"
   },
   "errors": [
-    "Posts 1-2 skipped: no unused K-beauty cosmetic material. New cosmetic product folders in Drive '네이버 쇼핑커넥트' are needed to resume posts 1-2."
+    "Posts 1-2 skipped: no unused K-beauty cosmetic material. New cosmetic product folders in Drive '네이버 쇼핑커넥트' are needed to resume posts 1-2.",
+    "Drive connector binary download (download_file / download_file_content) returned truncated base64 for the LG QNED Drive photos (6 KB of 180 KB), and the files are not publicly shared, so the 5 Drive photos could not be used; LG Electronics Korea's official product gallery images of the same model were used instead."
   ],
   "notes": [
-    "Post 3: Samsung Neo QLED QNH70 75\" KQ75QNH70AFXKR (Drive 쇼핑커넥트 2026-10-27/12_삼성 Neo QLED 189cm(75인치) TV KQ75QNH70AFXKR 스탠드). All 5 Drive store photos used (02 front cropped to remove '2만원 포토리뷰' badge; 01 living-room shot cropped to remove '삼성전자 공식파트너' badge; 03/04 angles; 05 side profile); no mosaic/blur; no C2PA/Firefly markers found. Specs from Samsung Korea product page, Enuri and Gmarket product notices, QNH80 vs QNH70 comparison. Amazon search link (CTA + index card) with tag=dctrade-20 since the Korean model is not on US Amazon.",
-    "Post 4: Ui-cheon Stream / Ui-dong Valley, Gangbuk-gu, Seoul (Drive 네이버 정보성 글쓰기/축제 '우이천변 페스타 2026 이상한 나라의 웰니스_2026-10-16'). Festival ended Oct 18, so framed as an evergreen stream walk guide with festival section. Drive images are infographic/AI (사진프롬프트.json), so 5 real KTO TourAPI photos of Ui-dong Valley (758299: 3568554/3568559/3568555/3568557/3568558), KOGL Type 1, attributed, unmodified. Facts from KTO TourAPI 758299, Gangbuk-gu notice, Yonhap (2026-10-12, 2025-10-20), Seoul Dongbuk Shinmun, Seoul media hub, Digital Dobong Culture Encyclopedia. 0 amazon.com / 0 tag=dctrade-20; 6 Travelpayouts 795736 links (Klook Bukhansan/Seoul tours, Trip.com Suyu hotels, Klook Korea eSIM, x2 each) + 1 Klook index card link, rel sponsored noopener.",
-    "Amazon/Travelpayouts links verified by regex on HTML only; never fetched. HTTP 200 checked only on own koreapicks.co.kr URLs.",
-    "seo_upgrade_helper.upgrade_html_file run on 2 new files: unchanged (SEO already present). validate OK; JSON-LD parses; sitemap parses; kpicks-tracker node --check OK; index All count 66→68; homepage has no Factory Map link.",
-    "Comments seeded 4/3 in Supabase zaahvfqfwtcpfvmuiics public.dctrade_blog_comments (continuing 4→3→2 cycle after 3/2 on 11-20), ratings 5/4/5/4 and 5/4/5.",
+    "Post 3: LG QNED AI 75QNED75AEA 75\" + S20A soundbar (Drive 쇼핑커넥트 2026-10-27/09_LG전자 QNED AI 대형 TV 4K 사운드바 포함 75QNED75AEA(189cm), 스탠드). Photos: 5 official LG Electronics Korea gallery images from lge.co.kr/product/care-solutions/tvs/75qned75aea-stand (interior shot, front, side profile, stand foot, rear ports), resized to 1000px, no crop/blur/mosaic. Specs from LG Korea 75QNED75AEA and S20A product pages, Danawa and Enuri; price from Drive 참고글 (LG인증점 신영플러스 1,899,000원) and Danawa/Enuri (~1,907,000원). Amazon search link (CTA + index card) with tag=dctrade-20 since the Korean model is not on US Amazon.",
+    "Post 4: Yangjaecheon / Yangjae Citizen's Forest, Seocho-gu, Seoul (Drive 네이버 정보성 글쓰기/축제 '양재천을 품은 양재도서관 「물길 따라 그림책 여행」_2026-10-16'). Event ended Nov 8, so framed as an evergreen stream-walk guide with a seasonal-events section. Drive images are AI prompt-based (사진프롬프트.json), so 5 real KTO TourAPI photos: 827585 Yangjaecheon Neighbourhood Park 3540687/3540690/3540689 (KOGL Type 1) and 4120802 picture-book festival 4120803/4120810 (KOGL Type 3), attributed, unmodified. Facts from KTO TourAPI (827585, 2540520, 4120802), Visit Seoul, Seoul media hub (2021-11-09), Gangnam-gu Office, Encyclopedia of Korean Culture. 0 amazon.com / 0 tag=dctrade-20; 6 Travelpayouts 795736 links (Klook Gangnam/Seoul tours, Trip.com Yangjae hotels, Klook Korea eSIM, x2 each) + 1 Klook index card link, rel sponsored noopener.",
+    "Amazon/Travelpayouts links verified by regex on HTML only; never fetched. HTTP 200 checked only on own koreapicks.co.kr URLs (posts, homepage, hero images).",
+    "seo_upgrade_helper.upgrade_html_file run on 2 new files: unchanged (SEO already present). validate OK; JSON-LD parses; sitemap parses; kpicks-tracker node --check OK; index All count 68→70; homepage has no Factory Map link.",
+    "Comments seeded 2/4 in Supabase zaahvfqfwtcpfvmuiics public.dctrade_blog_comments (continuing 4→3→2 cycle after 4/3 on 11-21), ratings 5/4 and 5/4/5/4.",
     "Drive 영문블로그 subfolders created under the 2 source folders with HTML + 요약.md.",
-    "Remaining unused non-cosmetic Shopping Connect candidates in 2026-10-27: 09 LG QNED TV, 10/13 Samsung Bespoke fridges, 11 Samsung Kimchi fridge, 16 Samsung water purifier, 21 Basics Basicbook14 (3 photos), 24 Bullsone EZ Clean TPE car mat, 25 Neckpeel MDM-3577, 27 Airnep nebulizer (03 Roborock has only 1 photo). Remaining uncovered Seoul/Busan Drive travel topics are ended 2026 events: 동대문구 청소년 페스티벌, 양재도서관 「물길 따라 그림책 여행」; after that the KTO-photo fallback will be needed."
+    "Remaining unused non-cosmetic Shopping Connect candidates in 2026-10-27: 10/13 Samsung Bespoke AI 4-door fridges (white/beige), 11 Samsung Kitchen Fit kimchi fridge, 16 Samsung Bespoke AI water purifier, 21 Basics Basicbook14 (3 photos), 24 Bullsone EZ Clean TPE car mat, 25 Neckpeel MDM-3577, 27 Airnep nebulizer (03 Roborock has only 1 photo). Remaining uncovered Seoul/Busan Drive travel topic: 동대문구 청소년 페스티벌 (ended 2026 youth event); after that the KTO-photo fallback will be needed."
   ],
   "indexing_blocker": "Search Console requires a browser; 2 URLs still need Request indexing (indexing=pending_browser)."
 }

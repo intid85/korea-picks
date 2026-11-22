@@ -430,7 +430,9 @@
     { slug: 'samsung-neo-qled-qnh70-kq75qnh70afxkr-75-inch-mini-led-tv-review', title: '📺 삼성 Neo QLED QNH70 75인치 KQ75QNH70AFXKR 4K 미니LED TV 리뷰', url: '/posts/samsung-neo-qled-qnh70-kq75qnh70afxkr-75-inch-mini-led-tv-review.html' },
     { slug: 'seoul-ui-cheon-stream-ui-dong-valley-jaeganjeong-gangbuk-guide', title: '🏞️ 서울 강북 우이천 가이드: 우이동계곡·재간정·우이천변 페스타 (Ui-cheon Stream)', url: '/posts/seoul-ui-cheon-stream-ui-dong-valley-jaeganjeong-gangbuk-guide.html' },
     { slug: 'lg-qned-ai-75qned75aea-75-inch-4k-tv-soundbar-review', title: '📺 LG전자 QNED AI 75인치 75QNED75AEA 4K TV + S20A 사운드바 리뷰', url: '/posts/lg-qned-ai-75qned75aea-75-inch-4k-tv-soundbar-review.html' },
-    { slug: 'seoul-yangjaecheon-stream-yangjae-citizens-forest-seocho-guide', title: '🌳 서울 서초 양재천 가이드: 양재시민의숲·메타세쿼이아길·물길 따라 그림책 여행 (Yangjaecheon Stream)', url: '/posts/seoul-yangjaecheon-stream-yangjae-citizens-forest-seocho-guide.html' }
+    { slug: 'seoul-yangjaecheon-stream-yangjae-citizens-forest-seocho-guide', title: '🌳 서울 서초 양재천 가이드: 양재시민의숲·메타세쿼이아길·물길 따라 그림책 여행 (Yangjaecheon Stream)', url: '/posts/seoul-yangjaecheon-stream-yangjae-citizens-forest-seocho-guide.html' },
+    { slug: 'samsung-bespoke-ai-4-door-refrigerator-rm70f90m1zd-review', title: '🧊 삼성 비스포크 AI 냉장고 4도어 902L 푸드쇼케이스 에센셜 화이트 RM70F90M1ZD 리뷰', url: '/posts/samsung-bespoke-ai-4-door-refrigerator-rm70f90m1zd-review.html' },
+    { slug: 'busan-gamcheon-culture-village-guide-saha-little-prince-stamp-map', title: '🏘️ 부산 사하구 감천문화마을 가이드: 어린왕자·스탬프 지도·방문시간 (Gamcheon Culture Village)', url: '/posts/busan-gamcheon-culture-village-guide-saha-little-prince-stamp-map.html' }
   ];
 
   function renderAdminToast(info, today, yesterday, openByDefault) {

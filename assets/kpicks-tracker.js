@@ -434,7 +434,9 @@
     { slug: 'samsung-bespoke-ai-4-door-refrigerator-rm70f90m1zd-review', title: '🧊 삼성 비스포크 AI 냉장고 4도어 902L 푸드쇼케이스 에센셜 화이트 RM70F90M1ZD 리뷰', url: '/posts/samsung-bespoke-ai-4-door-refrigerator-rm70f90m1zd-review.html' },
     { slug: 'busan-gamcheon-culture-village-guide-saha-little-prince-stamp-map', title: '🏘️ 부산 사하구 감천문화마을 가이드: 어린왕자·스탬프 지도·방문시간 (Gamcheon Culture Village)', url: '/posts/busan-gamcheon-culture-village-guide-saha-little-prince-stamp-map.html' },
     { slug: 'samsung-bespoke-kitchen-fit-kimchi-refrigerator-rq33db74c1ap-review', title: '🥬 삼성 비스포크 키친핏 김치냉장고 313L 3도어 1등급 코타화이트 RQ33DB74C1AP 리뷰', url: '/posts/samsung-bespoke-kitchen-fit-kimchi-refrigerator-rq33db74c1ap-review.html' },
-    { slug: 'seoul-bukchon-hanok-village-guide-jongno-red-zone-visiting-hours', title: '🏯 서울 종로 북촌한옥마을 가이드: 레드존 방문시간·과태료·전세버스 통행제한 (Bukchon Hanok Village)', url: '/posts/seoul-bukchon-hanok-village-guide-jongno-red-zone-visiting-hours.html' }
+    { slug: 'seoul-bukchon-hanok-village-guide-jongno-red-zone-visiting-hours', title: '🏯 서울 종로 북촌한옥마을 가이드: 레드존 방문시간·과태료·전세버스 통행제한 (Bukchon Hanok Village)', url: '/posts/seoul-bukchon-hanok-village-guide-jongno-red-zone-visiting-hours.html' },
+    { slug: 'samsung-bespoke-ai-water-purifier-rwp70f15-cold-hot-countertop-review', title: '💧 삼성 비스포크 AI 정수기 냉온정 직수 카운터탑 RWP70F15 (커피 브루잉) 리뷰', url: '/posts/samsung-bespoke-ai-water-purifier-rwp70f15-cold-hot-countertop-review.html' },
+    { slug: 'busan-taejongdae-guide-yeongdo-lighthouse-cliffs-shuttle-bus', title: '🌊 부산 영도 태종대 가이드: 영도등대·전망대·태종사·무료 순환버스 (Taejongdae)', url: '/posts/busan-taejongdae-guide-yeongdo-lighthouse-cliffs-shuttle-bus.html' }
   ];
 
   function renderAdminToast(info, today, yesterday, openByDefault) {

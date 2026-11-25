@@ -436,7 +436,9 @@
     { slug: 'samsung-bespoke-kitchen-fit-kimchi-refrigerator-rq33db74c1ap-review', title: '🥬 삼성 비스포크 키친핏 김치냉장고 313L 3도어 1등급 코타화이트 RQ33DB74C1AP 리뷰', url: '/posts/samsung-bespoke-kitchen-fit-kimchi-refrigerator-rq33db74c1ap-review.html' },
     { slug: 'seoul-bukchon-hanok-village-guide-jongno-red-zone-visiting-hours', title: '🏯 서울 종로 북촌한옥마을 가이드: 레드존 방문시간·과태료·전세버스 통행제한 (Bukchon Hanok Village)', url: '/posts/seoul-bukchon-hanok-village-guide-jongno-red-zone-visiting-hours.html' },
     { slug: 'samsung-bespoke-ai-water-purifier-rwp70f15-cold-hot-countertop-review', title: '💧 삼성 비스포크 AI 정수기 냉온정 직수 카운터탑 RWP70F15 (커피 브루잉) 리뷰', url: '/posts/samsung-bespoke-ai-water-purifier-rwp70f15-cold-hot-countertop-review.html' },
-    { slug: 'busan-taejongdae-guide-yeongdo-lighthouse-cliffs-shuttle-bus', title: '🌊 부산 영도 태종대 가이드: 영도등대·전망대·태종사·무료 순환버스 (Taejongdae)', url: '/posts/busan-taejongdae-guide-yeongdo-lighthouse-cliffs-shuttle-bus.html' }
+    { slug: 'busan-taejongdae-guide-yeongdo-lighthouse-cliffs-shuttle-bus', title: '🌊 부산 영도 태종대 가이드: 영도등대·전망대·태종사·무료 순환버스 (Taejongdae)', url: '/posts/busan-taejongdae-guide-yeongdo-lighthouse-cliffs-shuttle-bus.html' },
+    { slug: 'bullsone-ez-clean-tpe-car-mat-review', title: '🚗 불스원 EZ클린 TPE 카매트 (차량용 주문제작 발매트) 리뷰', url: '/posts/bullsone-ez-clean-tpe-car-mat-review.html' },
+    { slug: 'busan-igidae-coastal-trail-guide-oryukdo-skywalk-nam-gu', title: '🌊 부산 남구 이기대 해안산책로 가이드: 동생말·구름다리·오륙도 스카이워크 (Igidae)', url: '/posts/busan-igidae-coastal-trail-guide-oryukdo-skywalk-nam-gu.html' }
   ];
 
   function renderAdminToast(info, today, yesterday, openByDefault) {

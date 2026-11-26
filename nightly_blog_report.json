@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "posts": [
     {
       "n": 1,
@@ -7,7 +7,7 @@
       "category": "K-Beauty (B2B + Amazon)",
       "skipped": true,
       "reason": "no material",
-      "detail": "no material — no unused single K-beauty COSMETIC (skincare/makeup) in Drive '네이버 쇼핑커넥트' (folder list re-checked 2026-11-26 00:00 KST: date folders 2026-09-10…2026-10-27 only, no new folders since 2026-10-27; the only cosmetic in 2026-10-27 is Centellian24 Madeca Cream Time Reverse Zero, already published; #22 EOA RF device is a beauty device, forbidden) or /workspace/shorts/clips (no new folders since 2026-11-23; all cosmetic clips already published); beauty devices are forbidden, so no substitute"
+      "detail": "no material — no unused single K-beauty COSMETIC (skincare/makeup) in Drive '네이버 쇼핑커넥트' (folder list re-checked 2026-11-27 00:05 KST: date folders 2026-09-10…2026-10-27 only, no new folders since 2026-10-27; the only cosmetic in 2026-10-27 is Centellian24 Madeca Cream Time Reverse Zero, already published; #22 EOA RF device is a beauty device, forbidden) or /workspace/shorts/clips (no new folders since 2026-11-23; all cosmetic clips already published); beauty devices are forbidden, so no substitute"
     },
     {
       "n": 2,
@@ -15,38 +15,38 @@
       "category": "✨ K-Beauty",
       "skipped": true,
       "reason": "no material",
-      "detail": "skipped together with post 1 (same cosmetic required): no material — no unused single K-beauty COSMETIC (skincare/makeup) in Drive '네이버 쇼핑커넥트' (folder list re-checked 2026-11-26 00:00 KST: date folders 2026-09-10…2026-10-27 only, no new folders since 2026-10-27; the only cosmetic in 2026-10-27 is Centellian24 Madeca Cream Time Reverse Zero, already published; #22 EOA RF device is a beauty device, forbidden) or /workspace/shorts/clips (no new folders since 2026-11-23; all cosmetic clips already published); beauty devices are forbidden, so no substitute"
+      "detail": "skipped together with post 1 (same cosmetic required): no material — no unused single K-beauty COSMETIC (skincare/makeup) in Drive '네이버 쇼핑커넥트' (folder list re-checked 2026-11-27 00:05 KST: date folders 2026-09-10…2026-10-27 only, no new folders since 2026-10-27; the only cosmetic in 2026-10-27 is Centellian24 Madeca Cream Time Reverse Zero, already published; #22 EOA RF device is a beauty device, forbidden) or /workspace/shorts/clips (no new folders since 2026-11-23; all cosmetic clips already published); beauty devices are forbidden, so no substitute"
     },
     {
       "n": 3,
       "site": "koreapicks.co.kr",
       "category": "🏠 Tech & Gear",
-      "title": "Bullsone EZ Clean TPE Car Mat Review: Light, Easy-Clean Custom Floor Mats",
-      "slug": "bullsone-ez-clean-tpe-car-mat-review",
-      "live_url": "https://koreapicks.co.kr/posts/bullsone-ez-clean-tpe-car-mat-review.html",
+      "title": "Basics Basicbook14 Review: Korea's Budget 14-Inch Windows 11 Laptop",
+      "slug": "basics-basicbook14-n95-14-inch-laptop-review",
+      "live_url": "https://koreapicks.co.kr/posts/basics-basicbook14-n95-14-inch-laptop-review.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/14Pi-9Bsv8vRYsVL3yNvkDlw-DHjYAxkt",
-      "drive_english_folder_url": "https://drive.google.com/drive/folders/1yXtcoDWZ_jeAaKPd2oqbcJ77VVoElP7_",
-      "comments_seeded": 3,
-      "amazon_link": "https://www.amazon.com/s?k=Custom+Fit+TPE+Car+Floor+Mats&tag=dctrade-20",
+      "drive_folder_url": "https://drive.google.com/drive/folders/1cHLD6aSBNBMT3c1VjyoTJgExi5tc2j1S",
+      "drive_english_folder_url": "https://drive.google.com/drive/folders/1350VUf6wlUSo5YjCcy0cAL5fSL4h9_Lj",
+      "comments_seeded": 4,
+      "amazon_link": "https://www.amazon.com/s?k=14+inch+Windows+11+Laptop+Intel+N95+8GB+256GB&tag=dctrade-20",
       "travel_links": [],
       "indexing": "pending_browser — Search Console \"Request indexing\" needs browser (not done)"
     },
     {
       "n": 4,
       "site": "koreapicks.co.kr",
-      "category": "Travel (Busan)",
-      "title": "Igidae Coastal Trail Busan Guide: Cliff Walk to Oryukdo Skywalk",
-      "slug": "busan-igidae-coastal-trail-guide-oryukdo-skywalk-nam-gu",
-      "live_url": "https://koreapicks.co.kr/posts/busan-igidae-coastal-trail-guide-oryukdo-skywalk-nam-gu.html",
+      "category": "Travel (Seoul)",
+      "title": "Deoksugung Palace Seoul Guide: Seokjojeon, Guard Ceremony and Night Visits",
+      "slug": "seoul-deoksugung-palace-guide-seokjojeon-guard-ceremony-jung-gu",
+      "live_url": "https://koreapicks.co.kr/posts/seoul-deoksugung-palace-guide-seokjojeon-guard-ceremony-jung-gu.html",
       "http_status": 200,
-      "drive_folder_url": "https://drive.google.com/drive/folders/1u6IpZ86VrLVyD5UbzOvBi8Mmg_XelMp9",
-      "drive_english_folder_url": "https://drive.google.com/drive/folders/1iLKuM57CCjVY20ErW6AzjXiLb7ghvMaI",
-      "comments_seeded": 2,
+      "drive_folder_url": "https://drive.google.com/drive/folders/1J2aZTMlURrVg0WFd3aq161yjsePyvgcA",
+      "drive_english_folder_url": "https://drive.google.com/drive/folders/14clwj0rmq-zD2obPRhCk9VNkbUilQu1t",
+      "comments_seeded": 3,
       "amazon_link": null,
       "travel_links": [
-        "<a href=\"https://tp.media/r?marker=795736&amp;p=4110&amp;u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DBusan%2Btours\" data-klook-link=\"true\" target=\"_blank\" class=\"btn btn-klook btn-sm\" rel=\"sponsored noopener\">🎫 Busan tours &amp; activities on Klook</a>",
-        "<a href=\"https://tp.media/r?marker=795736&amp;p=4114&amp;u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DGwangalli%2BBusan\" data-trip-link=\"true\" target=\"_blank\" class=\"btn btn-trip btn-sm\" rel=\"sponsored noopener\">🏨 Hotels near Gwangalli Beach on Trip.com</a>",
+        "<a href=\"https://tp.media/r?marker=795736&amp;p=4110&amp;u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DSeoul%2Bpalace%2Btours\" data-klook-link=\"true\" target=\"_blank\" class=\"btn btn-klook btn-sm\" rel=\"sponsored noopener\">🎫 Seoul palace tours &amp; hanbok rental on Klook</a>",
+        "<a href=\"https://tp.media/r?marker=795736&amp;p=4114&amp;u=https%3A%2F%2Fwww.trip.com%2Fhotels%2Flist%3Fkeyword%3DCity%2BHall%2BSeoul\" data-trip-link=\"true\" target=\"_blank\" class=\"btn btn-trip btn-sm\" rel=\"sponsored noopener\">🏨 Hotels near Seoul City Hall on Trip.com</a>",
         "<a href=\"https://tp.media/r?marker=795736&amp;p=4110&amp;u=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2Fresult%2F%3Fquery%3DKorea%2BeSIM\" data-klook-link=\"true\" target=\"_blank\" class=\"btn btn-klook btn-sm\" rel=\"sponsored noopener\">📶 Korea eSIM &amp; Airport Transfers on Klook</a>"
       ],
       "indexing": "pending_browser — Search Console \"Request indexing\" needs browser (not done)"
@@ -54,23 +54,23 @@
   ],
   "git": {
     "duckcheon_korea": "no change (post 1 skipped)",
-    "korea_picks_origin": "b13d710",
-    "intid85_github_io_root": "3563aea (cherry-pick onto root/main)"
+    "korea_picks_origin": "aa0a89d",
+    "intid85_github_io_root": "b9b9818 (cherry-pick onto root/main)"
   },
   "errors": [
     "Posts 1-2 skipped: no unused K-beauty cosmetic material. New cosmetic product folders in Drive '네이버 쇼핑커넥트' are needed to resume posts 1-2.",
-    "Drive connector binary download (download_file / download_file_content) again returned truncated data (6.6 KB) for the Bullsone car mat Drive photos, so Bullsone's official store gallery images of the same product were used instead.",
-    "Drive Seoul/Busan travel topics are exhausted, so post 4 used the KTO TourAPI fallback (Busan Igidae); a new Drive folder 이기대_2026-11-26 was created under 여행 글쓰기/부산광역시/남구 to hold the 영문블로그 files.",
+    "Drive connector binary download (download_file) again returned truncated data (6.6 KB) for the Basicbook14 Drive photos, so photo areas cropped from Basics' official store product detail images of the same product were used instead.",
+    "Drive Seoul/Busan travel topics are exhausted, so post 4 used the KTO TourAPI fallback (Seoul Deoksugung); a new Drive folder 덕수궁_2026-11-27 was created under 여행 글쓰기/서울특별시/중구 to hold the 영문블로그 files.",
     "Drive 요약.md uploads were auto-converted to Google Docs by the connector (content intact)."
   ],
   "notes": [
-    "Post 3: Bullsone EZ Clean TPE car mat, black (Drive 쇼핑커넥트 2026-10-27/24_[불스원] EZ클린 TPE 카매트; Bullsone공식몰 94,000원). Photos: 5 official Bullsone mall gallery images (bullsonemall.com product 7855), 750x750, unmodified, no crop/blur/mosaic. Specs/claims from Bullsone product page detail images and product notice (TPE non-PVC, pyramid pattern + Water Way patent 10-2924350, 3.50 kg vs PVC coil 4.70 kg, 99.7% sand removal, eco-label, KOTITI HCl test, launch 2025-03-14, made in Korea); Bullsone mall rating 4.7 (3,000+). Amazon search link (CTA + index card) with tag=dctrade-20 since the Korean product is not on US Amazon.",
-    "Post 4: Igidae Coastal Trail, Nam-gu, Busan (KTO-photo fallback; not previously covered). 5 KTO TourAPI photos of content 1945309 (3496802, 3496818, 3496813, 4096310, 4096306), KOGL Type 1, attributed, unmodified. Facts from KTO TourAPI (1945309, 3008212), Visit Busan Igidae Coastal Trail page, Busan Geopark Igidae page, Nam-gu Office tourism / Nam-gu Facilities Management Corporation (Oryukdo Skywalk hours). 0 amazon.com / 0 tag=dctrade-20; 6 Travelpayouts 795736 links (Klook Busan tours, Trip.com Gwangalli hotels, Klook Korea eSIM, x2 each) + 1 Klook index card link, rel sponsored noopener.",
+    "Post 3: Basics Basicbook14 Win11 8GB/256GB, Intel N95 (Drive 쇼핑커넥트 2026-10-27/21_베이직스 베이직북14; 베이직스 스토어 598,000원, list 959,000원). Photos: 5 photo areas cropped from Basics official store (basic-s.com product 391) detail images, no blur/mosaic, photo-only crops (no text overlays). Specs from the official product notice (N95 4C/4T up to 3.4GHz, 14.1\" anti-glare IPS FHD, 8GB/256GB, Win11 Home, ports, Wi-Fi 5/BT 4.2, 38Wh, 12V 3A charger, 1.4 kg, made by Shenzhen NST, China; sold by Basics Co., Ltd.), FAQ (45W 12V PD for USB-C charging, box contents, no MS Office, KakaoTalk courier A/S), 1-year warranty; 31.6% CPU claim is Basics'. Naver rating ~4.8 (14,000+). Amazon search link (CTA + index card) with tag=dctrade-20 since not on US Amazon.",
+    "Post 4: Deoksugung Palace, Jung-gu, Seoul (KTO-photo fallback; not previously covered — only mentioned in passing in the Sungnyemun guide). 5 KTO TourAPI photos of content 126509 (3584645, 3584639, 3584655, 3584653, 4111231), KOGL Type 1, attributed, unmodified. Facts from KTO TourAPI (detailCommon2/detailIntro2 126509), Korea Heritage Service Deoksugung visitor info (hours, fees, palace pass, Seokjojeon booking) and Royal Palaces and Tombs Center notices. 0 amazon.com / 0 tag=dctrade-20; 6 Travelpayouts 795736 links (Klook Seoul palace tours, Trip.com City Hall hotels, Klook Korea eSIM, x2 each) + 1 Klook index card link, rel sponsored noopener.",
     "Amazon/Travelpayouts links verified by regex on HTML only; never fetched. HTTP 200 checked only on own koreapicks.co.kr URLs (posts, homepage, hero images).",
-    "seo_upgrade_helper.upgrade_html_file run on 2 new files: unchanged (SEO already present). validate OK; JSON-LD parses; sitemap parses; kpicks-tracker node --check OK; index All count 76→78; homepage has no Factory Map link.",
-    "Comments seeded 3/2 in Supabase zaahvfqfwtcpfvmuiics public.dctrade_blog_comments (continuing 4→3→2 cycle after 2/4 on 11-25), ratings 5/4/5 and 5/4.",
-    "Drive 영문블로그 subfolders created with HTML + 요약.md (car mat: under 2026-10-27/24_…; Igidae: under 여행 글쓰기/부산광역시/남구/이기대_2026-11-26).",
-    "Remaining unused non-cosmetic Shopping Connect candidates in 2026-10-27: 21 Basics Basicbook14 (3 photos), 25 Neckpeel MDM-3577, 27 Airnep nebulizer (13 beige Bespoke fridge = duplicate of #10, skip; 03 Roborock only 1 photo; 14 Dr.PS supplement, 26 SOYJOY, 18 dumplings, 01/15 Hanwoo beef and 20 Bullsone fuel additive are food/supplement/consumable items not used so far). Seoul/Busan Drive travel topics exhausted; continue with KTO-photo fallback (e.g. Huinnyeoul Culture Village 2684712 and Songdo Cable Car 2504464 have KTO photos)."
+    "seo_upgrade_helper.upgrade_html_file run on 2 new files: unchanged (SEO already present). validate OK; JSON-LD parses; sitemap parses; kpicks-tracker node --check OK; index All count 78→80; homepage has no Factory Map link.",
+    "Comments seeded 4/3 in Supabase zaahvfqfwtcpfvmuiics public.dctrade_blog_comments (continuing 4→3→2 cycle after 3/2 on 11-26), ratings 5/4/5/4 and 5/4/5.",
+    "Drive 영문블로그 subfolders created with HTML + 요약.md (Basicbook14: under 2026-10-27/21_…; Deoksugung: under 여행 글쓰기/서울특별시/중구/덕수궁_2026-11-27).",
+    "Remaining unused non-cosmetic Shopping Connect candidates in 2026-10-27: 25 Neckpeel MDM-3577, 27 Airnep nebulizer (13 beige Bespoke fridge = duplicate of #10, skip; 03 Roborock only 1 photo; 14 Dr.PS supplement, 26 SOYJOY, 18 dumplings, 01/15 Hanwoo beef and 20 Bullsone fuel additive are food/supplement/consumable items not used so far). Seoul/Busan Drive travel topics exhausted; continue with KTO-photo fallback (e.g. Busan Huinnyeoul Culture Village 2684712, Songdo Cable Car 2504464, Seoul Seonyudo Park 2661405, Dream Forest 822384 have KTO photos)."
   ],
   "indexing_blocker": "Search Console requires a browser; 2 URLs still need Request indexing (indexing=pending_browser)."
 }

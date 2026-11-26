@@ -438,7 +438,9 @@
     { slug: 'samsung-bespoke-ai-water-purifier-rwp70f15-cold-hot-countertop-review', title: '💧 삼성 비스포크 AI 정수기 냉온정 직수 카운터탑 RWP70F15 (커피 브루잉) 리뷰', url: '/posts/samsung-bespoke-ai-water-purifier-rwp70f15-cold-hot-countertop-review.html' },
     { slug: 'busan-taejongdae-guide-yeongdo-lighthouse-cliffs-shuttle-bus', title: '🌊 부산 영도 태종대 가이드: 영도등대·전망대·태종사·무료 순환버스 (Taejongdae)', url: '/posts/busan-taejongdae-guide-yeongdo-lighthouse-cliffs-shuttle-bus.html' },
     { slug: 'bullsone-ez-clean-tpe-car-mat-review', title: '🚗 불스원 EZ클린 TPE 카매트 (차량용 주문제작 발매트) 리뷰', url: '/posts/bullsone-ez-clean-tpe-car-mat-review.html' },
-    { slug: 'busan-igidae-coastal-trail-guide-oryukdo-skywalk-nam-gu', title: '🌊 부산 남구 이기대 해안산책로 가이드: 동생말·구름다리·오륙도 스카이워크 (Igidae)', url: '/posts/busan-igidae-coastal-trail-guide-oryukdo-skywalk-nam-gu.html' }
+    { slug: 'busan-igidae-coastal-trail-guide-oryukdo-skywalk-nam-gu', title: '🌊 부산 남구 이기대 해안산책로 가이드: 동생말·구름다리·오륙도 스카이워크 (Igidae)', url: '/posts/busan-igidae-coastal-trail-guide-oryukdo-skywalk-nam-gu.html' },
+    { slug: 'basics-basicbook14-n95-14-inch-laptop-review', title: '💻 베이직스 베이직북14 (14인치 사무용·인강용 노트북 N95 8GB/256GB) 리뷰', url: '/posts/basics-basicbook14-n95-14-inch-laptop-review.html' },
+    { slug: 'seoul-deoksugung-palace-guide-seokjojeon-guard-ceremony-jung-gu', title: '🏯 서울 중구 덕수궁 가이드: 석조전·정관헌·수문장 교대의식·야간관람 (Deoksugung)', url: '/posts/seoul-deoksugung-palace-guide-seokjojeon-guard-ceremony-jung-gu.html' }
   ];
 
   function renderAdminToast(info, today, yesterday, openByDefault) {

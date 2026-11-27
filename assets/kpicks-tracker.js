@@ -440,7 +440,9 @@
     { slug: 'bullsone-ez-clean-tpe-car-mat-review', title: '🚗 불스원 EZ클린 TPE 카매트 (차량용 주문제작 발매트) 리뷰', url: '/posts/bullsone-ez-clean-tpe-car-mat-review.html' },
     { slug: 'busan-igidae-coastal-trail-guide-oryukdo-skywalk-nam-gu', title: '🌊 부산 남구 이기대 해안산책로 가이드: 동생말·구름다리·오륙도 스카이워크 (Igidae)', url: '/posts/busan-igidae-coastal-trail-guide-oryukdo-skywalk-nam-gu.html' },
     { slug: 'basics-basicbook14-n95-14-inch-laptop-review', title: '💻 베이직스 베이직북14 (14인치 사무용·인강용 노트북 N95 8GB/256GB) 리뷰', url: '/posts/basics-basicbook14-n95-14-inch-laptop-review.html' },
-    { slug: 'seoul-deoksugung-palace-guide-seokjojeon-guard-ceremony-jung-gu', title: '🏯 서울 중구 덕수궁 가이드: 석조전·정관헌·수문장 교대의식·야간관람 (Deoksugung)', url: '/posts/seoul-deoksugung-palace-guide-seokjojeon-guard-ceremony-jung-gu.html' }
+    { slug: 'seoul-deoksugung-palace-guide-seokjojeon-guard-ceremony-jung-gu', title: '🏯 서울 중구 덕수궁 가이드: 석조전·정관헌·수문장 교대의식·야간관람 (Deoksugung)', url: '/posts/seoul-deoksugung-palace-guide-seokjojeon-guard-ceremony-jung-gu.html' },
+    { slug: 'mediness-neckpeel-mdm-3577-electric-neck-traction-device-review', title: '🦒 메디니스 넥필 MDM-3577 (거북목·목견인기 전동식 정형용 견인장치) 리뷰', url: '/posts/mediness-neckpeel-mdm-3577-electric-neck-traction-device-review.html' },
+    { slug: 'busan-huinnyeoul-culture-village-guide-yeongdo-coastal-walk', title: '🌊 부산 영도 흰여울문화마을 가이드: 흰여울길·절영해안산책로·해안터널 (Huinnyeoul)', url: '/posts/busan-huinnyeoul-culture-village-guide-yeongdo-coastal-walk.html' }
   ];
 
   function renderAdminToast(info, today, yesterday, openByDefault) {

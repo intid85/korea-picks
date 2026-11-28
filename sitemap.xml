@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://koreapicks.co.kr/</loc>
-    <lastmod>2026-11-28</lastmod>
+    <lastmod>2026-11-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -580,6 +580,18 @@
   <url>
     <loc>https://koreapicks.co.kr/posts/busan-huinnyeoul-culture-village-guide-yeongdo-coastal-walk.html</loc>
     <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://koreapicks.co.kr/posts/airneb-silent-pro-portable-mesh-nebulizer-review.html</loc>
+    <lastmod>2026-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://koreapicks.co.kr/posts/seoul-seonyudo-park-guide-han-river-eco-garden-yeongdeungpo.html</loc>
+    <lastmod>2026-11-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>

@@ -442,7 +442,9 @@
     { slug: 'basics-basicbook14-n95-14-inch-laptop-review', title: '💻 베이직스 베이직북14 (14인치 사무용·인강용 노트북 N95 8GB/256GB) 리뷰', url: '/posts/basics-basicbook14-n95-14-inch-laptop-review.html' },
     { slug: 'seoul-deoksugung-palace-guide-seokjojeon-guard-ceremony-jung-gu', title: '🏯 서울 중구 덕수궁 가이드: 석조전·정관헌·수문장 교대의식·야간관람 (Deoksugung)', url: '/posts/seoul-deoksugung-palace-guide-seokjojeon-guard-ceremony-jung-gu.html' },
     { slug: 'mediness-neckpeel-mdm-3577-electric-neck-traction-device-review', title: '🦒 메디니스 넥필 MDM-3577 (거북목·목견인기 전동식 정형용 견인장치) 리뷰', url: '/posts/mediness-neckpeel-mdm-3577-electric-neck-traction-device-review.html' },
-    { slug: 'busan-huinnyeoul-culture-village-guide-yeongdo-coastal-walk', title: '🌊 부산 영도 흰여울문화마을 가이드: 흰여울길·절영해안산책로·해안터널 (Huinnyeoul)', url: '/posts/busan-huinnyeoul-culture-village-guide-yeongdo-coastal-walk.html' }
+    { slug: 'busan-huinnyeoul-culture-village-guide-yeongdo-coastal-walk', title: '🌊 부산 영도 흰여울문화마을 가이드: 흰여울길·절영해안산책로·해안터널 (Huinnyeoul)', url: '/posts/busan-huinnyeoul-culture-village-guide-yeongdo-coastal-walk.html' },
+    { slug: 'airneb-silent-pro-portable-mesh-nebulizer-review', title: '💨 에어넵 사일런트 프로 휴대용 메쉬 네블라이저 (NC200) 리뷰', url: '/posts/airneb-silent-pro-portable-mesh-nebulizer-review.html' },
+    { slug: 'seoul-seonyudo-park-guide-han-river-eco-garden-yeongdeungpo', title: '🌿 서울 선유도공원 가이드: 녹색기둥의 정원·수생식물원·선유교 (Seonyudo Park)', url: '/posts/seoul-seonyudo-park-guide-han-river-eco-garden-yeongdeungpo.html' }
   ];
 
   function renderAdminToast(info, today, yesterday, openByDefault) {
